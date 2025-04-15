@@ -25,7 +25,7 @@ INSERT INTO wine_derivative_type (name) VALUES
 
 
 -- 4. Insert into Grape Type table (Inserção na tabela de Tipo de Uva)
-INSERT INTO grape_type (grape_type_name) VALUES
+INSERT INTO grape_type (name) VALUES
 ('Vitis vinifera'),
 ('Vitis labrusca'),
 ('Vitis bourquina'),
