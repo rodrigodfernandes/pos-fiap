@@ -1,0 +1,40 @@
+# Important Notice
+#
+# This file is managed by Tompero’s indexing process.
+# Manual changes to the managed fields won’t take effect and will be overwritted by Tompero.
+#
+# Tompero will also push commits directly to this file when needed
+# without previous Notice.
+# Currently, the fields managed by Tompero are the following:
+# * requiredForDR
+
+apiVersion: ifood/v2.1
+kind: Repository
+tags:
+  - service
+spec:
+  contents:
+    - name: mobius
+      description: Mobius API Monitoring monitors at Datadog API
+      type: service
+      subType:
+        - api
+      network:
+        visibility: internal
+      impactLevel: 3
+      links:
+        - title: Mobius Doc
+          type: docs
+          href: >-
+            https://code.ifoodcorp.com.br/ifood/database/observability/mobius/-/blob/main/README.md
+      deployment:
+        type: k8s_helm
+        chefRole: ''
+      certifications:
+        - name: IRC-LOG
+          version: NOT_APPLICABLE
+        - name: IRC-FAIL
+          version: v1.0
+        - name: IRC-DTB
+          version: v1.0
+      ownerLayerSlug: data-store-ops

@@ -1,0 +1,97 @@
+databaseChangeLog:
+  - changeSet:
+      id: pre-migration
+      author: rodrigo.fernandes
+      runAlways: true
+      sqlFile:
+        path: sql/pre-migration.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: init-data
+      author: rodrigo.fernandes
+      contextFilter: local_dev
+      runOrder: last
+      sqlFile:
+        path: sql/init-data.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 1
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0001-create-table-color.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0001-drop-table-color.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 2
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0002-create-table-kind.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0002-drop-table-kind.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 3
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0003-create-table-product.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0003-drop-table-product.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 4
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0004-create-table-process.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0004-drop-table-process.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 5
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0005-create-table-wine-derivative-type.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0005-drop-table-wine-derivative-type.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 6
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0006-create-table-sales.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0006-drop-table-sales.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 7
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0007-create-table-grape-type.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0007-drop-table-grape-type.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 8
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0008-create-table-import.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0008-drop-table-import.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 9
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0009-create-table-export.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0009-drop-table-export.sql
+        relativeToChangelogFile: true        

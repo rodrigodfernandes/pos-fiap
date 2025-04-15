@@ -1,0 +1,1 @@
+ALTER TABLE wine_derivative_type RENAME TO dropped_wine_derivative_type;
