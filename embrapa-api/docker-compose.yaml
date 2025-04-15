@@ -1,0 +1,90 @@
+version: '3.9'
+
+# volumes:
+#   postgres-embrapa-data:
+
+services:
+  embrapa-db:
+    container_name: embrapa-db
+    image: postgres:16.8-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: fiap-embrapa
+    volumes:
+      # - postgres-embrapa-data:/var/lib/postgresql/data
+      - ./migrations/local/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: pg_isready -U postgres -d postgres
+      interval: 5s
+      timeout: 5s
+      retries: 15
+      start_period: 30s
+    networks:
+      - embrapa-net
+
+  pgbouncer:
+    image: bitnami/pgbouncer
+    environment:
+      POSTGRESQL_USERNAME: fiap-embrapa-app
+      POSTGRESQL_PASSWORD: fiap-embrapa-app
+      POSTGRESQL_DATABASE: fiap-embrapa
+      PGBOUNCER_DATABASE: fiap-embrapa
+      PGBOUNCER_POOL_MODE: transaction
+      PGBOUNCER_IGNORE_STARTUP_PARAMETERS: extra_float_digits
+      POSTGRESQL_HOST: embrapa-db
+    ports:
+      - "6432:6432"
+    depends_on:
+      embrapa-db:
+        condition: service_healthy
+    networks:
+      - embrapa-net
+
+  embrapa-migrations:
+    image: liquibase/liquibase:4.19.0
+    container_name: embrapa-migrations
+    depends_on:
+      embrapa-db:
+        condition: service_healthy
+      pgbouncer:
+        condition: service_started
+    volumes:
+      - ./migrations:/liquibase/changelog/
+    command: --defaults-file=/liquibase/changelog/liquibase.properties update
+    networks:
+      - embrapa-net
+
+  embrapa-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: embrapa-api
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - DB_HOST=pgbouncer
+      - DB_PORT=6432
+      - DB_USER=fiap-embrapa-app
+      - DB_PASSWORD=fiap-embrapa-app
+      - DB_NAME=fiap-embrapa
+      - SECRET_KEY=your-secret-key-here
+    volumes:
+      - ./src:/app/src
+    depends_on:
+      embrapa-db:
+        condition: service_healthy
+      pgbouncer:
+        condition: service_started
+      embrapa-migrations:
+        condition: service_completed_successfully
+    networks:
+      - embrapa-net
+
+networks:
+  embrapa-net:
+
+
