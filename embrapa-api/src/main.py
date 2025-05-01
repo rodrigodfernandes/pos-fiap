@@ -1,6 +1,13 @@
 import uvicorn
-from fastapi import FastAPI
+from fastapi import FastAPI, Depends, HTTPException, status, Request
 from fastapi.middleware.cors import CORSMiddleware
+# from fastapi.security import OAuth2PasswordRequestForm
+# from sqlalchemy import create_engine
+# from sqlalchemy.orm import sessionmaker
+# from src.core.auth.auth_handler import create_access_token
+# from src.core.auth.auth_bearer import JWTBearer
+# from passlib.context import CryptContext
+from src.api.routes import router
 
 app = FastAPI(
     title="Embrapa API",
@@ -17,13 +24,18 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/")
-async def root():
-    return {"message": "FIAP-Embrapa API"}
+app.include_router(router)
+# @app.get("/protected", dependencies=[Depends(JWTBearer())])
+# def protected_route(request: Request):
+#     user = request.state.user  # Recupera o usuário do estado da requisição
+#     return {"msg": f"Usuário {user} acessou a rota protegida"}
+# @app.get("/")
+# async def root():
+#     return {"message": "FIAP-Embrapa API"}
 
-@app.get("/health")
-async def health_check():
-    return {"status": "ok"}
+# @app.get("/health")
+# async def health_check():
+#     return {"status": "ok"}
 
 if __name__ == "__main__":
     uvicorn.run("src.main:app", host="0.0.0.0", port=8000, reload=True)
