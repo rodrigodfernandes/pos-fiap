@@ -2,6 +2,7 @@ from fastapi import Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer
 from src.core.auth.auth_handler import get_jwt_identity
 
+# Extrair o token do cabeçalho Authorization e injetar na variavel token
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="login")
 
 # Recupera o usuário atual via token
