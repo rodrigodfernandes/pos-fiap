@@ -1,4 +1,4 @@
-# version: '3.9'
+version: '3.9'
 
 # volumes:
 #   postgres-embrapa-data:
@@ -44,7 +44,6 @@ services:
       - embrapa-net
 
   embrapa-migrations:
-    platform: linux/amd64
     image: liquibase/liquibase:4.19.0
     container_name: embrapa-migrations
     depends_on:
@@ -54,8 +53,7 @@ services:
         condition: service_started
     volumes:
       - ./migrations:/liquibase/changelog/
-    # command: --defaults-file=/liquibase/changelog/liquibase.properties update
-    command: --defaults-file=/liquibase/changelog/liquibase.properties clearCheckSums && liquibase update
+    command: --defaults-file=/liquibase/changelog/liquibase.properties update
     networks:
       - embrapa-net
 
@@ -88,5 +86,3 @@ services:
 
 networks:
   embrapa-net:
-
-
