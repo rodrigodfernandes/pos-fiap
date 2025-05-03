@@ -74,6 +74,7 @@ services:
       - SECRET_KEY=your-secret-key-here
     volumes:
       - ./src:/app/src
+      - ./data:/app/data  # Volume para persistência de dados do site VitiBrasil da Embrapa
     depends_on:
       embrapa-db:
         condition: service_healthy
