@@ -3,6 +3,7 @@ import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from src.api.routes import router as api_router
+from prometheus_fastapi_instrumentator import Instrumentator
 
 # Garantir que os diretórios necessários existam
 os.makedirs("data/vitibrasil", exist_ok=True)
@@ -13,6 +14,9 @@ app = FastAPI(
     description="API REST para o projeto de pós-graduação FIAP-Embrapa",
     version="0.1.0"
 )
+
+# Initialize and expose metrics
+Instrumentator().instrument(app).expose(app)
 
 # Configurar CORS
 app.add_middleware(

@@ -5,6 +5,7 @@ WORKDIR /app
 # Criar diretórios para dados
 RUN mkdir -p /app/data/vitibrasil
 
+
 # Instalar dependências
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
