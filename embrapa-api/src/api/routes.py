@@ -1,5 +1,6 @@
 from fastapi import APIRouter
 from src.api.endpoints import scraper
+from src.api.endpoints import data
 
 # Criar um router principal que agregará todos os outros
 router = APIRouter()
@@ -10,3 +11,5 @@ router.include_router(
     prefix="/scraper",
     tags=["scraping"]
 )
+
+router.include_router(data.router, prefix="/data", tags=["data"])
