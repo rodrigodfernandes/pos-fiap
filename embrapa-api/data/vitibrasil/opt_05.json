@@ -1,0 +1,352 @@
+[
+    {
+        "Países":"Africa do Sul",
+        "Quantidade (Kg)":"658.238",
+        "Valor (US$)":"2.133.775"
+    },
+    {
+        "Países":"Alemanha",
+        "Quantidade (Kg)":"121.002",
+        "Valor (US$)":"805.466"
+    },
+    {
+        "Países":"Argélia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Arábia Saudita",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Argentina",
+        "Quantidade (Kg)":"26.272.478",
+        "Valor (US$)":"93.869.579"
+    },
+    {
+        "Países":"Armênia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Austrália",
+        "Quantidade (Kg)":"422.720",
+        "Valor (US$)":"1.437.842"
+    },
+    {
+        "Países":"Áustria",
+        "Quantidade (Kg)":"17.796",
+        "Valor (US$)":"104.965"
+    },
+    {
+        "Países":"Bermudas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Bélgica",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Bolívia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Bósnia-Herzegovina",
+        "Quantidade (Kg)":"4.883",
+        "Valor (US$)":"9.862"
+    },
+    {
+        "Países":"Brasil",
+        "Quantidade (Kg)":"71.637",
+        "Valor (US$)":"147.179"
+    },
+    {
+        "Países":"Bulgária",
+        "Quantidade (Kg)":"25.718",
+        "Valor (US$)":"62.739"
+    },
+    {
+        "Países":"Canada",
+        "Quantidade (Kg)":"203",
+        "Valor (US$)":"18.258"
+    },
+    {
+        "Países":"Chile",
+        "Quantidade (Kg)":"73.111.416",
+        "Valor (US$)":"199.874.777"
+    },
+    {
+        "Países":"China",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Coreia do Sul, República",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Croácia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Cuba",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Emirados Árabes Unidos",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Eslovênia",
+        "Quantidade (Kg)":"17.671",
+        "Valor (US$)":"61.546"
+    },
+    {
+        "Países":"Eslováquia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Espanha",
+        "Quantidade (Kg)":"6.828.739",
+        "Valor (US$)":"18.867.752"
+    },
+    {
+        "Países":"Estados Unidos",
+        "Quantidade (Kg)":"273.198",
+        "Valor (US$)":"1.919.231"
+    },
+    {
+        "Países":"França",
+        "Quantidade (Kg)":"4.700.023",
+        "Valor (US$)":"30.175.837"
+    },
+    {
+        "Países":"Geórgia",
+        "Quantidade (Kg)":"9.998",
+        "Valor (US$)":"15.541"
+    },
+    {
+        "Países":"Geórgia do Sul e Sandwich do Sul, Ilhas",
+        "Quantidade (Kg)":"2.937",
+        "Valor (US$)":"4.692"
+    },
+    {
+        "Países":"Grécia",
+        "Quantidade (Kg)":"41.071",
+        "Valor (US$)":"171.795"
+    },
+    {
+        "Países":"Hong Kong",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Hungria",
+        "Quantidade (Kg)":"27.820",
+        "Valor (US$)":"238.501"
+    },
+    {
+        "Países":"Indonésia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Irlanda",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Israel",
+        "Quantidade (Kg)":"37.533",
+        "Valor (US$)":"183.392"
+    },
+    {
+        "Países":"Itália",
+        "Quantidade (Kg)":"9.861.350",
+        "Valor (US$)":"39.485.660"
+    },
+    {
+        "Países":"Japão",
+        "Quantidade (Kg)":"411",
+        "Valor (US$)":"4.363"
+    },
+    {
+        "Países":"Iugoslávia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Líbano",
+        "Quantidade (Kg)":"8.730",
+        "Valor (US$)":"45.866"
+    },
+    {
+        "Países":"Luxemburgo",
+        "Quantidade (Kg)":"6",
+        "Valor (US$)":"59"
+    },
+    {
+        "Países":"Macedônia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Marrocos",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"México",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Moldávia",
+        "Quantidade (Kg)":"58.609",
+        "Valor (US$)":"158.610"
+    },
+    {
+        "Países":"Montenegro",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Noruega",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Nova Zelândia",
+        "Quantidade (Kg)":"39.629",
+        "Valor (US$)":"279.820"
+    },
+    {
+        "Países":"Países Baixos (Holanda)",
+        "Quantidade (Kg)":"810",
+        "Valor (US$)":"8.649"
+    },
+    {
+        "Países":"Panamá",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Paraguai",
+        "Quantidade (Kg)":"1",
+        "Valor (US$)":"21"
+    },
+    {
+        "Países":"Peru",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Porto Rico",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Portugal",
+        "Quantidade (Kg)":"27.460.645",
+        "Valor (US$)":"81.087.293"
+    },
+    {
+        "Países":"Reino Unido",
+        "Quantidade (Kg)":"680",
+        "Valor (US$)":"13.781"
+    },
+    {
+        "Países":"Republica Dominicana",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Romênia",
+        "Quantidade (Kg)":"24.660",
+        "Valor (US$)":"55.142"
+    },
+    {
+        "Países":"Rússia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"San Marino",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Sérvia",
+        "Quantidade (Kg)":"2.445",
+        "Valor (US$)":"4.140"
+    },
+    {
+        "Países":"Síria",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Suazilândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Suíça",
+        "Quantidade (Kg)":"541",
+        "Valor (US$)":"3.939"
+    },
+    {
+        "Países":"Tcheca, República",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Tunísia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Turquia",
+        "Quantidade (Kg)":"3.203",
+        "Valor (US$)":"4.997"
+    },
+    {
+        "Países":"Ucrânia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Uruguai",
+        "Quantidade (Kg)":"3.015.429",
+        "Valor (US$)":"9.827.906"
+    },
+    {
+        "Países":"Não consta na tabela",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Não declarados",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Outros",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-"
+    },
+    {
+        "Países":"Total",
+        "Quantidade (Kg)":"153.122.230",
+        "Valor (US$)":"481.082.975"
+    }
+]

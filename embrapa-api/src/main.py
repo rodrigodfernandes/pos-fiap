@@ -1,7 +1,12 @@
 import uvicorn
+import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from src.api.routes import router as api_router
+
+# Garantir que os diretórios necessários existam
+os.makedirs("data/vitibrasil", exist_ok=True)
+
 
 app = FastAPI(
     title="Embrapa API",
