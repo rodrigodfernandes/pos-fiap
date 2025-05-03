@@ -33,3 +33,5 @@ urllib3==2.4.0
 uvicorn==0.34.1
 pandas==2.2.3
 lxml==5.4.0
+prometheus_fastapi_instrumentator==7.1.0
+prometheus_client==0.21.1
