@@ -1,0 +1,562 @@
+[
+    {
+        "Cultivar":"TINTAS",
+        "Quantidade (Kg)":"35.881.118"
+    },
+    {
+        "Cultivar":"Alicante Bouschet",
+        "Quantidade (Kg)":"4.108.858"
+    },
+    {
+        "Cultivar":"Ancelota",
+        "Quantidade (Kg)":"783.688"
+    },
+    {
+        "Cultivar":"Aramon",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Alfrocheiro",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Arinarnoa",
+        "Quantidade (Kg)":"147.979"
+    },
+    {
+        "Cultivar":"Aspirant Bouschet",
+        "Quantidade (Kg)":"138.338"
+    },
+    {
+        "Cultivar":"Barbera",
+        "Quantidade (Kg)":"35.292"
+    },
+    {
+        "Cultivar":"Bonarda",
+        "Quantidade (Kg)":"7.800"
+    },
+    {
+        "Cultivar":"Cabernet Franc",
+        "Quantidade (Kg)":"2.152.213"
+    },
+    {
+        "Cultivar":"Cabernet Sauvignon",
+        "Quantidade (Kg)":"5.917.173"
+    },
+    {
+        "Cultivar":"Caladoc",
+        "Quantidade (Kg)":"8.310"
+    },
+    {
+        "Cultivar":"Campanario",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Canaiolo",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Carignan",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Carmenere",
+        "Quantidade (Kg)":"14.360"
+    },
+    {
+        "Cultivar":"Castelão",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Corvina",
+        "Quantidade (Kg)":"2.200"
+    },
+    {
+        "Cultivar":"Croatina",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Cinsaut",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Dom Felder",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Dolcetto",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Durif",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Egiodola",
+        "Quantidade (Kg)":"1.439.540"
+    },
+    {
+        "Cultivar":"Ekigaina",
+        "Quantidade (Kg)":"1.000"
+    },
+    {
+        "Cultivar":"Festival (Sugraone)",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Franconia",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Freisa",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Gamay St Romain",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Gamay Beaujolais",
+        "Quantidade (Kg)":"126.667"
+    },
+    {
+        "Cultivar":"Grand Noir",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Grenache",
+        "Quantidade (Kg)":"830"
+    },
+    {
+        "Cultivar":"Jaen",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Lagrein",
+        "Quantidade (Kg)":"3.100"
+    },
+    {
+        "Cultivar":"Lambrusco",
+        "Quantidade (Kg)":"15.620"
+    },
+    {
+        "Cultivar":"Malbec",
+        "Quantidade (Kg)":"584.141"
+    },
+    {
+        "Cultivar":"Marzemina",
+        "Quantidade (Kg)":"390"
+    },
+    {
+        "Cultivar":"Merlot",
+        "Quantidade (Kg)":"7.179.442"
+    },
+    {
+        "Cultivar":"Marselan",
+        "Quantidade (Kg)":"988.860"
+    },
+    {
+        "Cultivar":"Mistura de uvas viníferas tinto",
+        "Quantidade (Kg)":"700"
+    },
+    {
+        "Cultivar":"Molinera",
+        "Quantidade (Kg)":"2.600"
+    },
+    {
+        "Cultivar":"Montepulciano",
+        "Quantidade (Kg)":"42.503"
+    },
+    {
+        "Cultivar":"Moscato Bailey",
+        "Quantidade (Kg)":"170.188"
+    },
+    {
+        "Cultivar":"Napa Gamay",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Nebbiolo",
+        "Quantidade (Kg)":"26.788"
+    },
+    {
+        "Cultivar":"Petit Verdot",
+        "Quantidade (Kg)":"207.896"
+    },
+    {
+        "Cultivar":"Petite Sirah",
+        "Quantidade (Kg)":"173.887"
+    },
+    {
+        "Cultivar":"Pinotage",
+        "Quantidade (Kg)":"397.456"
+    },
+    {
+        "Cultivar":"Pinot Noir",
+        "Quantidade (Kg)":"4.182.135"
+    },
+    {
+        "Cultivar":"Pinot Saint George",
+        "Quantidade (Kg)":"5.060"
+    },
+    {
+        "Cultivar":"Piriquita",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Primitivo",
+        "Quantidade (Kg)":"1.650"
+    },
+    {
+        "Cultivar":"Rebo",
+        "Quantidade (Kg)":"330.784"
+    },
+    {
+        "Cultivar":"Refosco",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Rondinella",
+        "Quantidade (Kg)":"5.280"
+    },
+    {
+        "Cultivar":"Ruby Cabernet",
+        "Quantidade (Kg)":"163.069"
+    },
+    {
+        "Cultivar":"Sangiovese",
+        "Quantidade (Kg)":"92.540"
+    },
+    {
+        "Cultivar":"Saperavi",
+        "Quantidade (Kg)":"13.323"
+    },
+    {
+        "Cultivar":"Sira (falsa)",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Tannat",
+        "Quantidade (Kg)":"5.712.207"
+    },
+    {
+        "Cultivar":"Tempranillo",
+        "Quantidade (Kg)":"375.165"
+    },
+    {
+        "Cultivar":"Teroldego",
+        "Quantidade (Kg)":"123.714"
+    },
+    {
+        "Cultivar":"Torrontes",
+        "Quantidade (Kg)":"23.500"
+    },
+    {
+        "Cultivar":"Tinta Barroca",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Tinta Roriz",
+        "Quantidade (Kg)":"3.006"
+    },
+    {
+        "Cultivar":"Touriga Francesa",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Touriga Nacional",
+        "Quantidade (Kg)":"171.866"
+    },
+    {
+        "Cultivar":"Tinta Madeira",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Tintoria",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Trincdeira",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Trousseau",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Zinfandel",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Outras1",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"BRANCAS E ROSADAS",
+        "Quantidade (Kg)":"63.676.298"
+    },
+    {
+        "Cultivar":"Aliatico",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Aligote",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Altesse",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Alvarinho",
+        "Quantidade (Kg)":"150.467"
+    },
+    {
+        "Cultivar":"Arriloba",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Auxerrois",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Burger",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Chardonnay",
+        "Quantidade (Kg)":"8.315.602"
+    },
+    {
+        "Cultivar":"Chasselas",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Chenin Blanc",
+        "Quantidade (Kg)":"298.406"
+    },
+    {
+        "Cultivar":"Clairette(1)",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Colombard",
+        "Quantidade (Kg)":"374.903"
+    },
+    {
+        "Cultivar":"Flora",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Garganega",
+        "Quantidade (Kg)":"400"
+    },
+    {
+        "Cultivar":"Gewurztraminer",
+        "Quantidade (Kg)":"239.070"
+    },
+    {
+        "Cultivar":"Gouveio",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Gros Manseng",
+        "Quantidade (Kg)":"4.510"
+    },
+    {
+        "Cultivar":"Italia (Pirovano 65) (PE)",
+        "Quantidade (Kg)":"10.350"
+    },
+    {
+        "Cultivar":"Maccabeo",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Malvasia",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Malvasia Amarela",
+        "Quantidade (Kg)":"67.467"
+    },
+    {
+        "Cultivar":"Malvasia Bianca",
+        "Quantidade (Kg)":"80.786"
+    },
+    {
+        "Cultivar":"Malvasia Chianti",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Malvasia Verde",
+        "Quantidade (Kg)":"46.510"
+    },
+    {
+        "Cultivar":"Malvasia di Candia",
+        "Quantidade (Kg)":"6.869.071"
+    },
+    {
+        "Cultivar":"Malvasia Istriana",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Mistura de uvas viníferas branco",
+        "Quantidade (Kg)":"41.078"
+    },
+    {
+        "Cultivar":"Mistura de uvas viníferas rosado",
+        "Quantidade (Kg)":"1.100"
+    },
+    {
+        "Cultivar":"Moscato Branco",
+        "Quantidade (Kg)":"20.657.082"
+    },
+    {
+        "Cultivar":"Moscato Canelli",
+        "Quantidade (Kg)":"351.555"
+    },
+    {
+        "Cultivar":"Moscato Giallo",
+        "Quantidade (Kg)":"3.111.774"
+    },
+    {
+        "Cultivar":"Moscato Nazareno",
+        "Quantidade (Kg)":"504.982"
+    },
+    {
+        "Cultivar":"Moscato Bianco R2",
+        "Quantidade (Kg)":"1.211.053"
+    },
+    {
+        "Cultivar":"Moscato de Alexandria",
+        "Quantidade (Kg)":"404.111"
+    },
+    {
+        "Cultivar":"Moscato Rosado",
+        "Quantidade (Kg)":"900"
+    },
+    {
+        "Cultivar":"Muscat à Petits Grains",
+        "Quantidade (Kg)":"6.000"
+    },
+    {
+        "Cultivar":"Muller Thurgau",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Muscadelle",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Ora",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Palomino",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Petit Manseng",
+        "Quantidade (Kg)":"3.915"
+    },
+    {
+        "Cultivar":"Peverella",
+        "Quantidade (Kg)":"45.898"
+    },
+    {
+        "Cultivar":"Pinot Blanc",
+        "Quantidade (Kg)":"1.310"
+    },
+    {
+        "Cultivar":"Pinot Gris",
+        "Quantidade (Kg)":"178.683"
+    },
+    {
+        "Cultivar":"Prosecco",
+        "Quantidade (Kg)":"7.856.146"
+    },
+    {
+        "Cultivar":"Red Veltliner",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Riesling Italico",
+        "Quantidade (Kg)":"4.642.666"
+    },
+    {
+        "Cultivar":"Riesling Renano",
+        "Quantidade (Kg)":"126.736"
+    },
+    {
+        "Cultivar":"Sauvignon Blanc(2)",
+        "Quantidade (Kg)":"818.122"
+    },
+    {
+        "Cultivar":"Sauvignon Gris",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Seara Nova",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Semillon",
+        "Quantidade (Kg)":"112.905"
+    },
+    {
+        "Cultivar":"Schonburger",
+        "Quantidade (Kg)":"12.687"
+    },
+    {
+        "Cultivar":"Sylvaner",
+        "Quantidade (Kg)":"2.342"
+    },
+    {
+        "Cultivar":"Tocai Friulano",
+        "Quantidade (Kg)":"6.150"
+    },
+    {
+        "Cultivar":"Trebbiano",
+        "Quantidade (Kg)":"5.954.818"
+    },
+    {
+        "Cultivar":"Trebbiano Toscano",
+        "Quantidade (Kg)":"139.845"
+    },
+    {
+        "Cultivar":"Verdea",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Verdelho",
+        "Quantidade (Kg)":"2.080"
+    },
+    {
+        "Cultivar":"Verdiso",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Vermentino",
+        "Quantidade (Kg)":"28.218"
+    },
+    {
+        "Cultivar":"Vernaccia",
+        "Quantidade (Kg)":"800"
+    },
+    {
+        "Cultivar":"Viogner",
+        "Quantidade (Kg)":"21.794"
+    },
+    {
+        "Cultivar":"Viognier",
+        "Quantidade (Kg)":"974.005"
+    },
+    {
+        "Cultivar":"Outras(3)",
+        "Quantidade (Kg)":"-"
+    },
+    {
+        "Cultivar":"Total",
+        "Quantidade (Kg)":"99.557.416"
+    }
+]
