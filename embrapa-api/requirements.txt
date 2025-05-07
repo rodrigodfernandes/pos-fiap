@@ -31,6 +31,9 @@ typing-inspection==0.4.0
 typing_extensions==4.13.2
 urllib3==2.4.0
 uvicorn==0.34.1
+python-jose
+pydantic-settings
+passlib
 pandas==2.2.3
 lxml==5.4.0
 prometheus_fastapi_instrumentator==7.1.0

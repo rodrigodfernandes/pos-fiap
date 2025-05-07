@@ -95,3 +95,12 @@ databaseChangeLog:
       rollback:
         path: sql/0009-drop-table-export.sql
         relativeToChangelogFile: true        
+  - changeSet:
+      id: 10
+      author: renan.melo
+      sqlFile:
+        path: sql/0010-create-table-user.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0010-drop-table-user.sql
+        relativeToChangelogFile: true

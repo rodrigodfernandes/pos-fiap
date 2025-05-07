@@ -33,9 +33,9 @@ app.include_router(api_router, prefix="/api")
 async def root():
     return {"message": "FIAP-Embrapa API"}
 
-@app.get("/health")
-async def health_check():
-    return {"status": "ok"}
+# @app.get("/health")
+# async def health_check():
+#     return {"status": "ok"}
 
 if __name__ == "__main__":
     uvicorn.run("src.main:app", host="0.0.0.0", port=8000, reload=True)
