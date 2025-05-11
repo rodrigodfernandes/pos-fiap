@@ -198,6 +198,8 @@ Para informações mais detalhadas sobre o uso do Podman, consulte o arquivo POD
 
 A API possui os seguintes endpoints básicos:
 
+* **Autenticação**: GET /api/auth \- Retorna o token da requisição após passar usuário e senha
+
 * **Raiz da API**: GET / \- Retorna uma mensagem de boas-vindas
 
 * **Verificação de Saúde**: GET /health \- Retorna o status da aplicação
@@ -210,13 +212,30 @@ Quando implementados, os endpoints específicos da aplicação estarão disponí
 
 ### **Endpoints Futuros**
 
-* **Autenticação**: /api/auth/\* \- Login, registro e gerenciamento de tokens
-
 * **Dados Agrícolas**: /api/data/\* \- Acesso aos dados coletados
 
 * **Análises**: /api/analysis/\* \- Endpoints para análises específicas
 
 ## **💻 Desenvolvimento**
+
+### **Autenticação**
+
+**1.** Como adicionar na função
+Para adicionar autenticação nas rotas criadas, basta adicionar **"current_user: str = Depends(get_current_user)"** na função que está dentro de endpoints, como no exemplo abaixo
+
+```python
+@router.get("/protected")
+def protected(current_user: str = Depends(get_current_user)):
+  return {"message": f"Olá, {current_user}. Você acessou uma rota protegida!"}
+```
+
+**2.** Como requisitar o token
+* **2.1.** Chamar o endpoint de autenticação /api/auth passando usuário e senha, por fins de teste pode ser usado, eles são gravados critografados na base
+ User: admin
+ Password: mudar123
+
+* **2.2.** A API de autenticação irá retornar um token, que deverá ser inserido na chamada da API que deseja utilizar, passando o token em Authorization / Bearer Token
+
 
 ### **Adicionando Novas Rotas**
 
