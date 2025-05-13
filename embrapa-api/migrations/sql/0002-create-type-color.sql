@@ -1,0 +1,1 @@
+CREATE TYPE color AS enum ('TINTA', 'BRANCA E ROSADA');

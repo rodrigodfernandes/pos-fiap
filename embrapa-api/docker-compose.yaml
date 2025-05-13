@@ -96,7 +96,7 @@ services:
     container_name: prometheus
     restart: always
     volumes:
-      - ${PWD}/monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - ./monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
       - prometheus_data:/prometheus
     command:
       - '--config.file=/etc/prometheus/prometheus.yml'
@@ -105,7 +105,7 @@ services:
       - '--web.console.templates=/etc/prometheus/consoles'
       - '--web.enable-lifecycle'
     ports:
-      - "9091:9090"  # Changed port to avoid conflict
+      - "9091:9090"  
     networks:
       - embrapa-net
 
@@ -114,11 +114,11 @@ services:
     container_name: loki
     restart: always
     volumes:
-      - ${PWD}/monitoring/loki/loki-config.yaml:/etc/loki/local-config.yaml
+      - ./monitoring/loki/loki-config.yaml:/etc/loki/local-config.yaml
       - loki_data:/loki
-      - loki_wal_data:/wal  # Add this line
+      - loki_wal_data:/wal  
     ports:
-      - "3102:3100"  # Changed port to avoid conflict
+      - "3102:3100"  
     command: -config.file=/etc/loki/local-config.yaml
     networks:
       - embrapa-net
@@ -128,8 +128,9 @@ services:
     container_name: promtail
     restart: always
     volumes:
-      - ${PWD}/monitoring/promtail/promtail-config.yaml:/etc/promtail/config.yml
+      - ./monitoring/promtail/promtail-config.yaml:/etc/promtail/config.yml
       - /var/run/docker.sock:/var/run/docker.sock
+      - ${HOME}/podman_logs:/var/podman_logs:ro 
     command: -config.file=/etc/promtail/config.yml
     depends_on:
       - loki
@@ -142,11 +143,11 @@ services:
     restart: always
     volumes:
       - grafana_data:/var/lib/grafana
-      - ${PWD}/monitoring/grafana/provisioning:/etc/grafana/provisioning
-      - ${PWD}/monitoring/grafana/dashboards:/var/lib/grafana/dashboards
-      - ${PWD}/monitoring/grafana/config/grafana.ini:/etc/grafana/grafana.ini
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards
+      - ./monitoring/grafana/config/grafana.ini:/etc/grafana/grafana.ini
     environment:
-      - GF_SECURITY_ADMIN_USER=qwe123
+      - GF_SECURITY_ADMIN_USER=admin
       - GF_SECURITY_ADMIN_PASSWORD=qwe123
       - GF_USERS_ALLOW_SIGN_UP=false
       - GF_DASHBOARDS_DEFAULT_HOME_DASHBOARD_PATH=/var/lib/grafana/dashboards/embrapa_monitoring.json
@@ -155,21 +156,6 @@ services:
     depends_on:
       - prometheus
       - loki
-    networks:
-      - embrapa-net
-
-  cadvisor:
-    image: gcr.io/cadvisor/cadvisor:latest
-    container_name: cadvisor
-    restart: always
-    privileged: true  # Added for Podman compatibility
-    volumes:
-      - /:/rootfs:ro
-      - /var/run:/var/run:ro
-      - /sys:/sys:ro
-      - /dev/disk/:/dev/disk:ro
-    ports:
-      - "8081:8080"  # Changed port to avoid potential conflicts
     networks:
       - embrapa-net
 
@@ -199,6 +185,59 @@ services:
     networks:
       - embrapa-net
 
-  
+  node_exporter:
+    image: quay.io/prometheus/node-exporter:latest
+    container_name: node_exporter
+    command:
+      - '--path.rootfs=/host'
+      - '--collector.textfile.directory=/metrics'
+    volumes:
+      - /:/host:ro,rslave
+      - ./metrics:/metrics
+    ports:
+      - "9100:9100"
+    restart: always
+    networks:
+      - embrapa-net
+
+  container_monitor:
+    image: alpine:latest
+    container_name: container_monitor
+    restart: always
+    command: >
+      sh -c "apk add --no-cache curl jq bash &&
+            mkdir -p /metrics &&
+            while true; do
+              echo '# HELP container_status Status dos containers' > /metrics/containers.prom;
+              echo '# TYPE container_status gauge' >> /metrics/containers.prom;
+              
+              # Listar todos os containers usando o comando podman
+              for container in embrapa-api embrapa-db pgbouncer postgres_exporter pgbouncer_exporter grafana prometheus loki promtail; do
+                # Verificar status (0=parado, 1=rodando)
+                status=$(podman inspect --format '{{.State.Running}}' $container 2>/dev/null | grep -q true && echo 1 || echo 0)
+                echo \"container_status{name=\\\"$container\\\"} $status\" >> /metrics/containers.prom;
+                
+                # Se estiver rodando, coletar uso de CPU e memória
+                if [ \"$status\" = \"1\" ]; then
+                  # Coletar CPU e memória via podman stats
+                  stats=$(podman stats --no-stream --format 'table {{.CPUPerc}}|{{.MemUsage}}' $container 2>/dev/null | tail -n 1)
+                  
+                  # Extrair valores (removendo % e unidades)
+                  cpu=$(echo $stats | cut -d'|' -f1 | sed 's/%//g')
+                  mem=$(echo $stats | cut -d'|' -f2 | awk '{print $1}' | sed 's/[^0-9.]//g')
+                  
+                  # Adicionar métricas
+                  echo \"container_cpu{name=\\\"$container\\\"} $cpu\" >> /metrics/containers.prom;
+                  echo \"container_memory_mb{name=\\\"$container\\\"} $mem\" >> /metrics/containers.prom;
+                fi
+              done;
+              
+              sleep 15;
+            done"
+    volumes:
+      - ./metrics:/metrics
+    network_mode: "host"
+      
+      
 networks:
   embrapa-net:

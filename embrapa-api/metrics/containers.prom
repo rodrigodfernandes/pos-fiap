@@ -1,0 +1,11 @@
+# HELP container_status Status dos containers
+# TYPE container_status gauge
+container_status{name=""} 
+container_status{name=""} 
+container_status{name=""} 
+container_status{name=""} 
+container_status{name=""} 
+container_status{name=""} 
+container_status{name=""} 
+container_status{name=""} 
+container_status{name=""} 

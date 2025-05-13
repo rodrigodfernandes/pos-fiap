@@ -1,0 +1,1 @@
+DROP TYPE grape_type RENAME TO dropped_grape_type;
