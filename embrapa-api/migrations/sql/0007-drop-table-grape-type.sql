@@ -1,1 +1,0 @@
-ALTER TABLE grape_type RENAME TO dropped_grape_type;

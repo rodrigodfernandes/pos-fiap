@@ -1,1 +1,1 @@
-DROP TABLE IF EXISTS users;
+ALTER TABLE users RENAME TO dropped_users;

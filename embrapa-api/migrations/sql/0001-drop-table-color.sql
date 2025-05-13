@@ -1,1 +1,0 @@
-ALTER TABLE color RENAME TO dropped_color;

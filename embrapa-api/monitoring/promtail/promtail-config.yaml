@@ -1,3 +1,4 @@
+
 server:
   http_listen_port: 9080
   grpc_listen_port: 0
@@ -9,10 +10,50 @@ clients:
   - url: http://loki:3100/loki/api/v1/push
 
 scrape_configs:
-  - job_name: system
+  - job_name: podman_containers
     static_configs:
       - targets:
           - localhost
         labels:
-          job: varlogs
-          __path__: /var/log/*log
+          job: podman_logs
+          __path__: /var/podman_logs/*.log
+    
+    pipeline_stages:
+      # Extrair nome do container do arquivo
+      - regex:
+          expression: '/var/podman_logs/(?P<container_name>[^.]+).log'
+          source: filename
+      
+      # Adicionar container_name como label
+      - labels:
+          container_name:
+      
+      # Processar formato de log com timestamp do Podman
+      - regex:
+          expression: '^(?P<timestamp>[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}\.[0-9]+Z) (?P<content>.*)$'
+      
+      # Processar o conteúdo para extrair campos
+      - regex:
+          expression: '(?P<log_content>.*logger=(?P<logger>\w+)\s+userId=(?P<userId>\d+)\s+orgId=(?P<orgId>\d+)\s+uname=(?P<uname>\w+)\s+t=(?P<log_timestamp>[\d\-T:\.]+(Z)?)\s+level=(?P<level>\w+)\s+msg="(?P<message>[^"]*)".*)'
+          source: content
+      
+      # Extrair método, path e status HTTP se presente
+      - regex:
+          expression: '.*method=(?P<method>\w+)\s+path=(?P<path>[^\s]+)\s+status=(?P<status>\d+).*'
+          source: content
+      
+      # Adicionar labels extraídos
+      - labels:
+          logger:
+          userId:
+          orgId:
+          uname:
+          level:
+          method:
+          path:
+          status:
+      
+      # Usar o timestamp do log
+      - timestamp:
+          source: timestamp
+          format: RFC3339Nano
