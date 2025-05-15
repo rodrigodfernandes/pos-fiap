@@ -1,1 +1,2 @@
-CREATE TYPE grape_type AS enum ('Vitis vinifera','Vitis labrusca','Vitis bourquina','Uvas híbridas','Não especificado');
+-- CREATE TYPE grape_type AS enum ('Vitis vinifera','Vitis labrusca','Vitis bourquina','Uvas híbridas','Não especificado');
+CREATE TYPE grape_type AS enum ('Vinhos de mesa','Espumantes','Uvas frescas','Uvas passas','Suco de uva');

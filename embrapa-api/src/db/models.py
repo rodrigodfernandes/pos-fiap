@@ -1,12 +1,48 @@
-from sqlalchemy import Column, Integer, String, Numeric, ForeignKey
+import enum
+from sqlalchemy import Column, Integer, String, Numeric, Enum
 from sqlalchemy.ext.declarative import declarative_base
 
 Base = declarative_base()
+
+# @TODO: melhorar e utilizar o mapping
+
+# region Enums
+class ColorEnum(enum.Enum):
+    TINTA = 'TINTA'
+    BRANCA_E_ROSADA = 'BRANCA E ROSADA'
+
+class KindEnum(enum.Enum):
+    VINIFERAS = 'Viniferas'
+    AMERICANAS_E_HIBRIDAS = 'Americanas e Hibridas'
+    UVAS_DE_MESA = 'Uvas de mesa'
+    SEM_CLASSIFICACAO = 'Sem classificação'
+
+class WineDerivativeEnum(enum.Enum):
+    VINHO_DE_MESA = 'VINHO DE MESA'
+    VINHO_FINO_DE_MESA = 'VINHO FINO DE MESA'
+    VINHO_FRIZANTE = 'VINHO FRIZANTE'
+    VINHO_ORGANICO = 'VINHO ORGÂNICO'
+    VINHO_ESPECIAL = 'VINHO ESPECIAL'
+    ESPUMANTES = 'ESPUMANTES'
+    SUCO = 'SUCO'
+    SUCO_DE_UVAS = 'SUCO DE UVAS'
+    SUCO_DE_UVAS_CONCENTRADO = 'SUCO DE UVAS CONCENTRADO'
+    DERIVADOS = 'DERIVADOS'
+    OUTROS = 'OUTROS PRODUTOS COMERCIALIZADOS'
+
+class GrapeTypeEnum(enum.Enum):
+    VINHOS_DE_MESA = 'Vinhos de mesa'
+    ESPUMANTES = 'Espumantes'
+    UVAS_FRESCAS = 'Uvas frescas'
+    UVAS_PASSAS = 'Uvas passas'
+    SUCO_DE_UVA = 'Suco de uva'
+# endregion
 
 class Product(Base):
     __tablename__ = "product"
     id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String(255), nullable=False)
+    wine_derivative_name = Column(String(50), nullable=False)
     quantity = Column(Integer, nullable=False)
 
     # Mapeamento JSON -> Banco de Dados
@@ -17,9 +53,9 @@ class Product(Base):
 
 class Process(Base):
     __tablename__ = "process"
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    color_id = Column(Integer, ForeignKey("color.id"))
-    kind_id = Column(Integer, ForeignKey("kind.id"))
+    id = Column(Integer, primary_key=True, index=True)
+    color_name = Column(Enum(ColorEnum), nullable=False)
+    kind_name = Column(Enum(KindEnum), nullable=False)      # por enquanto apenas tipo Vinifera
     cultivar = Column(String(100), nullable=False)
     quantity_kg = Column(Integer, nullable=False)
 
@@ -30,19 +66,20 @@ class Process(Base):
 
 class Sales(Base):
     __tablename__ = "sales"
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    wine_type_id = Column(Integer, ForeignKey("wine_derivative_type.id"))
+    id = Column(Integer, primary_key=True, index=True)
+    name = Column(String(255), nullable=False)
+    wine_derivative_name = Column(Enum(WineDerivativeEnum), nullable=False)
     quantity_liters = Column(Numeric(15, 2), nullable=False)
 
     json_to_db_mapping = {
-        "Produto": "wine_type_id",  # Ajuste conforme necessário
+        "Produto": "wine_type_id",
         "Quantidade (L.)": "quantity_liters"
     }
 
 class Import(Base):
     __tablename__ = "import"
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    grape_type_id = Column(Integer, ForeignKey("grape_type.id"))
+    id = Column(Integer, primary_key=True, index=True)
+    grape_type_name = Column(Enum(GrapeTypeEnum), nullable=False)        # por enquanto apenas tipo Vinhos de mesa
     country = Column(String(100), nullable=False)
     quantity_kg = Column(Numeric(15, 2))
     value_usd = Column(Numeric(15, 2))
@@ -55,8 +92,8 @@ class Import(Base):
 
 class Export(Base):
     __tablename__ = "export"
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    grape_type_id = Column(Integer, ForeignKey("grape_type.id"))
+    id = Column(Integer, primary_key=True, index=True)
+    grape_type_name = Column(Enum(GrapeTypeEnum), nullable=False)        # por enquanto apenas tipo Vinhos de mesa
     country = Column(String(100), nullable=False)
     quantity_kg = Column(Numeric(15, 2))
     value_usd = Column(Numeric(15, 2))
