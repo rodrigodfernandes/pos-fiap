@@ -18,10 +18,10 @@ databaseChangeLog:
       id: 1
       author: rodrigo.fernandes
       sqlFile:
-        path: sql/0001-create-table-product.sql
+        path: sql/0001-create-type-wine-derivate-type.sql
         relativeToChangelogFile: true
       rollback:
-        path: sql/0001-drop-table-product.sql
+        path: sql/0001-drop-type-wine-derivate-type.sql
         relativeToChangelogFile: true
   - changeSet:
       id: 2
@@ -54,10 +54,10 @@ databaseChangeLog:
       id: 5
       author: rodrigo.fernandes
       sqlFile:
-        path: sql/0005-create-type-wine-derivate-type.sql
+        path: sql/0005-create-table-product.sql
         relativeToChangelogFile: true
       rollback:
-        path: sql/0005-drop-type-wine-derivate-type.sql
+        path: sql/0005-drop-table-product.sql
         relativeToChangelogFile: true           
   - changeSet:
       id: 6
