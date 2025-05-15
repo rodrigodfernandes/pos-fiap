@@ -6,10 +6,11 @@ datasources:
     access: proxy
     url: http://prometheus:9090  # Use service name, not localhost
     isDefault: true
-    editable: false
+    editable: true
 
   - name: Loki
     type: loki
     access: proxy
     url: http://loki:3100
-    editable: false
+    isDefault: false
+    editable: true
