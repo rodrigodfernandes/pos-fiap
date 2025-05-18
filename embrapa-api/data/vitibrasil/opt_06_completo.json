@@ -1,0 +1,3104 @@
+[
+    {
+        "Países":"Afeganistão",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"África do Sul",
+        "Quantidade (Kg)":"103",
+        "Valor (US$)":"1.783",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Alemanha, República Democrática",
+        "Quantidade (Kg)":"6.666",
+        "Valor (US$)":"48.095",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Angola",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Anguilla",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Antígua e Barbuda",
+        "Quantidade (Kg)":"447",
+        "Valor (US$)":"3.329",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Antilhas Holandesas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Arábia Saudita",
+        "Quantidade (Kg)":"32",
+        "Valor (US$)":"54",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Argélia",
+        "Quantidade (Kg)":"6",
+        "Valor (US$)":"87",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Argentina",
+        "Quantidade (Kg)":"21.015",
+        "Valor (US$)":"167.696",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Aruba",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Austrália",
+        "Quantidade (Kg)":"2.070",
+        "Valor (US$)":"19.152",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Áustria",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Bahamas",
+        "Quantidade (Kg)":"1.632",
+        "Valor (US$)":"7.457",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Bangladesh",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Barbados",
+        "Quantidade (Kg)":"773",
+        "Valor (US$)":"580",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Barein",
+        "Quantidade (Kg)":"178",
+        "Valor (US$)":"1.044",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Bélgica",
+        "Quantidade (Kg)":"960",
+        "Valor (US$)":"8.334",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Belice",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Benin",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Bermudas",
+        "Quantidade (Kg)":"102",
+        "Valor (US$)":"823",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Bolívia",
+        "Quantidade (Kg)":"20.334",
+        "Valor (US$)":"30.293",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Bósnia-Herzegovina",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Brasil",
+        "Quantidade (Kg)":"96",
+        "Valor (US$)":"244",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Bulgária",
+        "Quantidade (Kg)":"18",
+        "Valor (US$)":"184",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Cabo Verde",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Camarões",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Canadá",
+        "Quantidade (Kg)":"4.320",
+        "Valor (US$)":"35.179",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Catar",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Cayman, Ilhas",
+        "Quantidade (Kg)":"180",
+        "Valor (US$)":"591",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Chile",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"China",
+        "Quantidade (Kg)":"34.231",
+        "Valor (US$)":"182.595",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Chipre",
+        "Quantidade (Kg)":"988",
+        "Valor (US$)":"4.308",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Cingapura",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Cocos (Keeling), Ilhas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Colômbia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Comores",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Congo",
+        "Quantidade (Kg)":"2.340",
+        "Valor (US$)":"3.753",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Coreia, Republica Sul",
+        "Quantidade (Kg)":"173",
+        "Valor (US$)":"1.050",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Costa do Marfim",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Costa Rica",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Coveite (Kuweit)",
+        "Quantidade (Kg)":"16",
+        "Valor (US$)":"72",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Croácia",
+        "Quantidade (Kg)":"23",
+        "Valor (US$)":"44",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Cuba",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Curaçao",
+        "Quantidade (Kg)":"25.146",
+        "Valor (US$)":"50.990",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Dinamarca",
+        "Quantidade (Kg)":"11",
+        "Valor (US$)":"185",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Dominica",
+        "Quantidade (Kg)":"947",
+        "Valor (US$)":"4.545",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"El Salvador",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Emirados Arabes Unidos",
+        "Quantidade (Kg)":"1.688",
+        "Valor (US$)":"8.253",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Equador",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Eslovaca, Republica",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Espanha",
+        "Quantidade (Kg)":"191",
+        "Valor (US$)":"2.062",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Estados Unidos",
+        "Quantidade (Kg)":"310.410",
+        "Valor (US$)":"648.724",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Estônia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Filipinas",
+        "Quantidade (Kg)":"11.514",
+        "Valor (US$)":"27.378",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Finlândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"França",
+        "Quantidade (Kg)":"3.729",
+        "Valor (US$)":"29.768",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Gabão",
+        "Quantidade (Kg)":"5",
+        "Valor (US$)":"18",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Gana",
+        "Quantidade (Kg)":"54.828",
+        "Valor (US$)":"91.317",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Gibraltar",
+        "Quantidade (Kg)":"5",
+        "Valor (US$)":"13",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Granada",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Grécia",
+        "Quantidade (Kg)":"617",
+        "Valor (US$)":"2.051",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Guatemala",
+        "Quantidade (Kg)":"7.957",
+        "Valor (US$)":"14.268",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Guiana",
+        "Quantidade (Kg)":"115.884",
+        "Valor (US$)":"349.244",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Guiana Francesa",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Guine Bissau",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Guine Equatorial",
+        "Quantidade (Kg)":"2.250",
+        "Valor (US$)":"4.279",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Haiti",
+        "Quantidade (Kg)":"450.690",
+        "Valor (US$)":"713.158",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Honduras",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Hong Kong",
+        "Quantidade (Kg)":"6.696",
+        "Valor (US$)":"30.490",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Hungria",
+        "Quantidade (Kg)":"14",
+        "Valor (US$)":"27",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Ilha de Man",
+        "Quantidade (Kg)":"124",
+        "Valor (US$)":"587",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Ilhas Virgens",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Índia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Indonésia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Irã",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Iraque",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Irlanda",
+        "Quantidade (Kg)":"32",
+        "Valor (US$)":"132",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Itália",
+        "Quantidade (Kg)":"2.431",
+        "Valor (US$)":"11.642",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Jamaica",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Japão",
+        "Quantidade (Kg)":"29.320",
+        "Valor (US$)":"66.956",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Jordânia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Letônia",
+        "Quantidade (Kg)":"33.273",
+        "Valor (US$)":"144.229",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Líbano",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Libéria",
+        "Quantidade (Kg)":"12.024",
+        "Valor (US$)":"38.576",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Luxemburgo",
+        "Quantidade (Kg)":"72",
+        "Valor (US$)":"832",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Macau",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Malásia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Malavi",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Malta",
+        "Quantidade (Kg)":"6.302",
+        "Valor (US$)":"16.586",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Marshall, Ilhas",
+        "Quantidade (Kg)":"5.628",
+        "Valor (US$)":"23.195",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Martinica",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Mauritânia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"México",
+        "Quantidade (Kg)":"2.277",
+        "Valor (US$)":"7.938",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Moçambique",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Montenegro",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Namíbia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Nicarágua",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Nigéria",
+        "Quantidade (Kg)":"808",
+        "Valor (US$)":"2.052",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Noruega",
+        "Quantidade (Kg)":"309",
+        "Valor (US$)":"2.185",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Nova Caledônia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Nova Zelândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Omã",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Países Baixos",
+        "Quantidade (Kg)":"3.074",
+        "Valor (US$)":"22.785",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Palau",
+        "Quantidade (Kg)":"30",
+        "Valor (US$)":"320",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Panamá",
+        "Quantidade (Kg)":"121.432",
+        "Valor (US$)":"97.549",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Paraguai",
+        "Quantidade (Kg)":"3.705.268",
+        "Valor (US$)":"5.121.857",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Peru",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Pitcairn",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Polônia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Porto Rico",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Portugal",
+        "Quantidade (Kg)":"26.340",
+        "Valor (US$)":"50.923",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Quênia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Reino Unido",
+        "Quantidade (Kg)":"14.780",
+        "Valor (US$)":"106.713",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"República Dominicana",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Rússia",
+        "Quantidade (Kg)":"56",
+        "Valor (US$)":"338",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"São Cristóvão e Névis",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"São Tomé e Príncipe",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"São Vicente e Granadinas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Senegal",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Serra Leoa",
+        "Quantidade (Kg)":"36.608",
+        "Valor (US$)":"68.151",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Sérvia",
+        "Quantidade (Kg)":"10.482",
+        "Valor (US$)":"25.379",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Singapura",
+        "Quantidade (Kg)":"4.141",
+        "Valor (US$)":"20.048",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Suazilândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Suécia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Suíça",
+        "Quantidade (Kg)":"2.350",
+        "Valor (US$)":"23.791",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Suriname",
+        "Quantidade (Kg)":"27.900",
+        "Valor (US$)":"71.483",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Tailândia",
+        "Quantidade (Kg)":"266",
+        "Valor (US$)":"1.910",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Taiwan (Formosa)",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Tanzânia",
+        "Quantidade (Kg)":"3",
+        "Valor (US$)":"35",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Tcheca, República",
+        "Quantidade (Kg)":"2.273",
+        "Valor (US$)":"20.973",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Togo",
+        "Quantidade (Kg)":"27.630",
+        "Valor (US$)":"48.070",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Toquelau",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Trinidade Tobago",
+        "Quantidade (Kg)":"64",
+        "Valor (US$)":"199",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Tunísia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Turquia",
+        "Quantidade (Kg)":"216",
+        "Valor (US$)":"540",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Tuvalu",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Uruguai",
+        "Quantidade (Kg)":"36.729",
+        "Valor (US$)":"62.325",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Vanuatu",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Venezuela",
+        "Quantidade (Kg)":"122.922",
+        "Valor (US$)":"199.418",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Vietnã",
+        "Quantidade (Kg)":"16",
+        "Valor (US$)":"41",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"Total",
+        "Quantidade (Kg)":"5.324.465",
+        "Valor (US$)":"8.751.275",
+        "type":"Vinhos de mesa"
+    },
+    {
+        "Países":"África do Sul",
+        "Quantidade (Kg)":"78",
+        "Valor (US$)":"1.353",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Alemanha",
+        "Quantidade (Kg)":"22.542",
+        "Valor (US$)":"77.981",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Angola",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Antigua e Barbuda",
+        "Quantidade (Kg)":"23",
+        "Valor (US$)":"100",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Antilhas Holandesas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Argentina",
+        "Quantidade (Kg)":"10.497",
+        "Valor (US$)":"91.831",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Aruba",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Australia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Bahamas",
+        "Quantidade (Kg)":"18",
+        "Valor (US$)":"236",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Bangladesh",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Barbados",
+        "Quantidade (Kg)":"5",
+        "Valor (US$)":"7",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Belgica",
+        "Quantidade (Kg)":"46",
+        "Valor (US$)":"297",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Benin",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Bermudas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Bolívia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Bósnia-Herzegovina",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Bulgaria",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Cabo Verde",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Camarões",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Canada",
+        "Quantidade (Kg)":"1.188",
+        "Valor (US$)":"4.215",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Catar",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Cayman, Ilhas",
+        "Quantidade (Kg)":"2",
+        "Valor (US$)":"10",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Chile",
+        "Quantidade (Kg)":"2.322",
+        "Valor (US$)":"14.808",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"China",
+        "Quantidade (Kg)":"3.834",
+        "Valor (US$)":"16.484",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Chipre",
+        "Quantidade (Kg)":"45",
+        "Valor (US$)":"232",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Cingapura",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Colombia",
+        "Quantidade (Kg)":"1.080",
+        "Valor (US$)":"4.018",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Coreia do Sul, Republica da",
+        "Quantidade (Kg)":"197",
+        "Valor (US$)":"658",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Costa Rica",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Cuba",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Curaçao",
+        "Quantidade (Kg)":"4.298",
+        "Valor (US$)":"21.026",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Dinamarca",
+        "Quantidade (Kg)":"3.820",
+        "Valor (US$)":"51.044",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Djibuti",
+        "Quantidade (Kg)":"271",
+        "Valor (US$)":"1.396",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Dominica",
+        "Quantidade (Kg)":"477",
+        "Valor (US$)":"2.224",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"El Salvador",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Emirados Arabes Unidos",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Equador",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Espanha",
+        "Quantidade (Kg)":"180",
+        "Valor (US$)":"2.606",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Estados Unidos",
+        "Quantidade (Kg)":"110.205",
+        "Valor (US$)":"394.394",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Estonia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Falkland (Malvinas)",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Filipinas",
+        "Quantidade (Kg)":"6",
+        "Valor (US$)":"64",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Filânldia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"França",
+        "Quantidade (Kg)":"544",
+        "Valor (US$)":"3.006",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Gana",
+        "Quantidade (Kg)":"6.624",
+        "Valor (US$)":"30.240",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Gibraltar",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Granada",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Grécia",
+        "Quantidade (Kg)":"114",
+        "Valor (US$)":"387",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Guatemala",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Guiana",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Guiné Equatorial",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Guiné-Bissau",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Haiti",
+        "Quantidade (Kg)":"854",
+        "Valor (US$)":"2.027",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Honduras",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Hong Kong",
+        "Quantidade (Kg)":"369",
+        "Valor (US$)":"1.730",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Hungria",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Ilha de Man",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Índia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Iraque",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Irlanda",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Islândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Itália",
+        "Quantidade (Kg)":"191",
+        "Valor (US$)":"1.471",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Japão",
+        "Quantidade (Kg)":"3.096",
+        "Valor (US$)":"12.533",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Jordânia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Letônia",
+        "Quantidade (Kg)":"59.026",
+        "Valor (US$)":"204.119",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Líbano",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Libéria",
+        "Quantidade (Kg)":"1.109",
+        "Valor (US$)":"3.018",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Luxemburgo",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Maldivas",
+        "Quantidade (Kg)":"4.270",
+        "Valor (US$)":"17.948",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Malta",
+        "Quantidade (Kg)":"152",
+        "Valor (US$)":"1.184",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Marrocos",
+        "Quantidade (Kg)":"11.640",
+        "Valor (US$)":"75.036",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Marshall, Ilhas",
+        "Quantidade (Kg)":"1.056",
+        "Valor (US$)":"4.625",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Montenegro",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"México",
+        "Quantidade (Kg)":"117",
+        "Valor (US$)":"459",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Nicarágua",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Nigéria",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Noruega",
+        "Quantidade (Kg)":"5",
+        "Valor (US$)":"28",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Nova Zelândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Países Baixos (Holanda)",
+        "Quantidade (Kg)":"2.720",
+        "Valor (US$)":"15.527",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Panamá",
+        "Quantidade (Kg)":"1.400",
+        "Valor (US$)":"6.076",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Paraguai",
+        "Quantidade (Kg)":"56.735",
+        "Valor (US$)":"195.503",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Peru",
+        "Quantidade (Kg)":"1.373",
+        "Valor (US$)":"10.418",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Polônia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Porto Rico",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Portugal",
+        "Quantidade (Kg)":"17.780",
+        "Valor (US$)":"114.156",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Quênia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Reino Unido",
+        "Quantidade (Kg)":"9.416",
+        "Valor (US$)":"62.958",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Republica Dominicana",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Republica Tcheca",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Rússia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Serra Leoa",
+        "Quantidade (Kg)":"586",
+        "Valor (US$)":"3.025",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Sérvia",
+        "Quantidade (Kg)":"1.244",
+        "Valor (US$)":"4.843",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Singapura",
+        "Quantidade (Kg)":"309",
+        "Valor (US$)":"1.046",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Suécia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Suíça",
+        "Quantidade (Kg)":"26.632",
+        "Valor (US$)":"82.852",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Suriname",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Tailândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Taiwan (Formosa)",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Tcheca, República",
+        "Quantidade (Kg)":"360",
+        "Valor (US$)":"5.403",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Togo",
+        "Quantidade (Kg)":"1.890",
+        "Valor (US$)":"10.358",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Trinidade e Tobago",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Turquia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Uruguai",
+        "Quantidade (Kg)":"88.429",
+        "Valor (US$)":"302.751",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Vanuatu",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Venezuela",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Vietnã",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Outros(1)",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Total",
+        "Quantidade (Kg)":"459.175",
+        "Valor (US$)":"1.857.711",
+        "type":"Espumantes"
+    },
+    {
+        "Países":"Africa do Sul",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Alemanha, República Democrática",
+        "Quantidade (Kg)":"807.805",
+        "Valor (US$)":"2.269.851",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Angola",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Antígua e Barbuda",
+        "Quantidade (Kg)":"521",
+        "Valor (US$)":"2.562",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Arabia Saudita",
+        "Quantidade (Kg)":"810",
+        "Valor (US$)":"2.823",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Argélia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Argentina",
+        "Quantidade (Kg)":"3.598.586",
+        "Valor (US$)":"9.699.174",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Áustria",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Bahamas",
+        "Quantidade (Kg)":"7.271",
+        "Valor (US$)":"37.123",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Bahrein",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Bangladesh",
+        "Quantidade (Kg)":"36",
+        "Valor (US$)":"108",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Barbados",
+        "Quantidade (Kg)":"192",
+        "Valor (US$)":"794",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Barein",
+        "Quantidade (Kg)":"337",
+        "Valor (US$)":"1.653",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Bélgica",
+        "Quantidade (Kg)":"25.123",
+        "Valor (US$)":"52.889",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Belize",
+        "Quantidade (Kg)":"10",
+        "Valor (US$)":"26",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Bermudas",
+        "Quantidade (Kg)":"85",
+        "Valor (US$)":"473",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Bolívia",
+        "Quantidade (Kg)":"183.446",
+        "Valor (US$)":"78.242",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Bósnia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Brasil",
+        "Quantidade (Kg)":"421",
+        "Valor (US$)":"2.732",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Bulgária",
+        "Quantidade (Kg)":"25",
+        "Valor (US$)":"86",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Burquina Faso",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Cabo Verde",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Camarões",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Camores",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Canadá",
+        "Quantidade (Kg)":"1.202.044",
+        "Valor (US$)":"3.728.127",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Catar",
+        "Quantidade (Kg)":"3.000",
+        "Valor (US$)":"20.370",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Cayman, Ilhas",
+        "Quantidade (Kg)":"294",
+        "Valor (US$)":"1.409",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Chile",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"China",
+        "Quantidade (Kg)":"605",
+        "Valor (US$)":"2.626",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Chipre",
+        "Quantidade (Kg)":"1.091",
+        "Valor (US$)":"4.869",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Cingapura",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Cocos (Keeling), Ilhas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Cook, Ilhas",
+        "Quantidade (Kg)":"70",
+        "Valor (US$)":"404",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Colômbia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Congo",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Coreia do Norte",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Coreia do Sul",
+        "Quantidade (Kg)":"260",
+        "Valor (US$)":"856",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Costa do Marfim",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Coveite",
+        "Quantidade (Kg)":"4.281",
+        "Valor (US$)":"36.645",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Croácia",
+        "Quantidade (Kg)":"26",
+        "Valor (US$)":"103",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Curaçao",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Dinamarca",
+        "Quantidade (Kg)":"2.898",
+        "Valor (US$)":"14.531",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Djibuti",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Egito",
+        "Quantidade (Kg)":"61",
+        "Valor (US$)":"264",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Emirados Árabes Unidos",
+        "Quantidade (Kg)":"157.066",
+        "Valor (US$)":"825.912",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Eslovênia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Espanha",
+        "Quantidade (Kg)":"5.729.378",
+        "Valor (US$)":"10.190.948",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Estados Unidos",
+        "Quantidade (Kg)":"13.824.702",
+        "Valor (US$)":"39.761.539",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Falkland (Ilhas Malvinas)",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Faroé, Ilhas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Filipinas",
+        "Quantidade (Kg)":"153",
+        "Valor (US$)":"463",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Finlândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"França",
+        "Quantidade (Kg)":"257",
+        "Valor (US$)":"1.318",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Gabão",
+        "Quantidade (Kg)":"168",
+        "Valor (US$)":"792",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Gana",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Georgia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Gibraltar",
+        "Quantidade (Kg)":"115",
+        "Valor (US$)":"433",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Grécia",
+        "Quantidade (Kg)":"3.274",
+        "Valor (US$)":"10.778",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Guadalupe",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Guiana",
+        "Quantidade (Kg)":"4.928",
+        "Valor (US$)":"19.841",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Guiana Francesa",
+        "Quantidade (Kg)":"2.461",
+        "Valor (US$)":"3.297",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Guiné-Bissau",
+        "Quantidade (Kg)":"127",
+        "Valor (US$)":"823",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Guine Equatorial",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Honduras",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Hong Kong",
+        "Quantidade (Kg)":"7.882",
+        "Valor (US$)":"47.227",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Ilha de Man",
+        "Quantidade (Kg)":"258",
+        "Valor (US$)":"1.139",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Ilhas Virgens",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Índia",
+        "Quantidade (Kg)":"285",
+        "Valor (US$)":"1.218",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Indonésia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Irã",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Iraque",
+        "Quantidade (Kg)":"100",
+        "Valor (US$)":"309",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Irlanda",
+        "Quantidade (Kg)":"530.508",
+        "Valor (US$)":"1.496.511",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Islândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Itália",
+        "Quantidade (Kg)":"46.743",
+        "Valor (US$)":"78.055",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Japão",
+        "Quantidade (Kg)":"358",
+        "Valor (US$)":"1.578",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Jérsei",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Jordânia",
+        "Quantidade (Kg)":"20",
+        "Valor (US$)":"54",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Letônia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Líbano",
+        "Quantidade (Kg)":"20",
+        "Valor (US$)":"84",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Libéria",
+        "Quantidade (Kg)":"14.065",
+        "Valor (US$)":"63.684",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Líbia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Lituânia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Luxemburgo",
+        "Quantidade (Kg)":"90",
+        "Valor (US$)":"423",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Macedônia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Malásia",
+        "Quantidade (Kg)":"126",
+        "Valor (US$)":"727",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Malta",
+        "Quantidade (Kg)":"4.541",
+        "Valor (US$)":"20.467",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Marianas do Norte, Ilhas",
+        "Quantidade (Kg)":"6",
+        "Valor (US$)":"31",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Marrocos",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Marshall, Ilhas",
+        "Quantidade (Kg)":"14.977",
+        "Valor (US$)":"64.883",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Martinica",
+        "Quantidade (Kg)":"82",
+        "Valor (US$)":"519",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Mauricio",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Mauritânia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Mexico",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Mônaco",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Mongólia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Montenegro",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Nigéria",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Noruega",
+        "Quantidade (Kg)":"614.759",
+        "Valor (US$)":"1.994.322",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Omã",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Países Baixos",
+        "Quantidade (Kg)":"20.023.743",
+        "Valor (US$)":"49.326.481",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Palau",
+        "Quantidade (Kg)":"50",
+        "Valor (US$)":"289",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Panamá",
+        "Quantidade (Kg)":"14.442",
+        "Valor (US$)":"61.509",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Paquistão",
+        "Quantidade (Kg)":"6",
+        "Valor (US$)":"36",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Paraguai",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Pitcairn",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Polônia",
+        "Quantidade (Kg)":"6",
+        "Valor (US$)":"35",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Porto Rico",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Portugal",
+        "Quantidade (Kg)":"1.623",
+        "Valor (US$)":"7.734",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Quirguistão",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Reino Unido",
+        "Quantidade (Kg)":"11.901.316",
+        "Valor (US$)":"31.074.194",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Republica Dominicana",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Romênia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Rússia, Federação da",
+        "Quantidade (Kg)":"160",
+        "Valor (US$)":"578",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Samoa Americana",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"São Cristóvão e Névis",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"São Tomé e Príncipe",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"São Vicente e Granadinas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Serra Leoa",
+        "Quantidade (Kg)":"5",
+        "Valor (US$)":"13",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Senegal",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Singapura",
+        "Quantidade (Kg)":"6.778",
+        "Valor (US$)":"30.362",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Sri Lanka",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Suazilândia",
+        "Quantidade (Kg)":"2",
+        "Valor (US$)":"21",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Suécia",
+        "Quantidade (Kg)":"10",
+        "Valor (US$)":"42",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Suíça",
+        "Quantidade (Kg)":"4.513",
+        "Valor (US$)":"60.333",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Suriname",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Tailândia",
+        "Quantidade (Kg)":"737",
+        "Valor (US$)":"4.120",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Taiwan",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Tanzânia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Togo",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Trindade e Tobago",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Tunísia",
+        "Quantidade (Kg)":"6",
+        "Valor (US$)":"34",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Turcas e Caicos, ilhas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Turquia",
+        "Quantidade (Kg)":"400",
+        "Valor (US$)":"1.965",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Tuvalu",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Uruguai",
+        "Quantidade (Kg)":"114.792",
+        "Valor (US$)":"245.284",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Vanuatu",
+        "Quantidade (Kg)":"7",
+        "Valor (US$)":"16",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Venezuela",
+        "Quantidade (Kg)":"20",
+        "Valor (US$)":"79",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Vietnã",
+        "Quantidade (Kg)":"5",
+        "Valor (US$)":"21",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Wallis e Futuna, Ilhas",
+        "Quantidade (Kg)":"10",
+        "Valor (US$)":"57",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Provisão de Navios e Aeronaves",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"Total",
+        "Quantidade (Kg)":"58.865.378",
+        "Valor (US$)":"151.359.318",
+        "type":"Uvas frescas"
+    },
+    {
+        "Países":"África do Sul",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Alemanha, República Democrática da",
+        "Quantidade (Kg)":"6",
+        "Valor (US$)":"17",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Angola",
+        "Quantidade (Kg)":"4.974",
+        "Valor (US$)":"9.112",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Antígua e Barbuda",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Antilhas Holandesas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Arábia Saudita",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Argélia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Argentina",
+        "Quantidade (Kg)":"3.442",
+        "Valor (US$)":"14.538",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Aruba",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Austrália",
+        "Quantidade (Kg)":"32.777",
+        "Valor (US$)":"74.303",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Áustria",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Bahamas",
+        "Quantidade (Kg)":"564",
+        "Valor (US$)":"1.095",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Bangladesh",
+        "Quantidade (Kg)":"264",
+        "Valor (US$)":"238",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Barbados",
+        "Quantidade (Kg)":"10",
+        "Valor (US$)":"51",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Barein",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Bélgica",
+        "Quantidade (Kg)":"456",
+        "Valor (US$)":"998",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Belize",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Benin",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Bermudas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Birmânia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Bolívia",
+        "Quantidade (Kg)":"6.480",
+        "Valor (US$)":"10.627",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Brasil",
+        "Quantidade (Kg)":"48",
+        "Valor (US$)":"185",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Bulgária",
+        "Quantidade (Kg)":"60",
+        "Valor (US$)":"53",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Cabo Verde",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Camarões",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Canadá",
+        "Quantidade (Kg)":"17.109",
+        "Valor (US$)":"30.567",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Catar",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Cayman, Ilhas",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Chile",
+        "Quantidade (Kg)":"8.511",
+        "Valor (US$)":"14.657",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"China",
+        "Quantidade (Kg)":"746.864",
+        "Valor (US$)":"1.659.818",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Chipre",
+        "Quantidade (Kg)":"216",
+        "Valor (US$)":"264",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Cingapura",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Colômbia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Congo",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Coreia do Sul",
+        "Quantidade (Kg)":"6",
+        "Valor (US$)":"16",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Costa do Marfim",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Costa Rica",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Coveite",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Cuba",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Curaçao",
+        "Quantidade (Kg)":"972",
+        "Valor (US$)":"1.463",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Dinamarca",
+        "Quantidade (Kg)":"146",
+        "Valor (US$)":"166",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Dominica, Ilha de",
+        "Quantidade (Kg)":"90",
+        "Valor (US$)":"179",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"El Salvador",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Emirados Árabes Unidos",
+        "Quantidade (Kg)":"66.877",
+        "Valor (US$)":"105.971",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Equador",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Espanha",
+        "Quantidade (Kg)":"47.520",
+        "Valor (US$)":"24.509",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Estados Unidos",
+        "Quantidade (Kg)":"552.035",
+        "Valor (US$)":"1.071.771",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Falkland (Malvinas)",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Filipinas",
+        "Quantidade (Kg)":"65",
+        "Valor (US$)":"111",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Finlândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"França",
+        "Quantidade (Kg)":"89",
+        "Valor (US$)":"151",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Gabão",
+        "Quantidade (Kg)":"168",
+        "Valor (US$)":"386",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Gana",
+        "Quantidade (Kg)":"126.350",
+        "Valor (US$)":"239.966",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Gibraltar",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Granada",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Grécia",
+        "Quantidade (Kg)":"71",
+        "Valor (US$)":"135",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Guatemala",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Guiana",
+        "Quantidade (Kg)":"22",
+        "Valor (US$)":"14",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Guiana Francesa",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Guiné Bissau",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Guine Equatorial",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Haiti",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Hong Kong",
+        "Quantidade (Kg)":"1.358",
+        "Valor (US$)":"1.700",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Hungria",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Ilha de Man",
+        "Quantidade (Kg)":"216",
+        "Valor (US$)":"322",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"India",
+        "Quantidade (Kg)":"12",
+        "Valor (US$)":"27",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Indonésia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Irã",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Iraque",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Irlanda",
+        "Quantidade (Kg)":"9.360",
+        "Valor (US$)":"14.504",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Israel",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Itália",
+        "Quantidade (Kg)":"4.272",
+        "Valor (US$)":"4.983",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Iugoslâvia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Jamaica",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Japão",
+        "Quantidade (Kg)":"1.496.253",
+        "Valor (US$)":"4.313.266",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Líbano",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Libéria",
+        "Quantidade (Kg)":"1.848",
+        "Valor (US$)":"2.868",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Líbia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Luxemburgo",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Malásia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Malta",
+        "Quantidade (Kg)":"790",
+        "Valor (US$)":"1.551",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Marshall, Ilhas",
+        "Quantidade (Kg)":"3.714",
+        "Valor (US$)":"5.902",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Mauritânia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"México",
+        "Quantidade (Kg)":"242",
+        "Valor (US$)":"307",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Moçambique",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Mônaco",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Montenegro",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Namíbia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Nigéria",
+        "Quantidade (Kg)":"11.058",
+        "Valor (US$)":"23.518",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Noruega",
+        "Quantidade (Kg)":"324",
+        "Valor (US$)":"728",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Nova Caledônia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Nova Zelândia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Países Baixos",
+        "Quantidade (Kg)":"6.019",
+        "Valor (US$)":"9.817",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Panamá",
+        "Quantidade (Kg)":"11.610",
+        "Valor (US$)":"12.779",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Paquistão",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Paraguai",
+        "Quantidade (Kg)":"189.070",
+        "Valor (US$)":"316.197",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Peru",
+        "Quantidade (Kg)":"34.769",
+        "Valor (US$)":"54.695",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Polônia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Porto Rico",
+        "Quantidade (Kg)":"2.006",
+        "Valor (US$)":"3.163",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Portugal",
+        "Quantidade (Kg)":"9.467",
+        "Valor (US$)":"21.614",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Quênia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Reino Unido",
+        "Quantidade (Kg)":"4.606",
+        "Valor (US$)":"9.865",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"República Centro Africana",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"República Dominicana",
+        "Quantidade (Kg)":"12.720",
+        "Valor (US$)":"49.812",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"República Federativa da Rússia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Rússia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"São Tomé e Príncipe",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Senegal",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Serra Leoa",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Singapura",
+        "Quantidade (Kg)":"1.029",
+        "Valor (US$)":"1.844",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Sri Lanka",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Suécia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Suíça",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Suriname",
+        "Quantidade (Kg)":"12.455",
+        "Valor (US$)":"42.347",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Tailândia",
+        "Quantidade (Kg)":"24",
+        "Valor (US$)":"43",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Taiwan (Formosa)",
+        "Quantidade (Kg)":"9.084",
+        "Valor (US$)":"16.216",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Tanzânia",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Tcheca, República",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Togo",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Toquelau",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Trinidade e Tobago",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Turquia",
+        "Quantidade (Kg)":"86",
+        "Valor (US$)":"749",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Uruguai",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Vanuatu",
+        "Quantidade (Kg)":"-",
+        "Valor (US$)":"-",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Venezuela",
+        "Quantidade (Kg)":"18.972",
+        "Valor (US$)":"37.214",
+        "type":"Suco de uva"
+    },
+    {
+        "Países":"Total",
+        "Quantidade (Kg)":"3.457.556",
+        "Valor (US$)":"8.207.392",
+        "type":"Suco de uva"
+    }
+]
