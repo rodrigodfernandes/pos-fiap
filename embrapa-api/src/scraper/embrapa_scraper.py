@@ -1,10 +1,10 @@
 import logging
+import os
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 import pandas as pd
-import os
 
 # Configurar logging
 logging.basicConfig(
@@ -46,14 +46,15 @@ def extract_tables(html, source_label):
         dataframes.append(df)
     return pd.concat(dataframes, ignore_index=True) if dataframes else None
 
-def process_option_principal(url, source_label, opt_key):
+def process_option_principal(url, source_label, opt_key, output_dir):
     html = fetch_html(url)
     if html:
         df = extract_tables(html, source_label)
         if df is not None:
-            os.makedirs("json_saida", exist_ok=True)
-            df.to_json(f"json_saida/{opt_key}_completo.json", orient='records', force_ascii=False, indent=4)
-            logger.info(f"Salvo JSON: json_saida/{opt_key}_completo.json")
+            os.makedirs(output_dir, exist_ok=True)
+            filename = os.path.join(output_dir, f"{opt_key}_completo.json")
+            df.to_json(filename, orient='records', force_ascii=False, indent=4)
+            logger.info(f"Salvo JSON: {filename}")
 
 # Dicionário com os nomes das subopções
 suboption_labels = {
@@ -77,8 +78,8 @@ suboption_labels = {
     }
 }
 
-def process_suboptions(urls, option_name):
-    os.makedirs("json_saida", exist_ok=True)
+def process_suboptions(urls, option_name, output_dir):
+    os.makedirs(output_dir, exist_ok=True)
     all_dfs = []
 
     for i, url in enumerate(urls, 1):
@@ -93,13 +94,12 @@ def process_suboptions(urls, option_name):
 
     if all_dfs:
         full_df = pd.concat(all_dfs, ignore_index=True)
-        filename = os.path.join("json_saida", f"{option_name}_completo.json")
+        filename = os.path.join(output_dir, f"{option_name}_completo.json")
         full_df.to_json(filename, orient='records', force_ascii=False, indent=4)
         logger.info(f"Salvo JSON unificado: {filename}")
     else:
         logger.warning(f"Nenhuma tabela extraída para {option_name}")
 
-# Estrutura de opções e subopções
 options = {
     "opt_02": {
         "type": "principal",
@@ -129,9 +129,33 @@ options = {
     }
 }
 
-if __name__ == "__main__":
+def run_scraper(output_dir="data/vitibrasil"):
+    """
+    Executa o scraping do VitiBrasil da Embrapa
+    
+    Args:
+        output_dir: Diretório onde os dados serão salvos
+    
+    Returns:
+        dict: Resultado da operação
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    resultados = {}
+
     for opt_key, opt_data in options.items():
-        if opt_data["type"] == "principal":
-            process_option_principal(opt_data["url"], "principal", opt_key)
-        elif opt_data["type"] == "suboptions":
-            process_suboptions(opt_data["suburls"], opt_key)
+        try:
+            if opt_data["type"] == "principal":
+                process_option_principal(opt_data["url"], "principal", opt_key, output_dir)
+            elif opt_data["type"] == "suboptions":
+                process_suboptions(opt_data["suburls"], opt_key, output_dir)
+            resultados[opt_key] = {"status": "sucesso"}
+        except Exception as e:
+            logger.error(f"Erro no processamento da opção {opt_key}: {str(e)}")
+            resultados[opt_key] = {"status": "falha", "erro": str(e)}
+
+    return resultados
+
+
+if __name__ == "__main__":
+    resultados = run_scraper()
+    print(resultados)
