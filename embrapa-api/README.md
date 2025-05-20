@@ -230,9 +230,11 @@ def protected(current_user: str = Depends(get_current_user)):
 ```
 
 **2.** Como requisitar o token
-* **2.1.** Chamar o endpoint de autenticação /api/auth passando usuário e senha, por fins de teste pode ser usado, eles são gravados critografados na base
- User: admin
- Password: mudar123
+
+* **2.1.** Chamar o endpoint de autenticação /api/auth passando usuário e senha, para fins de teste pode ser usado o usuário e senha abaixo, eles são gravados critografados na base.
+
+     *User:* admin  
+     *Password:* mudar123
 
 * **2.2.** A API de autenticação irá retornar um token, que deverá ser inserido na chamada da API que deseja utilizar, passando o token em Authorization / Bearer Token
 
