@@ -1,5 +1,5 @@
 CREATE TYPE kind AS enum (
-'Viniferas',
-'Americanas e Hibridas',
+'Viníferas',
+'Americanas e híbridas',
 'Uvas de mesa',
 'Sem classificação');
