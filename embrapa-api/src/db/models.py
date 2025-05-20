@@ -8,12 +8,12 @@ Base = declarative_base()
 
 # region Enums
 class ColorEnum(enum.Enum):
-    TINTA = 'TINTA'
-    BRANCA_E_ROSADA = 'BRANCA E ROSADA'
+    TINTA = 'TINTAS'
+    BRANCAS_E_ROSADAS = 'BRANCAS E ROSADAS'
 
 class KindEnum(enum.Enum):
-    VINIFERAS = 'Viniferas'
-    AMERICANAS_E_HIBRIDAS = 'Americanas e Hibridas'
+    VINIFERAS = 'Viníferas'
+    AMERICANAS_E_HIBRIDAS = 'Americanas e híbridas'
     UVAS_DE_MESA = 'Uvas de mesa'
     SEM_CLASSIFICACAO = 'Sem classificação'
 
@@ -45,12 +45,6 @@ class Product(Base):
     wine_derivative_name = Column(String(50), nullable=False)
     quantity = Column(Integer, nullable=False)
 
-    # Mapeamento JSON -> Banco de Dados
-    json_to_db_mapping = {
-        "Produto": "name",
-        "Quantidade (L.)": "quantity"
-    }
-
 class Process(Base):
     __tablename__ = "process"
     id = Column(Integer, primary_key=True, index=True)
@@ -59,22 +53,12 @@ class Process(Base):
     cultivar = Column(String(100), nullable=False)
     quantity_kg = Column(Integer, nullable=False)
 
-    json_to_db_mapping = {
-        "Cultivar": "cultivar",
-        "Quantidade (Kg)": "quantity_kg"
-    }
-
 class Sales(Base):
     __tablename__ = "sales"
     id = Column(Integer, primary_key=True, index=True)
     name = Column(String(255), nullable=False)
     wine_derivative_name = Column(Enum(WineDerivativeEnum), nullable=False)
     quantity_liters = Column(Numeric(15, 2), nullable=False)
-
-    json_to_db_mapping = {
-        "Produto": "wine_type_id",
-        "Quantidade (L.)": "quantity_liters"
-    }
 
 class Import(Base):
     __tablename__ = "import"
@@ -84,12 +68,6 @@ class Import(Base):
     quantity_kg = Column(Numeric(15, 2))
     value_usd = Column(Numeric(15, 2))
 
-    json_to_db_mapping = {
-        "Países": "country",
-        "Quantidade (Kg)": "quantity_kg",
-        "Valor (US$)": "value_usd"
-    }
-
 class Export(Base):
     __tablename__ = "export"
     id = Column(Integer, primary_key=True, index=True)
@@ -97,9 +75,3 @@ class Export(Base):
     country = Column(String(100), nullable=False)
     quantity_kg = Column(Numeric(15, 2))
     value_usd = Column(Numeric(15, 2))
-
-    json_to_db_mapping = {
-        "Países": "country",
-        "Quantidade (Kg)": "quantity_kg",
-        "Valor (US$)": "value_usd"
-    }
