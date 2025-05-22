@@ -104,7 +104,7 @@ embrapa-api/
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/embrapa-api.git  
+git clone https://github.com/rodrigodfernandes/embrapa-api.git  
 cd embrapa-api
 
 2. Configure as variáveis de ambiente:
