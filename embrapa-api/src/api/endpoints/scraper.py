@@ -40,17 +40,13 @@ async def executar_async(
     background_tasks: BackgroundTasks,
     output_dir: Optional[str] = DEFAULT_OUTPUT_DIR,
     workers: Optional[int] = 3,
-    batch_size: Optional[int] = 5,
-    sleep_between_batches: Optional[float] = 2.0,
-    sleep_between_requests: Optional[float] = 0.5
+    sleep_time: Optional[float] = 1.0
 ):
     """
     Executa o scraping em background usando BackgroundTasks (assíncrono)
     
     - workers: Número de threads paralelas para processamento
-    - batch_size: Quantidade de itens processados por lote
-    - sleep_between_batches: Tempo de pausa entre lotes (segundos)
-    - sleep_between_requests: Tempo de pausa entre requisições (segundos)
+    - sleep_time: Tempo de pausa entre operações (segundos)
     """
     try:
         os.makedirs(output_dir, exist_ok=True)
@@ -67,9 +63,7 @@ async def executar_async(
             "progress": 0,
             "config": {
                 "workers": workers,
-                "batch_size": batch_size,
-                "sleep_between_batches": sleep_between_batches,
-                "sleep_between_requests": sleep_between_requests
+                "sleep_time": sleep_time
             }
         }
         
@@ -79,9 +73,7 @@ async def executar_async(
             task_id=task_id, 
             output_dir=output_dir,
             workers=workers,
-            batch_size=batch_size,
-            sleep_between_batches=sleep_between_batches,
-            sleep_between_requests=sleep_between_requests
+            sleep_time=sleep_time
         )
         
         return {
@@ -90,9 +82,7 @@ async def executar_async(
             "output_dir": output_dir,
             "config": {
                 "workers": workers,
-                "batch_size": batch_size,
-                "sleep_between_batches": sleep_between_batches,
-                "sleep_between_requests": sleep_between_requests
+                "sleep_time": sleep_time
             }
         }
     except Exception as e:
@@ -104,94 +94,86 @@ async def process_scraper_async(
     task_id: str, 
     output_dir: str,
     workers: int = 3,
-    batch_size: int = 5,
-    sleep_between_batches: float = 2.0,
-    sleep_between_requests: float = 0.5
+    sleep_time: float = 5.0
 ):
     """
-    Processa o scraper de forma assíncrona com paralelismo e controle de taxa
+    Processa o scraper de forma assíncrona com paralelismo e sleep
     """
     try:
         # Atualiza status para "em andamento"
         task_status[task_id]["status"] = "em_andamento"
         task_status[task_id]["progress"] = 0
         
-        # Obtém a lista de itens a serem processados
-        # Aqui você deve substituir esta lista de exemplo pelos itens reais a serem processados
-        all_items = [f"item_{i}" for i in range(20)]  # Exemplo com 20 itens
-        total_items = len(all_items)
+        # Simulando divisão do trabalho em partes (para demonstrar paralelismo)
+        # Na implementação real, você pode dividir por categorias, regiões, etc.
+        parts = [f"parte_{i}" for i in range(workers)]
+        total_parts = len(parts)
+        results = []
         
-        # Função para processar um único item
-        def process_item(item):
-            # Pausa entre requisições para não sobrecarregar o servidor
-            time.sleep(sleep_between_requests)
+        def process_part(part, part_output_dir):
+            """Processa uma parte do trabalho com sleep para não sobrecarregar"""
+            logger.info(f"Processando {part}...")
+            # Adiciona pausa para não sobrecarregar
+            time.sleep(sleep_time)
             
-            # Aqui viria o código real de processamento para cada item
-            # Exemplo: resultados parciais para o item
-            logger.info(f"Processando {item}...")
-            return {"id": item, "resultado": f"Dados processados para {item}"}
+            part_result = run_scraper_task_bg(output_dir=part_output_dir)
+            
+            return {
+                "part": part,
+                "result": part_result
+            }
         
-        # Resultados de todos os itens
-        all_results = []
-        
-        # Processar em lotes
-        for batch_index in range(0, total_items, batch_size):
-            # Seleciona o lote atual
-            batch = all_items[batch_index:batch_index + batch_size]
-            current_batch_size = len(batch)
+        # Usando ThreadPoolExecutor para paralelismo
+        with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+            # Cria diretórios específicos para cada parte, desta forma evita lock nos arquivos
+            # e permite que cada thread escreva em seu próprio diretório
+            part_output_dirs = {part: os.path.join(output_dir, part) for part in parts}
+            for part, part_dir in part_output_dirs.items():
+                os.makedirs(part_dir, exist_ok=True)
             
-            # Log do progresso
-            progress_percent = (batch_index / total_items) * 100
-            logger.info(f"Processando lote {batch_index//batch_size + 1}/{(total_items + batch_size - 1)//batch_size} - {progress_percent:.1f}%")
-            task_status[task_id]["progress"] = progress_percent
+            # Submete as tarefas para execução paralela
+            futures = {
+                executor.submit(process_part, part, part_dir): part 
+                for part, part_dir in part_output_dirs.items()
+            }
             
-            # Processa o lote atual em paralelo
-            batch_results = []
-            with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
-                # Submete todas as tarefas do lote para execução
-                future_to_item = {executor.submit(process_item, item): item for item in batch}
+            # Processa os resultados à medida que são completados
+            completed = 0
+            for future in concurrent.futures.as_completed(futures):
+                part = futures[future]
+                try:
+                    result = future.result()
+                    results.append(result)
+                    logger.info(f"Parte {part} concluída com sucesso")
+                except Exception as e:
+                    logger.error(f"Erro ao processar parte {part}: {str(e)}")
+                    results.append({"part": part, "error": str(e)})
                 
-                # Processa os resultados à medida que são completados
-                for future in concurrent.futures.as_completed(future_to_item):
-                    item = future_to_item[future]
-                    try:
-                        result = future.result()
-                        batch_results.append(result)
-                        logger.info(f"Item {item} processado com sucesso")
-                    except Exception as e:
-                        logger.error(f"Erro ao processar item {item}: {str(e)}")
-                        batch_results.append({"id": item, "status": "error", "error": str(e)})
-            
-            # Adiciona resultados deste lote ao total
-            all_results.extend(batch_results)
-            
-            # Atualiza progresso
-            task_status[task_id]["progress"] = ((batch_index + current_batch_size) / total_items) * 100
-            
-            # Pausa entre lotes
-            if batch_index + batch_size < total_items:
-                logger.info(f"Pausa de {sleep_between_batches} segundos antes do próximo lote...")
-                time.sleep(sleep_between_batches)
+                # Atualiza o progresso
+                completed += 1
+                progress = (completed / total_parts) * 100
+                task_status[task_id]["progress"] = progress
+                logger.info(f"Progresso: {progress:.1f}%")
         
-        # Após processar todos os itens em lotes, chama a função principal do scraper
-        # que pode usar os resultados pré-processados ou fazer o processamento final
-        final_results = run_scraper_task_bg(output_dir=output_dir)
+        # Após o processamento em paralelo, pode ser necessário combinar os resultados
+        # Por exemplo, unir arquivos, consolidar dados, etc.
+        logger.info("Combinando resultados de todas as partes...")
         
-        # Mescla os resultados parciais com o resultado final
-        results = {
-            "status": "success",
-            "items_processed": len(all_results),
-            "partial_results": all_results,
-            "final_results": final_results
-        }
+        # Isso pode ser útil para consolidar os resultados parciais
+        final_result = run_scraper_task_bg(output_dir=output_dir)
         
         # Atualiza status para "concluído"
+        consolidated_results = {
+            "parts_results": results,
+            "final_result": final_result
+        }
+        
         task_status[task_id]["status"] = "concluído"
         task_status[task_id]["end_time"] = datetime.now()
-        task_status[task_id]["results"] = results
+        task_status[task_id]["results"] = consolidated_results
         task_status[task_id]["progress"] = 100
         
-        return results
+        return consolidated_results
     except Exception as e:
         logger.error(f"Erro no processamento assíncrono: {str(e)}")
         task_status[task_id]["status"] = "erro"
@@ -199,7 +181,7 @@ async def process_scraper_async(
         task_status[task_id]["error"] = str(e)
         task_status[task_id]["progress"] = 0
         return None
-    
+        
 
 @router.get("/status/{task_id}")
 async def get_task_status(task_id: str):
