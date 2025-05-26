@@ -96,7 +96,7 @@ embrapa-api/
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/embrapa-api.git  
+git clone https://github.com/rodrigodfernandes/embrapa-api.git  
 cd embrapa-api
 
 2. Configure as variáveis de ambiente:
@@ -215,6 +215,12 @@ Quando implementados, os endpoints específicos da aplicação estarão disponí
 * **Dados Agrícolas**: /api/data/\* \- Acesso aos dados coletados
 
 * **Análises**: /api/analysis/\* \- Endpoints para análises específicas
+
+### **Endpoints Externos**
+
+- **Swagger (Documentação):** [http://45.184.70.12:8000/docs](http://45.184.70.12:8000/docs)
+- **API (Raiz):** [http://45.184.70.12:8000/](http://45.184.70.12:8000/)
+- **Grafana:** [http://45.184.70.12:3000/](http://45.184.70.12:3000/)
 
 ## **💻 Desenvolvimento**
 
