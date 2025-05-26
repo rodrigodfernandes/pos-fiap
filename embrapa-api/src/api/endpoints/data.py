@@ -2,11 +2,12 @@ from fastapi import APIRouter, HTTPException, Depends
 from sqlalchemy.engine import Connection
 from src.config.database import get_db
 from src.core.services.data_service import insert_all_data, get_data_by_module
+from src.core.auth.auth_bearer import get_current_user
 
 router = APIRouter()
 
 @router.post("/import-all")
-def import_all_data(db: Connection = Depends(get_db)):
+def import_all_data(db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
     try:
         insert_all_data(db)
         return {"message": "All data imported successfully."}
@@ -16,7 +17,7 @@ def import_all_data(db: Connection = Depends(get_db)):
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 @router.get("/product")
-def get_product_data(db: Connection = Depends(get_db)):
+def get_product_data(db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
     try:
         data = get_data_by_module("product", db)
         return {"module": "product", "data": data}
@@ -24,7 +25,7 @@ def get_product_data(db: Connection = Depends(get_db)):
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 @router.get("/process")
-def get_process_data(db: Connection = Depends(get_db)):
+def get_process_data(db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
     try:
         data = get_data_by_module("process", db)
         return {"module": "process", "data": data}
@@ -32,7 +33,7 @@ def get_process_data(db: Connection = Depends(get_db)):
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 @router.get("/sales")
-def get_sales_data(db: Connection = Depends(get_db)):
+def get_sales_data(db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
     try:
         data = get_data_by_module("sales", db)
         return {"module": "sales", "data": data}
@@ -40,7 +41,7 @@ def get_sales_data(db: Connection = Depends(get_db)):
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 @router.get("/import")
-def get_import_data(db: Connection = Depends(get_db)):
+def get_import_data(db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
     try:
         data = get_data_by_module("import", db)
         return {"module": "import", "data": data}
@@ -48,7 +49,7 @@ def get_import_data(db: Connection = Depends(get_db)):
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 @router.get("/export")
-def get_export_data(db: Connection = Depends(get_db)):
+def get_export_data(db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
     try:
         data = get_data_by_module("export", db)
         return {"module": "export", "data": data}

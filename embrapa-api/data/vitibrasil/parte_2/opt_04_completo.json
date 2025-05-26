@@ -1,0 +1,317 @@
+[
+    {
+        "Produto":"VINHO DE MESA",
+        "Quantidade (L.)":"187.016.848",
+        "type":"principal"
+    },
+    {
+        "Produto":"Tinto",
+        "Quantidade (L.)":"165.097.539",
+        "type":"principal"
+    },
+    {
+        "Produto":"Rosado",
+        "Quantidade (L.)":"2.520.748",
+        "type":"principal"
+    },
+    {
+        "Produto":"Branco",
+        "Quantidade (L.)":"19.398.561",
+        "type":"principal"
+    },
+    {
+        "Produto":"VINHO FINO DE MESA",
+        "Quantidade (L.)":"18.589.310",
+        "type":"principal"
+    },
+    {
+        "Produto":"Tinto",
+        "Quantidade (L.)":"12.450.606",
+        "type":"principal"
+    },
+    {
+        "Produto":"Rosado",
+        "Quantidade (L.)":"1.214.583",
+        "type":"principal"
+    },
+    {
+        "Produto":"Branco",
+        "Quantidade (L.)":"4.924.121",
+        "type":"principal"
+    },
+    {
+        "Produto":"VINHO FRIZANTE",
+        "Quantidade (L.)":"2.843.600",
+        "type":"principal"
+    },
+    {
+        "Produto":"VINHO ORGÂNICO",
+        "Quantidade (L.)":"9.123",
+        "type":"principal"
+    },
+    {
+        "Produto":"VINHO ESPECIAL",
+        "Quantidade (L.)":"-",
+        "type":"principal"
+    },
+    {
+        "Produto":"Tinto",
+        "Quantidade (L.)":"-",
+        "type":"principal"
+    },
+    {
+        "Produto":"Rosado",
+        "Quantidade (L.)":"-",
+        "type":"principal"
+    },
+    {
+        "Produto":"Branco",
+        "Quantidade (L.)":"-",
+        "type":"principal"
+    },
+    {
+        "Produto":"ESPUMANTES",
+        "Quantidade (L.)":"29.381.635",
+        "type":"principal"
+    },
+    {
+        "Produto":"Espumante Moscatel",
+        "Quantidade (L.)":"9.771.698",
+        "type":"principal"
+    },
+    {
+        "Produto":"Espumante",
+        "Quantidade (L.)":"19.609.379",
+        "type":"principal"
+    },
+    {
+        "Produto":"Espumante Orgânico",
+        "Quantidade (L.)":"558",
+        "type":"principal"
+    },
+    {
+        "Produto":"SUCO DE UVAS",
+        "Quantidade (L.)":"166.708.720",
+        "type":"principal"
+    },
+    {
+        "Produto":"Suco Natural Integral",
+        "Quantidade (L.)":"129.419.407",
+        "type":"principal"
+    },
+    {
+        "Produto":"Suco Adoçado",
+        "Quantidade (L.)":"128.599",
+        "type":"principal"
+    },
+    {
+        "Produto":"Suco Reprocessado\/reconstituido",
+        "Quantidade (L.)":"34.402.925",
+        "type":"principal"
+    },
+    {
+        "Produto":"Suco Orgânico",
+        "Quantidade (L.)":"932.154",
+        "type":"principal"
+    },
+    {
+        "Produto":"Outros sucos de uvas",
+        "Quantidade (L.)":"1.825.635",
+        "type":"principal"
+    },
+    {
+        "Produto":"SUCO DE UVAS CONCENTRADO",
+        "Quantidade (L.)":"37.852.507",
+        "type":"principal"
+    },
+    {
+        "Produto":"OUTROS PRODUTOS COMERCIALIZADOS",
+        "Quantidade (L.)":"29.889.342",
+        "type":"principal"
+    },
+    {
+        "Produto":"Outros vinhos (sem informação detalhada)",
+        "Quantidade (L.)":"8.152",
+        "type":"principal"
+    },
+    {
+        "Produto":"Agrin (fermentado, acetico misto)",
+        "Quantidade (L.)":"-",
+        "type":"principal"
+    },
+    {
+        "Produto":"Aguardente de vinho 50°gl",
+        "Quantidade (L.)":"111",
+        "type":"principal"
+    },
+    {
+        "Produto":"Alcool vinico",
+        "Quantidade (L.)":"-",
+        "type":"principal"
+    },
+    {
+        "Produto":"Bagaceira (graspa)",
+        "Quantidade (L.)":"-",
+        "type":"principal"
+    },
+    {
+        "Produto":"Base champenoise champanha",
+        "Quantidade (L.)":"66.290",
+        "type":"principal"
+    },
+    {
+        "Produto":"Base charmat champanha",
+        "Quantidade (L.)":"184.040",
+        "type":"principal"
+    },
+    {
+        "Produto":"Base espumante moscatel",
+        "Quantidade (L.)":"722.984",
+        "type":"principal"
+    },
+    {
+        "Produto":"Bebida de uva",
+        "Quantidade (L.)":"16.780",
+        "type":"principal"
+    },
+    {
+        "Produto":"Borra líquida",
+        "Quantidade (L.)":"72.600",
+        "type":"principal"
+    },
+    {
+        "Produto":"Borra seca",
+        "Quantidade (L.)":"53.220",
+        "type":"principal"
+    },
+    {
+        "Produto":"Brandy (conhaque)",
+        "Quantidade (L.)":"4.506",
+        "type":"principal"
+    },
+    {
+        "Produto":"Cooler",
+        "Quantidade (L.)":"4.321.881",
+        "type":"principal"
+    },
+    {
+        "Produto":"Coquetel com vinho",
+        "Quantidade (L.)":"397.156",
+        "type":"principal"
+    },
+    {
+        "Produto":"Destilado de vinho",
+        "Quantidade (L.)":"245",
+        "type":"principal"
+    },
+    {
+        "Produto":"Filtrado doce",
+        "Quantidade (L.)":"2.366.601",
+        "type":"principal"
+    },
+    {
+        "Produto":"Jeropiga",
+        "Quantidade (L.)":"346",
+        "type":"principal"
+    },
+    {
+        "Produto":"Mistelas",
+        "Quantidade (L.)":"1.668",
+        "type":"principal"
+    },
+    {
+        "Produto":"Mosto concentrado",
+        "Quantidade (L.)":"-",
+        "type":"principal"
+    },
+    {
+        "Produto":"Mosto de uva",
+        "Quantidade (L.)":"359.626",
+        "type":"principal"
+    },
+    {
+        "Produto":"Mosto sulfitado",
+        "Quantidade (L.)":"-",
+        "type":"principal"
+    },
+    {
+        "Produto":"Nectar de uva",
+        "Quantidade (L.)":"3.604.413",
+        "type":"principal"
+    },
+    {
+        "Produto":"Outros produtos",
+        "Quantidade (L.)":"7.459.271",
+        "type":"principal"
+    },
+    {
+        "Produto":"Polpa de uva",
+        "Quantidade (L.)":"1.331.651",
+        "type":"principal"
+    },
+    {
+        "Produto":"Preparado líquido para refresco",
+        "Quantidade (L.)":"17.178",
+        "type":"principal"
+    },
+    {
+        "Produto":"Refrigerante +50% suco",
+        "Quantidade (L.)":"501.876",
+        "type":"principal"
+    },
+    {
+        "Produto":"Sangria",
+        "Quantidade (L.)":"84.157",
+        "type":"principal"
+    },
+    {
+        "Produto":"Vinagre balsamico",
+        "Quantidade (L.)":"338.926",
+        "type":"principal"
+    },
+    {
+        "Produto":"Vinagre duplo",
+        "Quantidade (L.)":"1.769.130",
+        "type":"principal"
+    },
+    {
+        "Produto":"Vinagre simples",
+        "Quantidade (L.)":"5.047.280",
+        "type":"principal"
+    },
+    {
+        "Produto":"Vinho acetificado",
+        "Quantidade (L.)":"194.020",
+        "type":"principal"
+    },
+    {
+        "Produto":"Vinho base para espumantes",
+        "Quantidade (L.)":"-",
+        "type":"principal"
+    },
+    {
+        "Produto":"Vinho composto",
+        "Quantidade (L.)":"981",
+        "type":"principal"
+    },
+    {
+        "Produto":"Vinho licoroso",
+        "Quantidade (L.)":"421.974",
+        "type":"principal"
+    },
+    {
+        "Produto":"Vinho leve",
+        "Quantidade (L.)":"132.064",
+        "type":"principal"
+    },
+    {
+        "Produto":"Vinho gaseificado",
+        "Quantidade (L.)":"410.215",
+        "type":"principal"
+    },
+    {
+        "Produto":"Total",
+        "Quantidade (L.)":"472.291.085",
+        "type":"principal"
+    }
+]
