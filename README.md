@@ -90,6 +90,77 @@ embrapa-api/
     ├── external/                 \# Integração com serviços externos  
     └── utils/                    \# Utilitários
 
+### Desenho de Infraestrutura
+
+![Infraestrutura](Docs/imagens/infra.png)
+
+**Containers do Projeto:**
+
+- **embrapa-db**  
+  Banco de dados PostgreSQL que armazena os dados da aplicação.
+
+- **pgbouncer**  
+  Proxy/pooler de conexões para o PostgreSQL, otimizando o acesso ao banco.
+
+- **embrapa-migrations**  
+  Executa migrações do banco de dados usando Liquibase ao iniciar o ambiente.
+
+- **embrapa-api**  
+  API principal da aplicação, desenvolvida em FastAPI, responsável por expor os endpoints REST.
+
+- **prometheus**  
+  Banco de métricas responsável por coletar e armazenar métricas dos serviços e exporters.  
+  _Exemplos de métricas:_ uso de CPU/memória dos containers, conexões ao banco, latência de requisições, status dos serviços.
+
+- **grafana**  
+  Dashboard de visualização para métricas e logs, integrando-se ao Prometheus e Loki.
+
+- **loki**  
+  Banco centralizado de logs, utilizado para armazenar e indexar logs dos containers.  
+  _Exemplos de logs:_ requisições HTTP da API, erros/exceções, logs de inicialização dos serviços, logs do banco de dados.
+
+- **promtail**  
+  Agente de coleta de logs dos containers, enviando-os para o Loki.
+
+- **postgres_exporter**  
+  Exportador de métricas do PostgreSQL para o Prometheus.  
+  _Exemplos de métricas:_ conexões ativas, locks, tempo de execução de queries, espaço em disco utilizado.
+
+- **pgbouncer_exporter**  
+  Exportador de métricas do PgBouncer para o Prometheus.  
+  _Exemplos de métricas:_ conexões no pool, conexões ativas/inativas, taxa de requisições.
+
+- **node_exporter**  
+  Exportador de métricas do host (CPU, memória, disco) para o Prometheus.  
+  _Exemplos de métricas:_ uso de CPU do host, espaço em disco, uso de memória RAM.
+
+- **container_monitor**  
+  Exportador customizado de métricas de status, CPU e memória dos containers para o Prometheus.  
+  _Exemplos de métricas:_ status dos containers (rodando/parado), uso de CPU por container, uso de memória por container.
+
+### Desenho de Solução
+
+![Infraestrutura](Docs/imagens/jornada.png)
+
+**Jornada do Desenho:**
+1. **Autenticação**
+   - Para acessar os demais serviços da API, é necessário autenticar-se informando usuário e senha.
+   - O endpoint `/auth` retorna um token JWT caso as credenciais estejam corretas.
+   - Esse token deve ser utilizado nas próximas requisições para autorização.
+
+2. **Coleta de Dados do Site Embrapa**
+   - Após autenticação, é possível capturar os dados do site da Embrapa de duas formas:
+     - **Assíncrona (Async):** Um worker executa a consulta no site e atualiza os arquivos JSON no projeto em background.
+     - **Síncrona (Sync):** A consulta é feita diretamente via chamada de API, e os arquivos JSON são atualizados imediatamente.
+   - Os dados coletados são armazenados em arquivos JSON dentro do projeto.
+
+3. **Importação dos Dados para o Banco**
+   - O endpoint `/import-all` é utilizado para importar os dados dos arquivos JSON gerados na etapa anterior para a base de dados.
+
+4. **Consulta aos Dados**
+   - A API disponibiliza endpoints para consultar os dados já carregados na base, permitindo acesso a diferentes módulos como produto, processamento, vendas, importação e exportação.
+
+
 ## **🚀 Instalação e Execução**
 
 ### **Usando Docker (Recomendado)**
