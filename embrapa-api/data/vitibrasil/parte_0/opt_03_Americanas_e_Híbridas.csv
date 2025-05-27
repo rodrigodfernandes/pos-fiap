@@ -1,0 +1,3349 @@
+id;control;cultivar;ano;Quantidade (Kg)
+1;TINTAS;TINTAS;1970;284285642
+2;ti_Bacarina;Bacarina;1970;82899
+3;ti_Bailey;Bailey;1970;0
+4;ti_Bordo;Bordo;1970;7242197
+5;ti_Bourdin (S);Bourdin (S);1970;0
+6;ti_BRSCarmen;BRS Carmen;1970;0
+7;ti_BRSCora;BRS Cora;1970;0
+8;ti_BRS Magna;BRS Magna;1970;0
+9;ti_BRS Margot;BRS Margot;1970;0
+10;ti_BRSMorena;BRS Morena;1970;0
+29;ti_BRS Núbia ;BRS Núbia ;1970;0
+11;ti_BRS Rúbea;BRS Rúbea;1970;0
+12;ti_BRSVioleta;BRS Violeta;1970;0
+13;ti_BRS Vitória;BRS Vitória;1970;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1970;0
+16;ti_Coleções;Coleções;1970;0
+17;ti_Concord;Concord;1970;5407624
+18;ti_Concordclone30;Concord clone 30;1970;0
+19;ti_Couderc;Couderc;1970;2713692
+20;ti_Cynthiana(1);Cynthiana(1);1970;568653
+21;ti_Herbemont;Herbemont;1970;62053013
+22;ti_IAC138022;IAC 138022;1970;0
+23;ti_Isabel;Isabel;1970;193840398
+24;ti_IsabelPrecoce;Isabel Precoce;1970;0
+25;ti_Jacquez;Jacquez;1970;390593
+26;ti_Kyoko;Kyoko;1970;0
+27;ti_Landot;Landot;1970;134384
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1970;0
+29;ti_Oberlin;Oberlin;1970;15682
+30;ti_Othello;Othello;1970;33013
+31;ti_Paco;Paco;1970;0
+32;ti_Patricia;Patricia;1970;0
+33;ti_Seibel;Seibel;1970;11803494
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1970;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1970;0
+36;ti_Vênus;Vênus;1970;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1970;985007
+38;br_Baco;Baco;1970;4647
+39;br_Bokay;Bokay;1970;0
+40;br_BRS Bibiana ;BRS Bibiana ;1970;0
+41;br_BRSClara;BRS Clara;1970;0
+42;br_BRSLorena;BRS Lorena;1970;0
+43;br_Couderc13;Couderc 13;1970;0
+44;br_Delaware;Delaware;1970;22705
+45;br_DonaZillá;Dona Zillá;1970;0
+46;br_DutChess;Dut Chess;1970;0
+47;br_Goethe;Goethe;1970;311458
+48;br_IAC;IAC;1970;0
+49;br_Juliana;Juliana;1970;0
+50;br_Martha;Martha;1970;15045
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1970;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1970;0
+53;br_Niagara;Niagara;1970;631152
+54;br_NiagaraBranca;Niagara Branca;1970;0
+55;br_NiagaraRosada;Niagara Rosada;1970;0
+56;br_Poloske;Poloske;1970;0
+57;br_Seleções;Seleções;1970;0
+58;br_SeyveVillard;Seyve Villard;1970;0
+59;br_SeyveVillard5276;Seyve Villard 5276;1970;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1970;0
+61;br_TardiadeCaxias;Tardia de Caxias;1970;0
+62;br_Outras;Outras(2);1970;0
+1;TINTAS;TINTAS;1971;193695427
+2;ti_Bacarina;Bacarina;1971;106962
+3;ti_Bailey;Bailey;1971;0
+4;ti_Bordo;Bordo;1971;7227090
+5;ti_Bourdin (S);Bourdin (S);1971;0
+6;ti_BRSCarmen;BRS Carmen;1971;0
+7;ti_BRSCora;BRS Cora;1971;0
+8;ti_BRS Magna;BRS Magna;1971;0
+9;ti_BRS Margot;BRS Margot;1971;0
+10;ti_BRSMorena;BRS Morena;1971;0
+29;ti_BRS Núbia ;BRS Núbia ;1971;0
+11;ti_BRS Rúbea;BRS Rúbea;1971;0
+12;ti_BRSVioleta;BRS Violeta;1971;0
+13;ti_BRS Vitória;BRS Vitória;1971;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1971;0
+16;ti_Coleções;Coleções;1971;0
+17;ti_Concord;Concord;1971;3726469
+18;ti_Concordclone30;Concord clone 30;1971;0
+19;ti_Couderc;Couderc;1971;2835642
+20;ti_Cynthiana(1);Cynthiana(1);1971;419550
+21;ti_Herbemont;Herbemont;1971;43864620
+22;ti_IAC138022;IAC 138022;1971;0
+23;ti_Isabel;Isabel;1971;126754464
+24;ti_IsabelPrecoce;Isabel Precoce;1971;0
+25;ti_Jacquez;Jacquez;1971;203081
+26;ti_Kyoko;Kyoko;1971;0
+27;ti_Landot;Landot;1971;106917
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1971;0
+29;ti_Oberlin;Oberlin;1971;34722
+30;ti_Othello;Othello;1971;106190
+31;ti_Paco;Paco;1971;0
+32;ti_Patricia;Patricia;1971;0
+33;ti_Seibel;Seibel;1971;8309720
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1971;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1971;0
+36;ti_Vênus;Vênus;1971;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1971;557294
+38;br_Baco;Baco;1971;5873
+39;br_Bokay;Bokay;1971;0
+40;br_BRS Bibiana ;BRS Bibiana ;1971;0
+41;br_BRSClara;BRS Clara;1971;0
+42;br_BRSLorena;BRS Lorena;1971;0
+43;br_Couderc13;Couderc 13;1971;0
+44;br_Delaware;Delaware;1971;22883
+45;br_DonaZillá;Dona Zillá;1971;0
+46;br_DutChess;Dut Chess;1971;0
+47;br_Goethe;Goethe;1971;267549
+48;br_IAC;IAC;1971;0
+49;br_Juliana;Juliana;1971;0
+50;br_Martha;Martha;1971;21972
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1971;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1971;0
+53;br_Niagara;Niagara;1971;239017
+54;br_NiagaraBranca;Niagara Branca;1971;0
+55;br_NiagaraRosada;Niagara Rosada;1971;0
+56;br_Poloske;Poloske;1971;0
+57;br_Seleções;Seleções;1971;0
+58;br_SeyveVillard;Seyve Villard;1971;0
+59;br_SeyveVillard5276;Seyve Villard 5276;1971;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1971;0
+61;br_TardiadeCaxias;Tardia de Caxias;1971;0
+62;br_Outras;Outras(2);1971;0
+1;TINTAS;TINTAS;1972;187251954
+2;ti_Bacarina;Bacarina;1972;67464
+3;ti_Bailey;Bailey;1972;0
+4;ti_Bordo;Bordo;1972;6530686
+5;ti_Bourdin (S);Bourdin (S);1972;0
+6;ti_BRSCarmen;BRS Carmen;1972;0
+7;ti_BRSCora;BRS Cora;1972;0
+8;ti_BRS Magna;BRS Magna;1972;0
+9;ti_BRS Margot;BRS Margot;1972;0
+10;ti_BRSMorena;BRS Morena;1972;0
+29;ti_BRS Núbia ;BRS Núbia ;1972;0
+11;ti_BRS Rúbea;BRS Rúbea;1972;0
+12;ti_BRSVioleta;BRS Violeta;1972;0
+13;ti_BRS Vitória;BRS Vitória;1972;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1972;0
+16;ti_Coleções;Coleções;1972;0
+17;ti_Concord;Concord;1972;2262221
+18;ti_Concordclone30;Concord clone 30;1972;0
+19;ti_Couderc;Couderc;1972;2550812
+20;ti_Cynthiana(1);Cynthiana(1);1972;535172
+21;ti_Herbemont;Herbemont;1972;45765536
+22;ti_IAC138022;IAC 138022;1972;0
+23;ti_Isabel;Isabel;1972;120365492
+24;ti_IsabelPrecoce;Isabel Precoce;1972;0
+25;ti_Jacquez;Jacquez;1972;278191
+26;ti_Kyoko;Kyoko;1972;0
+27;ti_Landot;Landot;1972;63740
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1972;0
+29;ti_Oberlin;Oberlin;1972;11136
+30;ti_Othello;Othello;1972;34525
+31;ti_Paco;Paco;1972;0
+32;ti_Patricia;Patricia;1972;0
+33;ti_Seibel;Seibel;1972;8786979
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1972;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1972;0
+36;ti_Vênus;Vênus;1972;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1972;898576
+38;br_Baco;Baco;1972;5084
+39;br_Bokay;Bokay;1972;0
+40;br_BRS Bibiana ;BRS Bibiana ;1972;0
+41;br_BRSClara;BRS Clara;1972;0
+42;br_BRSLorena;BRS Lorena;1972;0
+43;br_Couderc13;Couderc 13;1972;0
+44;br_Delaware;Delaware;1972;7517
+45;br_DonaZillá;Dona Zillá;1972;0
+46;br_DutChess;Dut Chess;1972;0
+47;br_Goethe;Goethe;1972;472553
+48;br_IAC;IAC;1972;0
+49;br_Juliana;Juliana;1972;0
+50;br_Martha;Martha;1972;14716
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1972;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1972;0
+53;br_Niagara;Niagara;1972;253262
+54;br_NiagaraBranca;Niagara Branca;1972;0
+55;br_NiagaraRosada;Niagara Rosada;1972;0
+56;br_Poloske;Poloske;1972;0
+57;br_Seleções;Seleções;1972;0
+58;br_SeyveVillard;Seyve Villard;1972;145444
+59;br_SeyveVillard5276;Seyve Villard 5276;1972;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1972;0
+61;br_TardiadeCaxias;Tardia de Caxias;1972;0
+62;br_Outras;Outras(2);1972;0
+1;TINTAS;TINTAS;1973;161593877
+2;ti_Bacarina;Bacarina;1973;58690
+3;ti_Bailey;Bailey;1973;0
+4;ti_Bordo;Bordo;1973;5584243
+5;ti_Bourdin (S);Bourdin (S);1973;0
+6;ti_BRSCarmen;BRS Carmen;1973;0
+7;ti_BRSCora;BRS Cora;1973;0
+8;ti_BRS Magna;BRS Magna;1973;0
+9;ti_BRS Margot;BRS Margot;1973;0
+10;ti_BRSMorena;BRS Morena;1973;0
+29;ti_BRS Núbia ;BRS Núbia ;1973;0
+11;ti_BRS Rúbea;BRS Rúbea;1973;0
+12;ti_BRSVioleta;BRS Violeta;1973;0
+13;ti_BRS Vitória;BRS Vitória;1973;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1973;0
+16;ti_Coleções;Coleções;1973;0
+17;ti_Concord;Concord;1973;1850704
+18;ti_Concordclone30;Concord clone 30;1973;0
+19;ti_Couderc;Couderc;1973;2602220
+20;ti_Cynthiana(1);Cynthiana(1);1973;360571
+21;ti_Herbemont;Herbemont;1973;33214347
+22;ti_IAC138022;IAC 138022;1973;0
+23;ti_Isabel;Isabel;1973;109787700
+24;ti_IsabelPrecoce;Isabel Precoce;1973;0
+25;ti_Jacquez;Jacquez;1973;302686
+26;ti_Kyoko;Kyoko;1973;0
+27;ti_Landot;Landot;1973;80995
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1973;0
+29;ti_Oberlin;Oberlin;1973;9483
+30;ti_Othello;Othello;1973;17358
+31;ti_Paco;Paco;1973;0
+32;ti_Patricia;Patricia;1973;0
+33;ti_Seibel;Seibel;1973;7724880
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1973;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1973;0
+36;ti_Vênus;Vênus;1973;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1973;231984
+38;br_Baco;Baco;1973;0
+39;br_Bokay;Bokay;1973;0
+40;br_BRS Bibiana ;BRS Bibiana ;1973;0
+41;br_BRSClara;BRS Clara;1973;0
+42;br_BRSLorena;BRS Lorena;1973;0
+43;br_Couderc13;Couderc 13;1973;0
+44;br_Delaware;Delaware;1973;0
+45;br_DonaZillá;Dona Zillá;1973;0
+46;br_DutChess;Dut Chess;1973;0
+47;br_Goethe;Goethe;1973;113941
+48;br_IAC;IAC;1973;0
+49;br_Juliana;Juliana;1973;0
+50;br_Martha;Martha;1973;5126
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1973;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1973;0
+53;br_Niagara;Niagara;1973;112917
+54;br_NiagaraBranca;Niagara Branca;1973;0
+55;br_NiagaraRosada;Niagara Rosada;1973;0
+56;br_Poloske;Poloske;1973;0
+57;br_Seleções;Seleções;1973;0
+58;br_SeyveVillard;Seyve Villard;1973;0
+59;br_SeyveVillard5276;Seyve Villard 5276;1973;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1973;0
+61;br_TardiadeCaxias;Tardia de Caxias;1973;0
+62;br_Outras;Outras(2);1973;0
+1;TINTAS;TINTAS;1974;295404693
+2;ti_Bacarina;Bacarina;1974;138158
+3;ti_Bailey;Bailey;1974;0
+4;ti_Bordo;Bordo;1974;13341412
+5;ti_Bourdin (S);Bourdin (S);1974;0
+6;ti_BRSCarmen;BRS Carmen;1974;0
+7;ti_BRSCora;BRS Cora;1974;0
+8;ti_BRS Magna;BRS Magna;1974;0
+9;ti_BRS Margot;BRS Margot;1974;0
+10;ti_BRSMorena;BRS Morena;1974;0
+29;ti_BRS Núbia ;BRS Núbia ;1974;0
+11;ti_BRS Rúbea;BRS Rúbea;1974;0
+12;ti_BRSVioleta;BRS Violeta;1974;0
+13;ti_BRS Vitória;BRS Vitória;1974;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1974;0
+16;ti_Coleções;Coleções;1974;0
+17;ti_Concord;Concord;1974;5218933
+18;ti_Concordclone30;Concord clone 30;1974;0
+19;ti_Couderc;Couderc;1974;5057735
+20;ti_Cynthiana(1);Cynthiana(1);1974;605039
+21;ti_Herbemont;Herbemont;1974;65865189
+22;ti_IAC138022;IAC 138022;1974;0
+23;ti_Isabel;Isabel;1974;191946376
+24;ti_IsabelPrecoce;Isabel Precoce;1974;0
+25;ti_Jacquez;Jacquez;1974;847092
+26;ti_Kyoko;Kyoko;1974;0
+27;ti_Landot;Landot;1974;103456
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1974;0
+29;ti_Oberlin;Oberlin;1974;47350
+30;ti_Othello;Othello;1974;54730
+31;ti_Paco;Paco;1974;0
+32;ti_Patricia;Patricia;1974;0
+33;ti_Seibel;Seibel;1974;12179223
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1974;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1974;0
+36;ti_Vênus;Vênus;1974;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1974;2865338
+38;br_Baco;Baco;1974;0
+39;br_Bokay;Bokay;1974;0
+40;br_BRS Bibiana ;BRS Bibiana ;1974;0
+41;br_BRSClara;BRS Clara;1974;0
+42;br_BRSLorena;BRS Lorena;1974;0
+43;br_Couderc13;Couderc 13;1974;0
+44;br_Delaware;Delaware;1974;0
+45;br_DonaZillá;Dona Zillá;1974;0
+46;br_DutChess;Dut Chess;1974;0
+47;br_Goethe;Goethe;1974;371399
+48;br_IAC;IAC;1974;0
+49;br_Juliana;Juliana;1974;0
+50;br_Martha;Martha;1974;17486
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1974;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1974;0
+53;br_Niagara;Niagara;1974;2476453
+54;br_NiagaraBranca;Niagara Branca;1974;0
+55;br_NiagaraRosada;Niagara Rosada;1974;0
+56;br_Poloske;Poloske;1974;0
+57;br_Seleções;Seleções;1974;0
+58;br_SeyveVillard;Seyve Villard;1974;0
+59;br_SeyveVillard5276;Seyve Villard 5276;1974;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1974;0
+61;br_TardiadeCaxias;Tardia de Caxias;1974;0
+62;br_Outras;Outras(2);1974;0
+1;TINTAS;TINTAS;1975;282003228
+2;ti_Bacarina;Bacarina;1975;101454
+3;ti_Bailey;Bailey;1975;0
+4;ti_Bordo;Bordo;1975;16023998
+5;ti_Bourdin (S);Bourdin (S);1975;0
+6;ti_BRSCarmen;BRS Carmen;1975;0
+7;ti_BRSCora;BRS Cora;1975;0
+8;ti_BRS Magna;BRS Magna;1975;0
+9;ti_BRS Margot;BRS Margot;1975;0
+10;ti_BRSMorena;BRS Morena;1975;0
+29;ti_BRS Núbia ;BRS Núbia ;1975;0
+11;ti_BRS Rúbea;BRS Rúbea;1975;0
+12;ti_BRSVioleta;BRS Violeta;1975;0
+13;ti_BRS Vitória;BRS Vitória;1975;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1975;0
+16;ti_Coleções;Coleções;1975;0
+17;ti_Concord;Concord;1975;7361018
+18;ti_Concordclone30;Concord clone 30;1975;0
+19;ti_Couderc;Couderc;1975;4052782
+20;ti_Cynthiana(1);Cynthiana(1);1975;544666
+21;ti_Herbemont;Herbemont;1975;48754240
+22;ti_IAC138022;IAC 138022;1975;0
+23;ti_Isabel;Isabel;1975;193394592
+24;ti_IsabelPrecoce;Isabel Precoce;1975;0
+25;ti_Jacquez;Jacquez;1975;513846
+26;ti_Kyoko;Kyoko;1975;0
+27;ti_Landot;Landot;1975;104110
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1975;0
+29;ti_Oberlin;Oberlin;1975;17264
+30;ti_Othello;Othello;1975;53172
+31;ti_Paco;Paco;1975;0
+32;ti_Patricia;Patricia;1975;0
+33;ti_Seibel;Seibel;1975;11082086
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1975;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1975;0
+36;ti_Vênus;Vênus;1975;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1975;2717527
+38;br_Baco;Baco;1975;2610
+39;br_Bokay;Bokay;1975;0
+40;br_BRS Bibiana ;BRS Bibiana ;1975;0
+41;br_BRSClara;BRS Clara;1975;0
+42;br_BRSLorena;BRS Lorena;1975;0
+43;br_Couderc13;Couderc 13;1975;0
+44;br_Delaware;Delaware;1975;0
+45;br_DonaZillá;Dona Zillá;1975;0
+46;br_DutChess;Dut Chess;1975;0
+47;br_Goethe;Goethe;1975;280190
+48;br_IAC;IAC;1975;0
+49;br_Juliana;Juliana;1975;0
+50;br_Martha;Martha;1975;13578
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1975;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1975;0
+53;br_Niagara;Niagara;1975;2409319
+54;br_NiagaraBranca;Niagara Branca;1975;0
+55;br_NiagaraRosada;Niagara Rosada;1975;0
+56;br_Poloske;Poloske;1975;0
+57;br_Seleções;Seleções;1975;0
+58;br_SeyveVillard;Seyve Villard;1975;11830
+59;br_SeyveVillard5276;Seyve Villard 5276;1975;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1975;0
+61;br_TardiadeCaxias;Tardia de Caxias;1975;0
+62;br_Outras;Outras(2);1975;0
+1;TINTAS;TINTAS;1976;222289729
+2;ti_Bacarina;Bacarina;1976;57297
+3;ti_Bailey;Bailey;1976;0
+4;ti_Bordo;Bordo;1976;12725233
+5;ti_Bourdin (S);Bourdin (S);1976;0
+6;ti_BRSCarmen;BRS Carmen;1976;0
+7;ti_BRSCora;BRS Cora;1976;0
+8;ti_BRS Magna;BRS Magna;1976;0
+9;ti_BRS Margot;BRS Margot;1976;0
+10;ti_BRSMorena;BRS Morena;1976;0
+29;ti_BRS Núbia ;BRS Núbia ;1976;0
+11;ti_BRS Rúbea;BRS Rúbea;1976;0
+12;ti_BRSVioleta;BRS Violeta;1976;0
+13;ti_BRS Vitória;BRS Vitória;1976;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1976;0
+16;ti_Coleções;Coleções;1976;0
+17;ti_Concord;Concord;1976;6140559
+18;ti_Concordclone30;Concord clone 30;1976;0
+19;ti_Couderc;Couderc;1976;4084126
+20;ti_Cynthiana(1);Cynthiana(1);1976;351881
+21;ti_Herbemont;Herbemont;1976;41938949
+22;ti_IAC138022;IAC 138022;1976;0
+23;ti_Isabel;Isabel;1976;146746340
+24;ti_IsabelPrecoce;Isabel Precoce;1976;0
+25;ti_Jacquez;Jacquez;1976;495973
+26;ti_Kyoko;Kyoko;1976;0
+27;ti_Landot;Landot;1976;87904
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1976;0
+29;ti_Oberlin;Oberlin;1976;10611
+30;ti_Othello;Othello;1976;77044
+31;ti_Paco;Paco;1976;0
+32;ti_Patricia;Patricia;1976;0
+33;ti_Seibel;Seibel;1976;9573812
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1976;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1976;0
+36;ti_Vênus;Vênus;1976;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1976;1269187
+38;br_Baco;Baco;1976;4172
+39;br_Bokay;Bokay;1976;0
+40;br_BRS Bibiana ;BRS Bibiana ;1976;0
+41;br_BRSClara;BRS Clara;1976;0
+42;br_BRSLorena;BRS Lorena;1976;0
+43;br_Couderc13;Couderc 13;1976;0
+44;br_Delaware;Delaware;1976;0
+45;br_DonaZillá;Dona Zillá;1976;0
+46;br_DutChess;Dut Chess;1976;0
+47;br_Goethe;Goethe;1976;228609
+48;br_IAC;IAC;1976;0
+49;br_Juliana;Juliana;1976;0
+50;br_Martha;Martha;1976;1108
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1976;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1976;0
+53;br_Niagara;Niagara;1976;1035298
+54;br_NiagaraBranca;Niagara Branca;1976;0
+55;br_NiagaraRosada;Niagara Rosada;1976;0
+56;br_Poloske;Poloske;1976;0
+57;br_Seleções;Seleções;1976;0
+58;br_SeyveVillard;Seyve Villard;1976;0
+59;br_SeyveVillard5276;Seyve Villard 5276;1976;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1976;0
+61;br_TardiadeCaxias;Tardia de Caxias;1976;0
+62;br_Outras;Outras(2);1976;0
+1;TINTAS;TINTAS;1977;272772106
+2;ti_Bacarina;Bacarina;1977;0
+3;ti_Bailey;Bailey;1977;0
+4;ti_Bordo;Bordo;1977;18714617
+5;ti_Bourdin (S);Bourdin (S);1977;0
+6;ti_BRSCarmen;BRS Carmen;1977;0
+7;ti_BRSCora;BRS Cora;1977;0
+8;ti_BRS Magna;BRS Magna;1977;0
+9;ti_BRS Margot;BRS Margot;1977;0
+10;ti_BRSMorena;BRS Morena;1977;0
+29;ti_BRS Núbia ;BRS Núbia ;1977;0
+11;ti_BRS Rúbea;BRS Rúbea;1977;0
+12;ti_BRSVioleta;BRS Violeta;1977;0
+13;ti_BRS Vitória;BRS Vitória;1977;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1977;0
+16;ti_Coleções;Coleções;1977;0
+17;ti_Concord;Concord;1977;7387125
+18;ti_Concordclone30;Concord clone 30;1977;0
+19;ti_Couderc;Couderc;1977;4214237
+20;ti_Cynthiana(1);Cynthiana(1);1977;738472
+21;ti_Herbemont;Herbemont;1977;53226940
+22;ti_IAC138022;IAC 138022;1977;0
+23;ti_Isabel;Isabel;1977;175906184
+24;ti_IsabelPrecoce;Isabel Precoce;1977;0
+25;ti_Jacquez;Jacquez;1977;681039
+26;ti_Kyoko;Kyoko;1977;0
+27;ti_Landot;Landot;1977;62198
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1977;0
+29;ti_Oberlin;Oberlin;1977;22059
+30;ti_Othello;Othello;1977;46765
+31;ti_Paco;Paco;1977;0
+32;ti_Patricia;Patricia;1977;0
+33;ti_Seibel;Seibel;1977;11772470
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1977;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1977;0
+36;ti_Vênus;Vênus;1977;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1977;2587615
+38;br_Baco;Baco;1977;13095
+39;br_Bokay;Bokay;1977;0
+40;br_BRS Bibiana ;BRS Bibiana ;1977;0
+41;br_BRSClara;BRS Clara;1977;0
+42;br_BRSLorena;BRS Lorena;1977;0
+43;br_Couderc13;Couderc 13;1977;0
+44;br_Delaware;Delaware;1977;0
+45;br_DonaZillá;Dona Zillá;1977;0
+46;br_DutChess;Dut Chess;1977;0
+47;br_Goethe;Goethe;1977;20404
+48;br_IAC;IAC;1977;0
+49;br_Juliana;Juliana;1977;0
+50;br_Martha;Martha;1977;921
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1977;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1977;0
+53;br_Niagara;Niagara;1977;2468965
+54;br_NiagaraBranca;Niagara Branca;1977;0
+55;br_NiagaraRosada;Niagara Rosada;1977;0
+56;br_Poloske;Poloske;1977;0
+57;br_Seleções;Seleções;1977;0
+58;br_SeyveVillard;Seyve Villard;1977;84230
+59;br_SeyveVillard5276;Seyve Villard 5276;1977;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1977;0
+61;br_TardiadeCaxias;Tardia de Caxias;1977;0
+62;br_Outras;Outras(2);1977;0
+1;TINTAS;TINTAS;1978;295012354
+2;ti_Bacarina;Bacarina;1978;0
+3;ti_Bailey;Bailey;1978;0
+4;ti_Bordo;Bordo;1978;22247163
+5;ti_Bourdin (S);Bourdin (S);1978;0
+6;ti_BRSCarmen;BRS Carmen;1978;0
+7;ti_BRSCora;BRS Cora;1978;0
+8;ti_BRS Magna;BRS Magna;1978;0
+9;ti_BRS Margot;BRS Margot;1978;0
+10;ti_BRSMorena;BRS Morena;1978;0
+29;ti_BRS Núbia ;BRS Núbia ;1978;0
+11;ti_BRS Rúbea;BRS Rúbea;1978;0
+12;ti_BRSVioleta;BRS Violeta;1978;0
+13;ti_BRS Vitória;BRS Vitória;1978;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1978;0
+16;ti_Coleções;Coleções;1978;0
+17;ti_Concord;Concord;1978;8520060
+18;ti_Concordclone30;Concord clone 30;1978;0
+19;ti_Couderc;Couderc;1978;4406881
+20;ti_Cynthiana(1);Cynthiana(1);1978;491780
+21;ti_Herbemont;Herbemont;1978;46594020
+22;ti_IAC138022;IAC 138022;1978;0
+23;ti_Isabel;Isabel;1978;202315021
+24;ti_IsabelPrecoce;Isabel Precoce;1978;0
+25;ti_Jacquez;Jacquez;1978;578872
+26;ti_Kyoko;Kyoko;1978;0
+27;ti_Landot;Landot;1978;44974
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1978;0
+29;ti_Oberlin;Oberlin;1978;13670
+30;ti_Othello;Othello;1978;59623
+31;ti_Paco;Paco;1978;0
+32;ti_Patricia;Patricia;1978;0
+33;ti_Seibel;Seibel;1978;9740290
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1978;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1978;0
+36;ti_Vênus;Vênus;1978;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1978;3780127
+38;br_Baco;Baco;1978;0
+39;br_Bokay;Bokay;1978;0
+40;br_BRS Bibiana ;BRS Bibiana ;1978;0
+41;br_BRSClara;BRS Clara;1978;0
+42;br_BRSLorena;BRS Lorena;1978;0
+43;br_Couderc13;Couderc 13;1978;0
+44;br_Delaware;Delaware;1978;0
+45;br_DonaZillá;Dona Zillá;1978;0
+46;br_DutChess;Dut Chess;1978;0
+47;br_Goethe;Goethe;1978;347450
+48;br_IAC;IAC;1978;0
+49;br_Juliana;Juliana;1978;0
+50;br_Martha;Martha;1978;10749
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1978;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1978;0
+53;br_Niagara;Niagara;1978;3239522
+54;br_NiagaraBranca;Niagara Branca;1978;0
+55;br_NiagaraRosada;Niagara Rosada;1978;0
+56;br_Poloske;Poloske;1978;0
+57;br_Seleções;Seleções;1978;0
+58;br_SeyveVillard;Seyve Villard;1978;182406
+59;br_SeyveVillard5276;Seyve Villard 5276;1978;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1978;0
+61;br_TardiadeCaxias;Tardia de Caxias;1978;0
+62;br_Outras;Outras(2);1978;0
+1;TINTAS;TINTAS;1979;301385687
+2;ti_Bacarina;Bacarina;1979;29525
+3;ti_Bailey;Bailey;1979;0
+4;ti_Bordo;Bordo;1979;20061699
+5;ti_Bourdin (S);Bourdin (S);1979;0
+6;ti_BRSCarmen;BRS Carmen;1979;0
+7;ti_BRSCora;BRS Cora;1979;0
+8;ti_BRS Magna;BRS Magna;1979;0
+9;ti_BRS Margot;BRS Margot;1979;0
+10;ti_BRSMorena;BRS Morena;1979;0
+29;ti_BRS Núbia ;BRS Núbia ;1979;0
+11;ti_BRS Rúbea;BRS Rúbea;1979;0
+12;ti_BRSVioleta;BRS Violeta;1979;0
+13;ti_BRS Vitória;BRS Vitória;1979;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1979;0
+16;ti_Coleções;Coleções;1979;0
+17;ti_Concord;Concord;1979;9016712
+18;ti_Concordclone30;Concord clone 30;1979;0
+19;ti_Couderc;Couderc;1979;5113513
+20;ti_Cynthiana(1);Cynthiana(1);1979;414158
+21;ti_Herbemont;Herbemont;1979;60116742
+22;ti_IAC138022;IAC 138022;1979;0
+23;ti_Isabel;Isabel;1979;195149198
+24;ti_IsabelPrecoce;Isabel Precoce;1979;0
+25;ti_Jacquez;Jacquez;1979;657846
+26;ti_Kyoko;Kyoko;1979;0
+27;ti_Landot;Landot;1979;39884
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1979;0
+29;ti_Oberlin;Oberlin;1979;6207
+30;ti_Othello;Othello;1979;3638
+31;ti_Paco;Paco;1979;0
+32;ti_Patricia;Patricia;1979;0
+33;ti_Seibel;Seibel;1979;10776565
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1979;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1979;0
+36;ti_Vênus;Vênus;1979;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1979;4786127
+38;br_Baco;Baco;1979;0
+39;br_Bokay;Bokay;1979;0
+40;br_BRS Bibiana ;BRS Bibiana ;1979;0
+41;br_BRSClara;BRS Clara;1979;0
+42;br_BRSLorena;BRS Lorena;1979;0
+43;br_Couderc13;Couderc 13;1979;0
+44;br_Delaware;Delaware;1979;19359
+45;br_DonaZillá;Dona Zillá;1979;0
+46;br_DutChess;Dut Chess;1979;0
+47;br_Goethe;Goethe;1979;70345
+48;br_IAC;IAC;1979;0
+49;br_Juliana;Juliana;1979;0
+50;br_Martha;Martha;1979;7396
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1979;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1979;0
+53;br_Niagara;Niagara;1979;3589475
+54;br_NiagaraBranca;Niagara Branca;1979;0
+55;br_NiagaraRosada;Niagara Rosada;1979;0
+56;br_Poloske;Poloske;1979;0
+57;br_Seleções;Seleções;1979;0
+58;br_SeyveVillard;Seyve Villard;1979;1099552
+59;br_SeyveVillard5276;Seyve Villard 5276;1979;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1979;0
+61;br_TardiadeCaxias;Tardia de Caxias;1979;0
+62;br_Outras;Outras(2);1979;0
+1;TINTAS;TINTAS;1980;196759139
+2;ti_Bacarina;Bacarina;1980;37404
+3;ti_Bailey;Bailey;1980;0
+4;ti_Bordo;Bordo;1980;16495642
+5;ti_Bourdin (S);Bourdin (S);1980;0
+6;ti_BRSCarmen;BRS Carmen;1980;0
+7;ti_BRSCora;BRS Cora;1980;0
+8;ti_BRS Magna;BRS Magna;1980;0
+9;ti_BRS Margot;BRS Margot;1980;0
+10;ti_BRSMorena;BRS Morena;1980;0
+29;ti_BRS Núbia ;BRS Núbia ;1980;0
+11;ti_BRS Rúbea;BRS Rúbea;1980;0
+12;ti_BRSVioleta;BRS Violeta;1980;0
+13;ti_BRS Vitória;BRS Vitória;1980;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1980;0
+16;ti_Coleções;Coleções;1980;0
+17;ti_Concord;Concord;1980;5640991
+18;ti_Concordclone30;Concord clone 30;1980;0
+19;ti_Couderc;Couderc;1980;4431263
+20;ti_Cynthiana(1);Cynthiana(1);1980;285705
+21;ti_Herbemont;Herbemont;1980;31377059
+22;ti_IAC138022;IAC 138022;1980;0
+23;ti_Isabel;Isabel;1980;129236559
+24;ti_IsabelPrecoce;Isabel Precoce;1980;0
+25;ti_Jacquez;Jacquez;1980;422025
+26;ti_Kyoko;Kyoko;1980;0
+27;ti_Landot;Landot;1980;36680
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1980;0
+29;ti_Oberlin;Oberlin;1980;1042
+30;ti_Othello;Othello;1980;37273
+31;ti_Paco;Paco;1980;0
+32;ti_Patricia;Patricia;1980;0
+33;ti_Seibel;Seibel;1980;8757496
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1980;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1980;0
+36;ti_Vênus;Vênus;1980;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1980;4360271
+38;br_Baco;Baco;1980;0
+39;br_Bokay;Bokay;1980;0
+40;br_BRS Bibiana ;BRS Bibiana ;1980;0
+41;br_BRSClara;BRS Clara;1980;0
+42;br_BRSLorena;BRS Lorena;1980;0
+43;br_Couderc13;Couderc 13;1980;0
+44;br_Delaware;Delaware;1980;18249
+45;br_DonaZillá;Dona Zillá;1980;0
+46;br_DutChess;Dut Chess;1980;0
+47;br_Goethe;Goethe;1980;16057
+48;br_IAC;IAC;1980;0
+49;br_Juliana;Juliana;1980;0
+50;br_Martha;Martha;1980;980
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1980;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1980;0
+53;br_Niagara;Niagara;1980;4030127
+54;br_NiagaraBranca;Niagara Branca;1980;0
+55;br_NiagaraRosada;Niagara Rosada;1980;0
+56;br_Poloske;Poloske;1980;0
+57;br_Seleções;Seleções;1980;0
+58;br_SeyveVillard;Seyve Villard;1980;294858
+59;br_SeyveVillard5276;Seyve Villard 5276;1980;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1980;0
+61;br_TardiadeCaxias;Tardia de Caxias;1980;0
+62;br_Outras;Outras(2);1980;0
+1;TINTAS;TINTAS;1981;290765867
+2;ti_Bacarina;Bacarina;1981;37893
+3;ti_Bailey;Bailey;1981;0
+4;ti_Bordo;Bordo;1981;20525530
+5;ti_Bourdin (S);Bourdin (S);1981;0
+6;ti_BRSCarmen;BRS Carmen;1981;0
+7;ti_BRSCora;BRS Cora;1981;0
+8;ti_BRS Magna;BRS Magna;1981;0
+9;ti_BRS Margot;BRS Margot;1981;0
+10;ti_BRSMorena;BRS Morena;1981;0
+29;ti_BRS Núbia ;BRS Núbia ;1981;0
+11;ti_BRS Rúbea;BRS Rúbea;1981;0
+12;ti_BRSVioleta;BRS Violeta;1981;0
+13;ti_BRS Vitória;BRS Vitória;1981;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1981;0
+16;ti_Coleções;Coleções;1981;0
+17;ti_Concord;Concord;1981;10751352
+18;ti_Concordclone30;Concord clone 30;1981;0
+19;ti_Couderc;Couderc;1981;4779453
+20;ti_Cynthiana(1);Cynthiana(1);1981;388118
+21;ti_Herbemont;Herbemont;1981;48717399
+22;ti_IAC138022;IAC 138022;1981;0
+23;ti_Isabel;Isabel;1981;191757135
+24;ti_IsabelPrecoce;Isabel Precoce;1981;0
+25;ti_Jacquez;Jacquez;1981;553100
+26;ti_Kyoko;Kyoko;1981;0
+27;ti_Landot;Landot;1981;38773
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1981;0
+29;ti_Oberlin;Oberlin;1981;3428
+30;ti_Othello;Othello;1981;25750
+31;ti_Paco;Paco;1981;0
+32;ti_Patricia;Patricia;1981;0
+33;ti_Seibel;Seibel;1981;13187936
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1981;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1981;0
+36;ti_Vênus;Vênus;1981;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1981;7412211
+38;br_Baco;Baco;1981;0
+39;br_Bokay;Bokay;1981;0
+40;br_BRS Bibiana ;BRS Bibiana ;1981;0
+41;br_BRSClara;BRS Clara;1981;0
+42;br_BRSLorena;BRS Lorena;1981;0
+43;br_Couderc13;Couderc 13;1981;0
+44;br_Delaware;Delaware;1981;4630
+45;br_DonaZillá;Dona Zillá;1981;0
+46;br_DutChess;Dut Chess;1981;0
+47;br_Goethe;Goethe;1981;72134
+48;br_IAC;IAC;1981;0
+49;br_Juliana;Juliana;1981;0
+50;br_Martha;Martha;1981;1041
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1981;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1981;0
+53;br_Niagara;Niagara;1981;6714199
+54;br_NiagaraBranca;Niagara Branca;1981;0
+55;br_NiagaraRosada;Niagara Rosada;1981;0
+56;br_Poloske;Poloske;1981;0
+57;br_Seleções;Seleções;1981;0
+58;br_SeyveVillard;Seyve Villard;1981;620207
+59;br_SeyveVillard5276;Seyve Villard 5276;1981;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1981;0
+61;br_TardiadeCaxias;Tardia de Caxias;1981;0
+62;br_Outras;Outras(2);1981;0
+1;TINTAS;TINTAS;1982;341083460
+2;ti_Bacarina;Bacarina;1982;0
+3;ti_Bailey;Bailey;1982;0
+4;ti_Bordo;Bordo;1982;26385123
+5;ti_Bourdin (S);Bourdin (S);1982;0
+6;ti_BRSCarmen;BRS Carmen;1982;0
+7;ti_BRSCora;BRS Cora;1982;0
+8;ti_BRS Magna;BRS Magna;1982;0
+9;ti_BRS Margot;BRS Margot;1982;0
+10;ti_BRSMorena;BRS Morena;1982;0
+29;ti_BRS Núbia ;BRS Núbia ;1982;0
+11;ti_BRS Rúbea;BRS Rúbea;1982;0
+12;ti_BRSVioleta;BRS Violeta;1982;0
+13;ti_BRS Vitória;BRS Vitória;1982;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1982;0
+16;ti_Coleções;Coleções;1982;0
+17;ti_Concord;Concord;1982;11470646
+18;ti_Concordclone30;Concord clone 30;1982;0
+19;ti_Couderc;Couderc;1982;6234132
+20;ti_Cynthiana(1);Cynthiana(1);1982;400575
+21;ti_Herbemont;Herbemont;1982;48220049
+22;ti_IAC138022;IAC 138022;1982;0
+23;ti_Isabel;Isabel;1982;237185186
+24;ti_IsabelPrecoce;Isabel Precoce;1982;0
+25;ti_Jacquez;Jacquez;1982;796363
+26;ti_Kyoko;Kyoko;1982;0
+27;ti_Landot;Landot;1982;30617
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1982;0
+29;ti_Oberlin;Oberlin;1982;5723
+30;ti_Othello;Othello;1982;37730
+31;ti_Paco;Paco;1982;0
+32;ti_Patricia;Patricia;1982;0
+33;ti_Seibel;Seibel;1982;10317316
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1982;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1982;0
+36;ti_Vênus;Vênus;1982;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1982;13716818
+38;br_Baco;Baco;1982;319
+39;br_Bokay;Bokay;1982;0
+40;br_BRS Bibiana ;BRS Bibiana ;1982;0
+41;br_BRSClara;BRS Clara;1982;0
+42;br_BRSLorena;BRS Lorena;1982;0
+43;br_Couderc13;Couderc 13;1982;0
+44;br_Delaware;Delaware;1982;23875
+45;br_DonaZillá;Dona Zillá;1982;0
+46;br_DutChess;Dut Chess;1982;0
+47;br_Goethe;Goethe;1982;68360
+48;br_IAC;IAC;1982;0
+49;br_Juliana;Juliana;1982;0
+50;br_Martha;Martha;1982;3567
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1982;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1982;0
+53;br_Niagara;Niagara;1982;9863766
+54;br_NiagaraBranca;Niagara Branca;1982;0
+55;br_NiagaraRosada;Niagara Rosada;1982;0
+56;br_Poloske;Poloske;1982;0
+57;br_Seleções;Seleções;1982;0
+58;br_SeyveVillard;Seyve Villard;1982;3756931
+59;br_SeyveVillard5276;Seyve Villard 5276;1982;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1982;0
+61;br_TardiadeCaxias;Tardia de Caxias;1982;0
+62;br_Outras;Outras(2);1982;0
+1;TINTAS;TINTAS;1983;170165573
+2;ti_Bacarina;Bacarina;1983;46640
+3;ti_Bailey;Bailey;1983;0
+4;ti_Bordo;Bordo;1983;14872674
+5;ti_Bourdin (S);Bourdin (S);1983;0
+6;ti_BRSCarmen;BRS Carmen;1983;0
+7;ti_BRSCora;BRS Cora;1983;0
+8;ti_BRS Magna;BRS Magna;1983;0
+9;ti_BRS Margot;BRS Margot;1983;0
+10;ti_BRSMorena;BRS Morena;1983;0
+29;ti_BRS Núbia ;BRS Núbia ;1983;0
+11;ti_BRS Rúbea;BRS Rúbea;1983;0
+12;ti_BRSVioleta;BRS Violeta;1983;0
+13;ti_BRS Vitória;BRS Vitória;1983;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1983;0
+16;ti_Coleções;Coleções;1983;0
+17;ti_Concord;Concord;1983;6864134
+18;ti_Concordclone30;Concord clone 30;1983;0
+19;ti_Couderc;Couderc;1983;4643069
+20;ti_Cynthiana(1);Cynthiana(1);1983;172523
+21;ti_Herbemont;Herbemont;1983;26085982
+22;ti_IAC138022;IAC 138022;1983;0
+23;ti_Isabel;Isabel;1983;108170744
+24;ti_IsabelPrecoce;Isabel Precoce;1983;0
+25;ti_Jacquez;Jacquez;1983;427037
+26;ti_Kyoko;Kyoko;1983;0
+27;ti_Landot;Landot;1983;10195
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1983;0
+29;ti_Oberlin;Oberlin;1983;767
+30;ti_Othello;Othello;1983;10513
+31;ti_Paco;Paco;1983;0
+32;ti_Patricia;Patricia;1983;0
+33;ti_Seibel;Seibel;1983;8861295
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1983;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1983;0
+36;ti_Vênus;Vênus;1983;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1983;9046967
+38;br_Baco;Baco;1983;0
+39;br_Bokay;Bokay;1983;0
+40;br_BRS Bibiana ;BRS Bibiana ;1983;0
+41;br_BRSClara;BRS Clara;1983;0
+42;br_BRSLorena;BRS Lorena;1983;0
+43;br_Couderc13;Couderc 13;1983;322338
+44;br_Delaware;Delaware;1983;0
+45;br_DonaZillá;Dona Zillá;1983;0
+46;br_DutChess;Dut Chess;1983;0
+47;br_Goethe;Goethe;1983;130894
+48;br_IAC;IAC;1983;0
+49;br_Juliana;Juliana;1983;0
+50;br_Martha;Martha;1983;1920
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1983;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1983;0
+53;br_Niagara;Niagara;1983;4496756
+54;br_NiagaraBranca;Niagara Branca;1983;0
+55;br_NiagaraRosada;Niagara Rosada;1983;0
+56;br_Poloske;Poloske;1983;0
+57;br_Seleções;Seleções;1983;0
+58;br_SeyveVillard;Seyve Villard;1983;4095059
+59;br_SeyveVillard5276;Seyve Villard 5276;1983;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1983;0
+61;br_TardiadeCaxias;Tardia de Caxias;1983;0
+62;br_Outras;Outras(2);1983;0
+1;TINTAS;TINTAS;1984;261019229
+2;ti_Bacarina;Bacarina;1984;46767
+3;ti_Bailey;Bailey;1984;0
+4;ti_Bordo;Bordo;1984;22146292
+5;ti_Bourdin (S);Bourdin (S);1984;0
+6;ti_BRSCarmen;BRS Carmen;1984;0
+7;ti_BRSCora;BRS Cora;1984;0
+8;ti_BRS Magna;BRS Magna;1984;0
+9;ti_BRS Margot;BRS Margot;1984;0
+10;ti_BRSMorena;BRS Morena;1984;0
+29;ti_BRS Núbia ;BRS Núbia ;1984;0
+11;ti_BRS Rúbea;BRS Rúbea;1984;0
+12;ti_BRSVioleta;BRS Violeta;1984;0
+13;ti_BRS Vitória;BRS Vitória;1984;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1984;0
+16;ti_Coleções;Coleções;1984;0
+17;ti_Concord;Concord;1984;8550370
+18;ti_Concordclone30;Concord clone 30;1984;0
+19;ti_Couderc;Couderc;1984;5544207
+20;ti_Cynthiana(1);Cynthiana(1);1984;553285
+21;ti_Herbemont;Herbemont;1984;44313715
+22;ti_IAC138022;IAC 138022;1984;0
+23;ti_Isabel;Isabel;1984;166802020
+24;ti_IsabelPrecoce;Isabel Precoce;1984;0
+25;ti_Jacquez;Jacquez;1984;807228
+26;ti_Kyoko;Kyoko;1984;0
+27;ti_Landot;Landot;1984;8774
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1984;0
+29;ti_Oberlin;Oberlin;1984;0
+30;ti_Othello;Othello;1984;0
+31;ti_Paco;Paco;1984;0
+32;ti_Patricia;Patricia;1984;0
+33;ti_Seibel;Seibel;1984;12246571
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1984;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1984;0
+36;ti_Vênus;Vênus;1984;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1984;14368810
+38;br_Baco;Baco;1984;0
+39;br_Bokay;Bokay;1984;0
+40;br_BRS Bibiana ;BRS Bibiana ;1984;0
+41;br_BRSClara;BRS Clara;1984;0
+42;br_BRSLorena;BRS Lorena;1984;0
+43;br_Couderc13;Couderc 13;1984;589380
+44;br_Delaware;Delaware;1984;0
+45;br_DonaZillá;Dona Zillá;1984;0
+46;br_DutChess;Dut Chess;1984;0
+47;br_Goethe;Goethe;1984;169402
+48;br_IAC;IAC;1984;0
+49;br_Juliana;Juliana;1984;0
+50;br_Martha;Martha;1984;16321
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1984;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1984;0
+53;br_Niagara;Niagara;1984;8308736
+54;br_NiagaraBranca;Niagara Branca;1984;0
+55;br_NiagaraRosada;Niagara Rosada;1984;0
+56;br_Poloske;Poloske;1984;0
+57;br_Seleções;Seleções;1984;0
+58;br_SeyveVillard;Seyve Villard;1984;5284971
+59;br_SeyveVillard5276;Seyve Villard 5276;1984;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1984;0
+61;br_TardiadeCaxias;Tardia de Caxias;1984;0
+62;br_Outras;Outras(2);1984;0
+1;TINTAS;TINTAS;1985;385216611
+2;ti_Bacarina;Bacarina;1985;55878
+3;ti_Bailey;Bailey;1985;0
+4;ti_Bordo;Bordo;1985;36787283
+5;ti_Bourdin (S);Bourdin (S);1985;0
+6;ti_BRSCarmen;BRS Carmen;1985;0
+7;ti_BRSCora;BRS Cora;1985;0
+8;ti_BRS Magna;BRS Magna;1985;0
+9;ti_BRS Margot;BRS Margot;1985;0
+10;ti_BRSMorena;BRS Morena;1985;0
+29;ti_BRS Núbia ;BRS Núbia ;1985;0
+11;ti_BRS Rúbea;BRS Rúbea;1985;0
+12;ti_BRSVioleta;BRS Violeta;1985;0
+13;ti_BRS Vitória;BRS Vitória;1985;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1985;0
+16;ti_Coleções;Coleções;1985;0
+17;ti_Concord;Concord;1985;17270192
+18;ti_Concordclone30;Concord clone 30;1985;0
+19;ti_Couderc;Couderc;1985;7341937
+20;ti_Cynthiana(1);Cynthiana(1);1985;467677
+21;ti_Herbemont;Herbemont;1985;47677634
+22;ti_IAC138022;IAC 138022;1985;0
+23;ti_Isabel;Isabel;1985;261311720
+24;ti_IsabelPrecoce;Isabel Precoce;1985;0
+25;ti_Jacquez;Jacquez;1985;883337
+26;ti_Kyoko;Kyoko;1985;0
+27;ti_Landot;Landot;1985;21485
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1985;0
+29;ti_Oberlin;Oberlin;1985;177
+30;ti_Othello;Othello;1985;4862
+31;ti_Paco;Paco;1985;0
+32;ti_Patricia;Patricia;1985;0
+33;ti_Seibel;Seibel;1985;13394429
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1985;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1985;0
+36;ti_Vênus;Vênus;1985;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1985;21256077
+38;br_Baco;Baco;1985;1688
+39;br_Bokay;Bokay;1985;0
+40;br_BRS Bibiana ;BRS Bibiana ;1985;0
+41;br_BRSClara;BRS Clara;1985;0
+42;br_BRSLorena;BRS Lorena;1985;0
+43;br_Couderc13;Couderc 13;1985;906354
+44;br_Delaware;Delaware;1985;0
+45;br_DonaZillá;Dona Zillá;1985;0
+46;br_DutChess;Dut Chess;1985;0
+47;br_Goethe;Goethe;1985;301062
+48;br_IAC;IAC;1985;0
+49;br_Juliana;Juliana;1985;0
+50;br_Martha;Martha;1985;9096
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1985;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1985;0
+53;br_Niagara;Niagara;1985;14685699
+54;br_NiagaraBranca;Niagara Branca;1985;0
+55;br_NiagaraRosada;Niagara Rosada;1985;0
+56;br_Poloske;Poloske;1985;0
+57;br_Seleções;Seleções;1985;0
+58;br_SeyveVillard;Seyve Villard;1985;5234899
+59;br_SeyveVillard5276;Seyve Villard 5276;1985;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1985;117279
+61;br_TardiadeCaxias;Tardia de Caxias;1985;0
+62;br_Outras;Outras(2);1985;0
+1;TINTAS;TINTAS;1986;225069529
+2;ti_Bacarina;Bacarina;1986;26538
+3;ti_Bailey;Bailey;1986;0
+4;ti_Bordo;Bordo;1986;23956474
+5;ti_Bourdin (S);Bourdin (S);1986;0
+6;ti_BRSCarmen;BRS Carmen;1986;0
+7;ti_BRSCora;BRS Cora;1986;0
+8;ti_BRS Magna;BRS Magna;1986;0
+9;ti_BRS Margot;BRS Margot;1986;0
+10;ti_BRSMorena;BRS Morena;1986;0
+29;ti_BRS Núbia ;BRS Núbia ;1986;0
+11;ti_BRS Rúbea;BRS Rúbea;1986;0
+12;ti_BRSVioleta;BRS Violeta;1986;0
+13;ti_BRS Vitória;BRS Vitória;1986;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1986;0
+16;ti_Coleções;Coleções;1986;0
+17;ti_Concord;Concord;1986;8864661
+18;ti_Concordclone30;Concord clone 30;1986;0
+19;ti_Couderc;Couderc;1986;5474248
+20;ti_Cynthiana(1);Cynthiana(1);1986;304481
+21;ti_Herbemont;Herbemont;1986;29438543
+22;ti_IAC138022;IAC 138022;1986;0
+23;ti_Isabel;Isabel;1986;148440133
+24;ti_IsabelPrecoce;Isabel Precoce;1986;0
+25;ti_Jacquez;Jacquez;1986;608629
+26;ti_Kyoko;Kyoko;1986;0
+27;ti_Landot;Landot;1986;5953
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1986;0
+29;ti_Oberlin;Oberlin;1986;4770
+30;ti_Othello;Othello;1986;4488
+31;ti_Paco;Paco;1986;0
+32;ti_Patricia;Patricia;1986;0
+33;ti_Seibel;Seibel;1986;7940611
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1986;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1986;0
+36;ti_Vênus;Vênus;1986;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1986;14188471
+38;br_Baco;Baco;1986;0
+39;br_Bokay;Bokay;1986;0
+40;br_BRS Bibiana ;BRS Bibiana ;1986;0
+41;br_BRSClara;BRS Clara;1986;0
+42;br_BRSLorena;BRS Lorena;1986;0
+43;br_Couderc13;Couderc 13;1986;982883
+44;br_Delaware;Delaware;1986;0
+45;br_DonaZillá;Dona Zillá;1986;0
+46;br_DutChess;Dut Chess;1986;0
+47;br_Goethe;Goethe;1986;363437
+48;br_IAC;IAC;1986;0
+49;br_Juliana;Juliana;1986;0
+50;br_Martha;Martha;1986;1155
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1986;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1986;0
+53;br_Niagara;Niagara;1986;9191120
+54;br_NiagaraBranca;Niagara Branca;1986;0
+55;br_NiagaraRosada;Niagara Rosada;1986;0
+56;br_Poloske;Poloske;1986;0
+57;br_Seleções;Seleções;1986;0
+58;br_SeyveVillard;Seyve Villard;1986;3649876
+59;br_SeyveVillard5276;Seyve Villard 5276;1986;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1986;0
+61;br_TardiadeCaxias;Tardia de Caxias;1986;0
+62;br_Outras;Outras(2);1986;0
+1;TINTAS;TINTAS;1987;218625428
+2;ti_Bacarina;Bacarina;1987;40547
+3;ti_Bailey;Bailey;1987;0
+4;ti_Bordo;Bordo;1987;22318163
+5;ti_Bourdin (S);Bourdin (S);1987;0
+6;ti_BRSCarmen;BRS Carmen;1987;0
+7;ti_BRSCora;BRS Cora;1987;0
+8;ti_BRS Magna;BRS Magna;1987;0
+9;ti_BRS Margot;BRS Margot;1987;0
+10;ti_BRSMorena;BRS Morena;1987;0
+29;ti_BRS Núbia ;BRS Núbia ;1987;0
+11;ti_BRS Rúbea;BRS Rúbea;1987;0
+12;ti_BRSVioleta;BRS Violeta;1987;0
+13;ti_BRS Vitória;BRS Vitória;1987;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1987;0
+16;ti_Coleções;Coleções;1987;0
+17;ti_Concord;Concord;1987;11047563
+18;ti_Concordclone30;Concord clone 30;1987;0
+19;ti_Couderc;Couderc;1987;6244818
+20;ti_Cynthiana(1);Cynthiana(1);1987;286589
+21;ti_Herbemont;Herbemont;1987;29335178
+22;ti_IAC138022;IAC 138022;1987;0
+23;ti_Isabel;Isabel;1987;140066153
+24;ti_IsabelPrecoce;Isabel Precoce;1987;0
+25;ti_Jacquez;Jacquez;1987;532204
+26;ti_Kyoko;Kyoko;1987;0
+27;ti_Landot;Landot;1987;3078
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1987;0
+29;ti_Oberlin;Oberlin;1987;85
+30;ti_Othello;Othello;1987;3295
+31;ti_Paco;Paco;1987;0
+32;ti_Patricia;Patricia;1987;0
+33;ti_Seibel;Seibel;1987;8747755
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1987;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1987;0
+36;ti_Vênus;Vênus;1987;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1987;17527966
+38;br_Baco;Baco;1987;0
+39;br_Bokay;Bokay;1987;0
+40;br_BRS Bibiana ;BRS Bibiana ;1987;0
+41;br_BRSClara;BRS Clara;1987;0
+42;br_BRSLorena;BRS Lorena;1987;0
+43;br_Couderc13;Couderc 13;1987;1977492
+44;br_Delaware;Delaware;1987;0
+45;br_DonaZillá;Dona Zillá;1987;0
+46;br_DutChess;Dut Chess;1987;0
+47;br_Goethe;Goethe;1987;178750
+48;br_IAC;IAC;1987;0
+49;br_Juliana;Juliana;1987;0
+50;br_Martha;Martha;1987;3200
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1987;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1987;0
+53;br_Niagara;Niagara;1987;12590860
+54;br_NiagaraBranca;Niagara Branca;1987;0
+55;br_NiagaraRosada;Niagara Rosada;1987;0
+56;br_Poloske;Poloske;1987;0
+57;br_Seleções;Seleções;1987;0
+58;br_SeyveVillard;Seyve Villard;1987;2777664
+59;br_SeyveVillard5276;Seyve Villard 5276;1987;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1987;0
+61;br_TardiadeCaxias;Tardia de Caxias;1987;0
+62;br_Outras;Outras(2);1987;0
+1;TINTAS;TINTAS;1988;359389651
+2;ti_Bacarina;Bacarina;1988;0
+3;ti_Bailey;Bailey;1988;0
+4;ti_Bordo;Bordo;1988;34047360
+5;ti_Bourdin (S);Bourdin (S);1988;0
+6;ti_BRSCarmen;BRS Carmen;1988;0
+7;ti_BRSCora;BRS Cora;1988;0
+8;ti_BRS Magna;BRS Magna;1988;0
+9;ti_BRS Margot;BRS Margot;1988;0
+10;ti_BRSMorena;BRS Morena;1988;0
+29;ti_BRS Núbia ;BRS Núbia ;1988;0
+11;ti_BRS Rúbea;BRS Rúbea;1988;0
+12;ti_BRSVioleta;BRS Violeta;1988;0
+13;ti_BRS Vitória;BRS Vitória;1988;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1988;0
+16;ti_Coleções;Coleções;1988;0
+17;ti_Concord;Concord;1988;16295035
+18;ti_Concordclone30;Concord clone 30;1988;0
+19;ti_Couderc;Couderc;1988;6141396
+20;ti_Cynthiana(1);Cynthiana(1);1988;397685
+21;ti_Herbemont;Herbemont;1988;46197631
+22;ti_IAC138022;IAC 138022;1988;0
+23;ti_Isabel;Isabel;1988;235678802
+24;ti_IsabelPrecoce;Isabel Precoce;1988;0
+25;ti_Jacquez;Jacquez;1988;841551
+26;ti_Kyoko;Kyoko;1988;0
+27;ti_Landot;Landot;1988;8728
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1988;0
+29;ti_Oberlin;Oberlin;1988;460
+30;ti_Othello;Othello;1988;91992
+31;ti_Paco;Paco;1988;0
+32;ti_Patricia;Patricia;1988;0
+33;ti_Seibel;Seibel;1988;19689011
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1988;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1988;0
+36;ti_Vênus;Vênus;1988;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1988;27423226
+38;br_Baco;Baco;1988;0
+39;br_Bokay;Bokay;1988;0
+40;br_BRS Bibiana ;BRS Bibiana ;1988;0
+41;br_BRSClara;BRS Clara;1988;0
+42;br_BRSLorena;BRS Lorena;1988;0
+43;br_Couderc13;Couderc 13;1988;2218296
+44;br_Delaware;Delaware;1988;0
+45;br_DonaZillá;Dona Zillá;1988;0
+46;br_DutChess;Dut Chess;1988;0
+47;br_Goethe;Goethe;1988;433377
+48;br_IAC;IAC;1988;0
+49;br_Juliana;Juliana;1988;0
+50;br_Martha;Martha;1988;5482
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1988;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1988;0
+53;br_Niagara;Niagara;1988;18884834
+54;br_NiagaraBranca;Niagara Branca;1988;0
+55;br_NiagaraRosada;Niagara Rosada;1988;0
+56;br_Poloske;Poloske;1988;0
+57;br_Seleções;Seleções;1988;0
+58;br_SeyveVillard;Seyve Villard;1988;5881237
+59;br_SeyveVillard5276;Seyve Villard 5276;1988;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1988;0
+61;br_TardiadeCaxias;Tardia de Caxias;1988;0
+62;br_Outras;Outras(2);1988;0
+1;TINTAS;TINTAS;1989;254480942
+2;ti_Bacarina;Bacarina;1989;0
+3;ti_Bailey;Bailey;1989;0
+4;ti_Bordo;Bordo;1989;32102192
+5;ti_Bourdin (S);Bourdin (S);1989;0
+6;ti_BRSCarmen;BRS Carmen;1989;0
+7;ti_BRSCora;BRS Cora;1989;0
+8;ti_BRS Magna;BRS Magna;1989;0
+9;ti_BRS Margot;BRS Margot;1989;0
+10;ti_BRSMorena;BRS Morena;1989;0
+29;ti_BRS Núbia ;BRS Núbia ;1989;0
+11;ti_BRS Rúbea;BRS Rúbea;1989;0
+12;ti_BRSVioleta;BRS Violeta;1989;0
+13;ti_BRS Vitória;BRS Vitória;1989;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1989;0
+16;ti_Coleções;Coleções;1989;0
+17;ti_Concord;Concord;1989;12222671
+18;ti_Concordclone30;Concord clone 30;1989;0
+19;ti_Couderc;Couderc;1989;8457905
+20;ti_Cynthiana(1);Cynthiana(1);1989;327562
+21;ti_Herbemont;Herbemont;1989;29443570
+22;ti_IAC138022;IAC 138022;1989;0
+23;ti_Isabel;Isabel;1989;159406823
+24;ti_IsabelPrecoce;Isabel Precoce;1989;0
+25;ti_Jacquez;Jacquez;1989;804883
+26;ti_Kyoko;Kyoko;1989;0
+27;ti_Landot;Landot;1989;2005
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1989;0
+29;ti_Oberlin;Oberlin;1989;276
+30;ti_Othello;Othello;1989;72780
+31;ti_Paco;Paco;1989;0
+32;ti_Patricia;Patricia;1989;0
+33;ti_Seibel;Seibel;1989;11640275
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1989;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1989;0
+36;ti_Vênus;Vênus;1989;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1989;25521025
+38;br_Baco;Baco;1989;448
+39;br_Bokay;Bokay;1989;0
+40;br_BRS Bibiana ;BRS Bibiana ;1989;0
+41;br_BRSClara;BRS Clara;1989;0
+42;br_BRSLorena;BRS Lorena;1989;0
+43;br_Couderc13;Couderc 13;1989;2614887
+44;br_Delaware;Delaware;1989;0
+45;br_DonaZillá;Dona Zillá;1989;0
+46;br_DutChess;Dut Chess;1989;0
+47;br_Goethe;Goethe;1989;328972
+48;br_IAC;IAC;1989;0
+49;br_Juliana;Juliana;1989;0
+50;br_Martha;Martha;1989;8930
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1989;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1989;0
+53;br_Niagara;Niagara;1989;17211883
+54;br_NiagaraBranca;Niagara Branca;1989;245263
+55;br_NiagaraRosada;Niagara Rosada;1989;118763
+56;br_Poloske;Poloske;1989;0
+57;br_Seleções;Seleções;1989;0
+58;br_SeyveVillard;Seyve Villard;1989;4991879
+59;br_SeyveVillard5276;Seyve Villard 5276;1989;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1989;0
+61;br_TardiadeCaxias;Tardia de Caxias;1989;0
+62;br_Outras;Outras(2);1989;0
+1;TINTAS;TINTAS;1990;314756312
+2;ti_Bacarina;Bacarina;1990;0
+3;ti_Bailey;Bailey;1990;0
+4;ti_Bordo;Bordo;1990;32681255
+5;ti_Bourdin (S);Bourdin (S);1990;0
+6;ti_BRSCarmen;BRS Carmen;1990;0
+7;ti_BRSCora;BRS Cora;1990;0
+8;ti_BRS Magna;BRS Magna;1990;0
+9;ti_BRS Margot;BRS Margot;1990;0
+10;ti_BRSMorena;BRS Morena;1990;0
+29;ti_BRS Núbia ;BRS Núbia ;1990;0
+11;ti_BRS Rúbea;BRS Rúbea;1990;0
+12;ti_BRSVioleta;BRS Violeta;1990;0
+13;ti_BRS Vitória;BRS Vitória;1990;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1990;0
+16;ti_Coleções;Coleções;1990;0
+17;ti_Concord;Concord;1990;15417034
+18;ti_Concordclone30;Concord clone 30;1990;0
+19;ti_Couderc;Couderc;1990;6959591
+20;ti_Cynthiana(1);Cynthiana(1);1990;342604
+21;ti_Herbemont;Herbemont;1990;33234026
+22;ti_IAC138022;IAC 138022;1990;0
+23;ti_Isabel;Isabel;1990;210877130
+24;ti_IsabelPrecoce;Isabel Precoce;1990;0
+25;ti_Jacquez;Jacquez;1990;995409
+26;ti_Kyoko;Kyoko;1990;0
+27;ti_Landot;Landot;1990;3243
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1990;0
+29;ti_Oberlin;Oberlin;1990;91
+30;ti_Othello;Othello;1990;57552
+31;ti_Paco;Paco;1990;0
+32;ti_Patricia;Patricia;1990;0
+33;ti_Seibel;Seibel;1990;14188377
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1990;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1990;0
+36;ti_Vênus;Vênus;1990;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1990;28728839
+38;br_Baco;Baco;1990;739
+39;br_Bokay;Bokay;1990;0
+40;br_BRS Bibiana ;BRS Bibiana ;1990;0
+41;br_BRSClara;BRS Clara;1990;0
+42;br_BRSLorena;BRS Lorena;1990;0
+43;br_Couderc13;Couderc 13;1990;2790853
+44;br_Delaware;Delaware;1990;0
+45;br_DonaZillá;Dona Zillá;1990;0
+46;br_DutChess;Dut Chess;1990;0
+47;br_Goethe;Goethe;1990;472611
+48;br_IAC;IAC;1990;0
+49;br_Juliana;Juliana;1990;0
+50;br_Martha;Martha;1990;4001
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1990;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1990;0
+53;br_Niagara;Niagara;1990;20800524
+54;br_NiagaraBranca;Niagara Branca;1990;0
+55;br_NiagaraRosada;Niagara Rosada;1990;477502
+56;br_Poloske;Poloske;1990;0
+57;br_Seleções;Seleções;1990;0
+58;br_SeyveVillard;Seyve Villard;1990;4182609
+59;br_SeyveVillard5276;Seyve Villard 5276;1990;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1990;0
+61;br_TardiadeCaxias;Tardia de Caxias;1990;0
+62;br_Outras;Outras(2);1990;0
+1;TINTAS;TINTAS;1991;217625877
+2;ti_Bacarina;Bacarina;1991;0
+3;ti_Bailey;Bailey;1991;0
+4;ti_Bordo;Bordo;1991;28036345
+5;ti_Bourdin (S);Bourdin (S);1991;0
+6;ti_BRSCarmen;BRS Carmen;1991;0
+7;ti_BRSCora;BRS Cora;1991;0
+8;ti_BRS Magna;BRS Magna;1991;0
+9;ti_BRS Margot;BRS Margot;1991;0
+10;ti_BRSMorena;BRS Morena;1991;0
+29;ti_BRS Núbia ;BRS Núbia ;1991;0
+11;ti_BRS Rúbea;BRS Rúbea;1991;0
+12;ti_BRSVioleta;BRS Violeta;1991;0
+13;ti_BRS Vitória;BRS Vitória;1991;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1991;0
+16;ti_Coleções;Coleções;1991;0
+17;ti_Concord;Concord;1991;14941796
+18;ti_Concordclone30;Concord clone 30;1991;0
+19;ti_Couderc;Couderc;1991;5270323
+20;ti_Cynthiana(1);Cynthiana(1);1991;221319
+21;ti_Herbemont;Herbemont;1991;24856167
+22;ti_IAC138022;IAC 138022;1991;0
+23;ti_Isabel;Isabel;1991;132328198
+24;ti_IsabelPrecoce;Isabel Precoce;1991;0
+25;ti_Jacquez;Jacquez;1991;1687679
+26;ti_Kyoko;Kyoko;1991;0
+27;ti_Landot;Landot;1991;5831
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1991;0
+29;ti_Oberlin;Oberlin;1991;0
+30;ti_Othello;Othello;1991;50940
+31;ti_Paco;Paco;1991;0
+32;ti_Patricia;Patricia;1991;0
+33;ti_Seibel;Seibel;1991;10227279
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1991;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1991;0
+36;ti_Vênus;Vênus;1991;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1991;23233994
+38;br_Baco;Baco;1991;1699
+39;br_Bokay;Bokay;1991;0
+40;br_BRS Bibiana ;BRS Bibiana ;1991;0
+41;br_BRSClara;BRS Clara;1991;0
+42;br_BRSLorena;BRS Lorena;1991;0
+43;br_Couderc13;Couderc 13;1991;2506363
+44;br_Delaware;Delaware;1991;0
+45;br_DonaZillá;Dona Zillá;1991;0
+46;br_DutChess;Dut Chess;1991;0
+47;br_Goethe;Goethe;1991;431040
+48;br_IAC;IAC;1991;0
+49;br_Juliana;Juliana;1991;0
+50;br_Martha;Martha;1991;1449
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1991;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1991;0
+53;br_Niagara;Niagara;1991;17234514
+54;br_NiagaraBranca;Niagara Branca;1991;0
+55;br_NiagaraRosada;Niagara Rosada;1991;245082
+56;br_Poloske;Poloske;1991;0
+57;br_Seleções;Seleções;1991;0
+58;br_SeyveVillard;Seyve Villard;1991;2813847
+59;br_SeyveVillard5276;Seyve Villard 5276;1991;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1991;0
+61;br_TardiadeCaxias;Tardia de Caxias;1991;0
+62;br_Outras;Outras(2);1991;0
+1;TINTAS;TINTAS;1992;263373326
+2;ti_Bacarina;Bacarina;1992;0
+3;ti_Bailey;Bailey;1992;0
+4;ti_Bordo;Bordo;1992;32595535
+5;ti_Bourdin (S);Bourdin (S);1992;0
+6;ti_BRSCarmen;BRS Carmen;1992;0
+7;ti_BRSCora;BRS Cora;1992;0
+8;ti_BRS Magna;BRS Magna;1992;0
+9;ti_BRS Margot;BRS Margot;1992;0
+10;ti_BRSMorena;BRS Morena;1992;0
+29;ti_BRS Núbia ;BRS Núbia ;1992;0
+11;ti_BRS Rúbea;BRS Rúbea;1992;0
+12;ti_BRSVioleta;BRS Violeta;1992;0
+13;ti_BRS Vitória;BRS Vitória;1992;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1992;0
+16;ti_Coleções;Coleções;1992;0
+17;ti_Concord;Concord;1992;14188621
+18;ti_Concordclone30;Concord clone 30;1992;0
+19;ti_Couderc;Couderc;1992;6545413
+20;ti_Cynthiana(1);Cynthiana(1);1992;321747
+21;ti_Herbemont;Herbemont;1992;29784144
+22;ti_IAC138022;IAC 138022;1992;0
+23;ti_Isabel;Isabel;1992;164527740
+24;ti_IsabelPrecoce;Isabel Precoce;1992;0
+25;ti_Jacquez;Jacquez;1992;1586195
+26;ti_Kyoko;Kyoko;1992;0
+27;ti_Landot;Landot;1992;1472
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1992;0
+29;ti_Oberlin;Oberlin;1992;0
+30;ti_Othello;Othello;1992;37109
+31;ti_Paco;Paco;1992;0
+32;ti_Patricia;Patricia;1992;0
+33;ti_Seibel;Seibel;1992;13785350
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1992;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1992;0
+36;ti_Vênus;Vênus;1992;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1992;19198967
+38;br_Baco;Baco;1992;1262
+39;br_Bokay;Bokay;1992;0
+40;br_BRS Bibiana ;BRS Bibiana ;1992;0
+41;br_BRSClara;BRS Clara;1992;0
+42;br_BRSLorena;BRS Lorena;1992;0
+43;br_Couderc13;Couderc 13;1992;3007751
+44;br_Delaware;Delaware;1992;0
+45;br_DonaZillá;Dona Zillá;1992;0
+46;br_DutChess;Dut Chess;1992;0
+47;br_Goethe;Goethe;1992;74765
+48;br_IAC;IAC;1992;0
+49;br_Juliana;Juliana;1992;0
+50;br_Martha;Martha;1992;2100
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1992;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1992;0
+53;br_Niagara;Niagara;1992;12657729
+54;br_NiagaraBranca;Niagara Branca;1992;0
+55;br_NiagaraRosada;Niagara Rosada;1992;388417
+56;br_Poloske;Poloske;1992;0
+57;br_Seleções;Seleções;1992;0
+58;br_SeyveVillard;Seyve Villard;1992;3066943
+59;br_SeyveVillard5276;Seyve Villard 5276;1992;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1992;0
+61;br_TardiadeCaxias;Tardia de Caxias;1992;0
+62;br_Outras;Outras(2);1992;0
+1;TINTAS;TINTAS;1993;258584904
+2;ti_Bacarina;Bacarina;1993;0
+3;ti_Bailey;Bailey;1993;0
+4;ti_Bordo;Bordo;1993;31680138
+5;ti_Bourdin (S);Bourdin (S);1993;0
+6;ti_BRSCarmen;BRS Carmen;1993;0
+7;ti_BRSCora;BRS Cora;1993;0
+8;ti_BRS Magna;BRS Magna;1993;0
+9;ti_BRS Margot;BRS Margot;1993;0
+10;ti_BRSMorena;BRS Morena;1993;0
+29;ti_BRS Núbia ;BRS Núbia ;1993;0
+11;ti_BRS Rúbea;BRS Rúbea;1993;0
+12;ti_BRSVioleta;BRS Violeta;1993;0
+13;ti_BRS Vitória;BRS Vitória;1993;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1993;0
+16;ti_Coleções;Coleções;1993;0
+17;ti_Concord;Concord;1993;19215089
+18;ti_Concordclone30;Concord clone 30;1993;0
+19;ti_Couderc;Couderc;1993;7880808
+20;ti_Cynthiana(1);Cynthiana(1);1993;394647
+21;ti_Herbemont;Herbemont;1993;25696041
+22;ti_IAC138022;IAC 138022;1993;0
+23;ti_Isabel;Isabel;1993;160040350
+24;ti_IsabelPrecoce;Isabel Precoce;1993;0
+25;ti_Jacquez;Jacquez;1993;1511782
+26;ti_Kyoko;Kyoko;1993;0
+27;ti_Landot;Landot;1993;575
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1993;0
+29;ti_Oberlin;Oberlin;1993;0
+30;ti_Othello;Othello;1993;65870
+31;ti_Paco;Paco;1993;0
+32;ti_Patricia;Patricia;1993;0
+33;ti_Seibel;Seibel;1993;12099604
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1993;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1993;0
+36;ti_Vênus;Vênus;1993;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1993;28443405
+38;br_Baco;Baco;1993;0
+39;br_Bokay;Bokay;1993;0
+40;br_BRS Bibiana ;BRS Bibiana ;1993;0
+41;br_BRSClara;BRS Clara;1993;0
+42;br_BRSLorena;BRS Lorena;1993;0
+43;br_Couderc13;Couderc 13;1993;2841307
+44;br_Delaware;Delaware;1993;0
+45;br_DonaZillá;Dona Zillá;1993;0
+46;br_DutChess;Dut Chess;1993;0
+47;br_Goethe;Goethe;1993;76160
+48;br_IAC;IAC;1993;0
+49;br_Juliana;Juliana;1993;0
+50;br_Martha;Martha;1993;0
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1993;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1993;0
+53;br_Niagara;Niagara;1993;21246181
+54;br_NiagaraBranca;Niagara Branca;1993;0
+55;br_NiagaraRosada;Niagara Rosada;1993;919565
+56;br_Poloske;Poloske;1993;0
+57;br_Seleções;Seleções;1993;0
+58;br_SeyveVillard;Seyve Villard;1993;3360192
+59;br_SeyveVillard5276;Seyve Villard 5276;1993;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1993;0
+61;br_TardiadeCaxias;Tardia de Caxias;1993;0
+62;br_Outras;Outras(2);1993;0
+1;TINTAS;TINTAS;1994;298954232
+2;ti_Bacarina;Bacarina;1994;0
+3;ti_Bailey;Bailey;1994;0
+4;ti_Bordo;Bordo;1994;35680856
+5;ti_Bourdin (S);Bourdin (S);1994;78952
+6;ti_BRSCarmen;BRS Carmen;1994;0
+7;ti_BRSCora;BRS Cora;1994;0
+8;ti_BRS Magna;BRS Magna;1994;0
+9;ti_BRS Margot;BRS Margot;1994;0
+10;ti_BRSMorena;BRS Morena;1994;0
+29;ti_BRS Núbia ;BRS Núbia ;1994;0
+11;ti_BRS Rúbea;BRS Rúbea;1994;0
+12;ti_BRSVioleta;BRS Violeta;1994;0
+13;ti_BRS Vitória;BRS Vitória;1994;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1994;0
+16;ti_Coleções;Coleções;1994;0
+17;ti_Concord;Concord;1994;21325339
+18;ti_Concordclone30;Concord clone 30;1994;0
+19;ti_Couderc;Couderc;1994;10306977
+20;ti_Cynthiana(1);Cynthiana(1);1994;304456
+21;ti_Herbemont;Herbemont;1994;29001540
+22;ti_IAC138022;IAC 138022;1994;508580
+23;ti_Isabel;Isabel;1994;176725596
+24;ti_IsabelPrecoce;Isabel Precoce;1994;0
+25;ti_Jacquez;Jacquez;1994;4133466
+26;ti_Kyoko;Kyoko;1994;0
+27;ti_Landot;Landot;1994;1760
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1994;0
+29;ti_Oberlin;Oberlin;1994;62
+30;ti_Othello;Othello;1994;70019
+31;ti_Paco;Paco;1994;0
+32;ti_Patricia;Patricia;1994;0
+33;ti_Seibel;Seibel;1994;20816629
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1994;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1994;0
+36;ti_Vênus;Vênus;1994;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1994;29216963
+38;br_Baco;Baco;1994;1952
+39;br_Bokay;Bokay;1994;0
+40;br_BRS Bibiana ;BRS Bibiana ;1994;0
+41;br_BRSClara;BRS Clara;1994;0
+42;br_BRSLorena;BRS Lorena;1994;0
+43;br_Couderc13;Couderc 13;1994;2341773
+44;br_Delaware;Delaware;1994;0
+45;br_DonaZillá;Dona Zillá;1994;0
+46;br_DutChess;Dut Chess;1994;0
+47;br_Goethe;Goethe;1994;361587
+48;br_IAC;IAC;1994;0
+49;br_Juliana;Juliana;1994;0
+50;br_Martha;Martha;1994;0
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1994;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1994;0
+53;br_Niagara;Niagara;1994;21892480
+54;br_NiagaraBranca;Niagara Branca;1994;94323
+55;br_NiagaraRosada;Niagara Rosada;1994;1552087
+56;br_Poloske;Poloske;1994;0
+57;br_Seleções;Seleções;1994;0
+58;br_SeyveVillard;Seyve Villard;1994;2818418
+59;br_SeyveVillard5276;Seyve Villard 5276;1994;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1994;154343
+61;br_TardiadeCaxias;Tardia de Caxias;1994;0
+62;br_Outras;Outras(2);1994;0
+1;TINTAS;TINTAS;1995;313953430
+2;ti_Bacarina;Bacarina;1995;0
+3;ti_Bailey;Bailey;1995;0
+4;ti_Bordo;Bordo;1995;36409536
+5;ti_Bourdin (S);Bourdin (S);1995;0
+6;ti_BRSCarmen;BRS Carmen;1995;0
+7;ti_BRSCora;BRS Cora;1995;0
+8;ti_BRS Magna;BRS Magna;1995;0
+9;ti_BRS Margot;BRS Margot;1995;0
+10;ti_BRSMorena;BRS Morena;1995;0
+29;ti_BRS Núbia ;BRS Núbia ;1995;0
+11;ti_BRS Rúbea;BRS Rúbea;1995;0
+12;ti_BRSVioleta;BRS Violeta;1995;0
+13;ti_BRS Vitória;BRS Vitória;1995;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1995;0
+16;ti_Coleções;Coleções;1995;0
+17;ti_Concord;Concord;1995;19710821
+18;ti_Concordclone30;Concord clone 30;1995;0
+19;ti_Couderc;Couderc;1995;8015634
+20;ti_Cynthiana(1);Cynthiana(1);1995;368619
+21;ti_Herbemont;Herbemont;1995;31362294
+22;ti_IAC138022;IAC 138022;1995;0
+23;ti_Isabel;Isabel;1995;199803720
+24;ti_IsabelPrecoce;Isabel Precoce;1995;0
+25;ti_Jacquez;Jacquez;1995;1662439
+26;ti_Kyoko;Kyoko;1995;0
+27;ti_Landot;Landot;1995;935
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1995;0
+29;ti_Oberlin;Oberlin;1995;0
+30;ti_Othello;Othello;1995;43847
+31;ti_Paco;Paco;1995;0
+32;ti_Patricia;Patricia;1995;0
+33;ti_Seibel;Seibel;1995;16575585
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1995;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1995;0
+36;ti_Vênus;Vênus;1995;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1995;30114221
+38;br_Baco;Baco;1995;1048
+39;br_Bokay;Bokay;1995;0
+40;br_BRS Bibiana ;BRS Bibiana ;1995;0
+41;br_BRSClara;BRS Clara;1995;0
+42;br_BRSLorena;BRS Lorena;1995;0
+43;br_Couderc13;Couderc 13;1995;3376162
+44;br_Delaware;Delaware;1995;0
+45;br_DonaZillá;Dona Zillá;1995;0
+46;br_DutChess;Dut Chess;1995;0
+47;br_Goethe;Goethe;1995;47140
+48;br_IAC;IAC;1995;0
+49;br_Juliana;Juliana;1995;0
+50;br_Martha;Martha;1995;4454
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1995;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1995;0
+53;br_Niagara;Niagara;1995;22138607
+54;br_NiagaraBranca;Niagara Branca;1995;0
+55;br_NiagaraRosada;Niagara Rosada;1995;1454485
+56;br_Poloske;Poloske;1995;0
+57;br_Seleções;Seleções;1995;0
+58;br_SeyveVillard;Seyve Villard;1995;3092325
+59;br_SeyveVillard5276;Seyve Villard 5276;1995;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1995;0
+61;br_TardiadeCaxias;Tardia de Caxias;1995;0
+62;br_Outras;Outras(2);1995;0
+1;TINTAS;TINTAS;1996;231499856
+2;ti_Bacarina;Bacarina;1996;0
+3;ti_Bailey;Bailey;1996;0
+4;ti_Bordo;Bordo;1996;31280138
+5;ti_Bourdin (S);Bourdin (S);1996;0
+6;ti_BRSCarmen;BRS Carmen;1996;0
+7;ti_BRSCora;BRS Cora;1996;0
+8;ti_BRS Magna;BRS Magna;1996;0
+9;ti_BRS Margot;BRS Margot;1996;0
+10;ti_BRSMorena;BRS Morena;1996;0
+29;ti_BRS Núbia ;BRS Núbia ;1996;0
+11;ti_BRS Rúbea;BRS Rúbea;1996;0
+12;ti_BRSVioleta;BRS Violeta;1996;0
+13;ti_BRS Vitória;BRS Vitória;1996;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1996;0
+16;ti_Coleções;Coleções;1996;0
+17;ti_Concord;Concord;1996;16894753
+18;ti_Concordclone30;Concord clone 30;1996;0
+19;ti_Couderc;Couderc;1996;8736532
+20;ti_Cynthiana(1);Cynthiana(1);1996;415262
+21;ti_Herbemont;Herbemont;1996;21055147
+22;ti_IAC138022;IAC 138022;1996;0
+23;ti_Isabel;Isabel;1996;137107664
+24;ti_IsabelPrecoce;Isabel Precoce;1996;0
+25;ti_Jacquez;Jacquez;1996;1817283
+26;ti_Kyoko;Kyoko;1996;0
+27;ti_Landot;Landot;1996;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1996;0
+29;ti_Oberlin;Oberlin;1996;0
+30;ti_Othello;Othello;1996;25953
+31;ti_Paco;Paco;1996;0
+32;ti_Patricia;Patricia;1996;0
+33;ti_Seibel;Seibel;1996;14167124
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1996;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1996;0
+36;ti_Vênus;Vênus;1996;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1996;21299828
+38;br_Baco;Baco;1996;1482
+39;br_Bokay;Bokay;1996;0
+40;br_BRS Bibiana ;BRS Bibiana ;1996;0
+41;br_BRSClara;BRS Clara;1996;0
+42;br_BRSLorena;BRS Lorena;1996;0
+43;br_Couderc13;Couderc 13;1996;2627423
+44;br_Delaware;Delaware;1996;0
+45;br_DonaZillá;Dona Zillá;1996;0
+46;br_DutChess;Dut Chess;1996;0
+47;br_Goethe;Goethe;1996;341189
+48;br_IAC;IAC;1996;0
+49;br_Juliana;Juliana;1996;0
+50;br_Martha;Martha;1996;995
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1996;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1996;0
+53;br_Niagara;Niagara;1996;14560449
+54;br_NiagaraBranca;Niagara Branca;1996;15406
+55;br_NiagaraRosada;Niagara Rosada;1996;1391996
+56;br_Poloske;Poloske;1996;0
+57;br_Seleções;Seleções;1996;0
+58;br_SeyveVillard;Seyve Villard;1996;2311312
+59;br_SeyveVillard5276;Seyve Villard 5276;1996;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1996;0
+61;br_TardiadeCaxias;Tardia de Caxias;1996;0
+62;br_Outras;Outras(2);1996;49576
+1;TINTAS;TINTAS;1997;276583456
+2;ti_Bacarina;Bacarina;1997;0
+3;ti_Bailey;Bailey;1997;0
+4;ti_Bordo;Bordo;1997;32904803
+5;ti_Bourdin (S);Bourdin (S);1997;0
+6;ti_BRSCarmen;BRS Carmen;1997;0
+7;ti_BRSCora;BRS Cora;1997;0
+8;ti_BRS Magna;BRS Magna;1997;0
+9;ti_BRS Margot;BRS Margot;1997;0
+10;ti_BRSMorena;BRS Morena;1997;0
+29;ti_BRS Núbia ;BRS Núbia ;1997;0
+11;ti_BRS Rúbea;BRS Rúbea;1997;0
+12;ti_BRSVioleta;BRS Violeta;1997;0
+13;ti_BRS Vitória;BRS Vitória;1997;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1997;0
+16;ti_Coleções;Coleções;1997;0
+17;ti_Concord;Concord;1997;25314872
+18;ti_Concordclone30;Concord clone 30;1997;0
+19;ti_Couderc;Couderc;1997;10236308
+20;ti_Cynthiana(1);Cynthiana(1);1997;470750
+21;ti_Herbemont;Herbemont;1997;24288342
+22;ti_IAC138022;IAC 138022;1997;0
+23;ti_Isabel;Isabel;1997;162509173
+24;ti_IsabelPrecoce;Isabel Precoce;1997;0
+25;ti_Jacquez;Jacquez;1997;1913297
+26;ti_Kyoko;Kyoko;1997;0
+27;ti_Landot;Landot;1997;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1997;0
+29;ti_Oberlin;Oberlin;1997;0
+30;ti_Othello;Othello;1997;31225
+31;ti_Paco;Paco;1997;0
+32;ti_Patricia;Patricia;1997;0
+33;ti_Seibel;Seibel;1997;18914686
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1997;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1997;0
+36;ti_Vênus;Vênus;1997;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1997;42990852
+38;br_Baco;Baco;1997;1030
+39;br_Bokay;Bokay;1997;0
+40;br_BRS Bibiana ;BRS Bibiana ;1997;0
+41;br_BRSClara;BRS Clara;1997;0
+42;br_BRSLorena;BRS Lorena;1997;0
+43;br_Couderc13;Couderc 13;1997;3702369
+44;br_Delaware;Delaware;1997;0
+45;br_DonaZillá;Dona Zillá;1997;0
+46;br_DutChess;Dut Chess;1997;0
+47;br_Goethe;Goethe;1997;337063
+48;br_IAC;IAC;1997;0
+49;br_Juliana;Juliana;1997;0
+50;br_Martha;Martha;1997;9311
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1997;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1997;0
+53;br_Niagara;Niagara;1997;30382883
+54;br_NiagaraBranca;Niagara Branca;1997;0
+55;br_NiagaraRosada;Niagara Rosada;1997;6321306
+56;br_Poloske;Poloske;1997;0
+57;br_Seleções;Seleções;1997;0
+58;br_SeyveVillard;Seyve Villard;1997;0
+59;br_SeyveVillard5276;Seyve Villard 5276;1997;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1997;2219710
+61;br_TardiadeCaxias;Tardia de Caxias;1997;0
+62;br_Outras;Outras(2);1997;17180
+1;TINTAS;TINTAS;1998;242607184
+2;ti_Bacarina;Bacarina;1998;0
+3;ti_Bailey;Bailey;1998;0
+4;ti_Bordo;Bordo;1998;34014727
+5;ti_Bourdin (S);Bourdin (S);1998;7270
+6;ti_BRSCarmen;BRS Carmen;1998;0
+7;ti_BRSCora;BRS Cora;1998;0
+8;ti_BRS Magna;BRS Magna;1998;0
+9;ti_BRS Margot;BRS Margot;1998;0
+10;ti_BRSMorena;BRS Morena;1998;0
+29;ti_BRS Núbia ;BRS Núbia ;1998;0
+11;ti_BRS Rúbea;BRS Rúbea;1998;0
+12;ti_BRSVioleta;BRS Violeta;1998;0
+13;ti_BRS Vitória;BRS Vitória;1998;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1998;0
+16;ti_Coleções;Coleções;1998;0
+17;ti_Concord;Concord;1998;21850423
+18;ti_Concordclone30;Concord clone 30;1998;0
+19;ti_Couderc;Couderc;1998;9098481
+20;ti_Cynthiana(1);Cynthiana(1);1998;292590
+21;ti_Herbemont;Herbemont;1998;17315058
+22;ti_IAC138022;IAC 138022;1998;0
+23;ti_Isabel;Isabel;1998;143410394
+24;ti_IsabelPrecoce;Isabel Precoce;1998;0
+25;ti_Jacquez;Jacquez;1998;2221138
+26;ti_Kyoko;Kyoko;1998;0
+27;ti_Landot;Landot;1998;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1998;0
+29;ti_Oberlin;Oberlin;1998;2826
+30;ti_Othello;Othello;1998;55456
+31;ti_Paco;Paco;1998;0
+32;ti_Patricia;Patricia;1998;0
+33;ti_Seibel;Seibel;1998;14338821
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1998;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1998;0
+36;ti_Vênus;Vênus;1998;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1998;25221416
+38;br_Baco;Baco;1998;1012
+39;br_Bokay;Bokay;1998;0
+40;br_BRS Bibiana ;BRS Bibiana ;1998;0
+41;br_BRSClara;BRS Clara;1998;0
+42;br_BRSLorena;BRS Lorena;1998;0
+43;br_Couderc13;Couderc 13;1998;2598439
+44;br_Delaware;Delaware;1998;0
+45;br_DonaZillá;Dona Zillá;1998;0
+46;br_DutChess;Dut Chess;1998;16342
+47;br_Goethe;Goethe;1998;322158
+48;br_IAC;IAC;1998;0
+49;br_Juliana;Juliana;1998;0
+50;br_Martha;Martha;1998;4307
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1998;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1998;0
+53;br_Niagara;Niagara;1998;16338939
+54;br_NiagaraBranca;Niagara Branca;1998;0
+55;br_NiagaraRosada;Niagara Rosada;1998;4312102
+56;br_Poloske;Poloske;1998;0
+57;br_Seleções;Seleções;1998;0
+58;br_SeyveVillard;Seyve Villard;1998;1564884
+59;br_SeyveVillard5276;Seyve Villard 5276;1998;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1998;63233
+61;br_TardiadeCaxias;Tardia de Caxias;1998;0
+62;br_Outras;Outras(2);1998;0
+1;TINTAS;TINTAS;1999;327487348
+2;ti_Bacarina;Bacarina;1999;0
+3;ti_Bailey;Bailey;1999;0
+4;ti_Bordo;Bordo;1999;40736069
+5;ti_Bourdin (S);Bourdin (S);1999;0
+6;ti_BRSCarmen;BRS Carmen;1999;0
+7;ti_BRSCora;BRS Cora;1999;0
+8;ti_BRS Magna;BRS Magna;1999;0
+9;ti_BRS Margot;BRS Margot;1999;0
+10;ti_BRSMorena;BRS Morena;1999;0
+29;ti_BRS Núbia ;BRS Núbia ;1999;0
+11;ti_BRS Rúbea;BRS Rúbea;1999;0
+12;ti_BRSVioleta;BRS Violeta;1999;0
+13;ti_BRS Vitória;BRS Vitória;1999;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);1999;0
+16;ti_Coleções;Coleções;1999;0
+17;ti_Concord;Concord;1999;21225797
+18;ti_Concordclone30;Concord clone 30;1999;0
+19;ti_Couderc;Couderc;1999;15235782
+20;ti_Cynthiana(1);Cynthiana(1);1999;501809
+21;ti_Herbemont;Herbemont;1999;25009687
+22;ti_IAC138022;IAC 138022;1999;0
+23;ti_Isabel;Isabel;1999;195025199
+24;ti_IsabelPrecoce;Isabel Precoce;1999;0
+25;ti_Jacquez;Jacquez;1999;1735671
+26;ti_Kyoko;Kyoko;1999;0
+27;ti_Landot;Landot;1999;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;1999;0
+29;ti_Oberlin;Oberlin;1999;0
+30;ti_Othello;Othello;1999;70987
+31;ti_Paco;Paco;1999;0
+32;ti_Patricia;Patricia;1999;0
+33;ti_Seibel;Seibel;1999;27946347
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);1999;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);1999;0
+36;ti_Vênus;Vênus;1999;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;1999;41020063
+38;br_Baco;Baco;1999;106
+39;br_Bokay;Bokay;1999;0
+40;br_BRS Bibiana ;BRS Bibiana ;1999;0
+41;br_BRSClara;BRS Clara;1999;0
+42;br_BRSLorena;BRS Lorena;1999;0
+43;br_Couderc13;Couderc 13;1999;4524048
+44;br_Delaware;Delaware;1999;0
+45;br_DonaZillá;Dona Zillá;1999;0
+46;br_DutChess;Dut Chess;1999;15706
+47;br_Goethe;Goethe;1999;318742
+48;br_IAC;IAC;1999;0
+49;br_Juliana;Juliana;1999;0
+50;br_Martha;Martha;1999;5128
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;1999;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;1999;51522
+53;br_Niagara;Niagara;1999;1467529
+54;br_NiagaraBranca;Niagara Branca;1999;26743235
+55;br_NiagaraRosada;Niagara Rosada;1999;5387168
+56;br_Poloske;Poloske;1999;0
+57;br_Seleções;Seleções;1999;0
+58;br_SeyveVillard;Seyve Villard;1999;1741794
+59;br_SeyveVillard5276;Seyve Villard 5276;1999;0
+60;br_SeyveVillard12375;Seyve Villard 12375;1999;426691
+61;br_TardiadeCaxias;Tardia de Caxias;1999;0
+62;br_Outras;Outras(2);1999;338394
+1;TINTAS;TINTAS;2000;397963584
+2;ti_Bacarina;Bacarina;2000;0
+3;ti_Bailey;Bailey;2000;0
+4;ti_Bordo;Bordo;2000;52382471
+5;ti_Bourdin (S);Bourdin (S);2000;0
+6;ti_BRSCarmen;BRS Carmen;2000;0
+7;ti_BRSCora;BRS Cora;2000;0
+8;ti_BRS Magna;BRS Magna;2000;0
+9;ti_BRS Margot;BRS Margot;2000;0
+10;ti_BRSMorena;BRS Morena;2000;0
+29;ti_BRS Núbia ;BRS Núbia ;2000;0
+11;ti_BRS Rúbea;BRS Rúbea;2000;6716
+12;ti_BRSVioleta;BRS Violeta;2000;0
+13;ti_BRS Vitória;BRS Vitória;2000;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2000;0
+16;ti_Coleções;Coleções;2000;0
+17;ti_Concord;Concord;2000;30977892
+18;ti_Concordclone30;Concord clone 30;2000;0
+19;ti_Couderc;Couderc;2000;18482712
+20;ti_Cynthiana(1);Cynthiana(1);2000;655439
+21;ti_Herbemont;Herbemont;2000;25932525
+22;ti_IAC138022;IAC 138022;2000;0
+23;ti_Isabel;Isabel;2000;237507385
+24;ti_IsabelPrecoce;Isabel Precoce;2000;0
+25;ti_Jacquez;Jacquez;2000;0
+26;ti_Kyoko;Kyoko;2000;0
+27;ti_Landot;Landot;2000;223
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2000;0
+29;ti_Oberlin;Oberlin;2000;4380
+30;ti_Othello;Othello;2000;80659
+31;ti_Paco;Paco;2000;0
+32;ti_Patricia;Patricia;2000;0
+33;ti_Seibel;Seibel;2000;31253537
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2000;0
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2000;679645
+36;ti_Vênus;Vênus;2000;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2000;49381965
+38;br_Baco;Baco;2000;0
+39;br_Bokay;Bokay;2000;0
+40;br_BRS Bibiana ;BRS Bibiana ;2000;0
+41;br_BRSClara;BRS Clara;2000;0
+42;br_BRSLorena;BRS Lorena;2000;0
+43;br_Couderc13;Couderc 13;2000;6123476
+44;br_Delaware;Delaware;2000;0
+45;br_DonaZillá;Dona Zillá;2000;89841
+46;br_DutChess;Dut Chess;2000;0
+47;br_Goethe;Goethe;2000;501930
+48;br_IAC;IAC;2000;0
+49;br_Juliana;Juliana;2000;0
+50;br_Martha;Martha;2000;10397
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2000;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2000;73931
+53;br_Niagara;Niagara;2000;0
+54;br_NiagaraBranca;Niagara Branca;2000;29969046
+55;br_NiagaraRosada;Niagara Rosada;2000;10125596
+56;br_Poloske;Poloske;2000;0
+57;br_Seleções;Seleções;2000;0
+58;br_SeyveVillard;Seyve Villard;2000;982857
+59;br_SeyveVillard5276;Seyve Villard 5276;2000;0
+60;br_SeyveVillard12375;Seyve Villard 12375;2000;1447387
+61;br_TardiadeCaxias;Tardia de Caxias;2000;0
+62;br_Outras;Outras(2);2000;57504
+1;TINTAS;TINTAS;2001;324932786
+2;ti_Bacarina;Bacarina;2001;0
+3;ti_Bailey;Bailey;2001;425674
+4;ti_Bordo;Bordo;2001;42098781
+5;ti_Bourdin (S);Bourdin (S);2001;0
+6;ti_BRSCarmen;BRS Carmen;2001;0
+7;ti_BRSCora;BRS Cora;2001;0
+8;ti_BRS Magna;BRS Magna;2001;0
+9;ti_BRS Margot;BRS Margot;2001;0
+10;ti_BRSMorena;BRS Morena;2001;0
+29;ti_BRS Núbia ;BRS Núbia ;2001;0
+11;ti_BRS Rúbea;BRS Rúbea;2001;32167
+12;ti_BRSVioleta;BRS Violeta;2001;0
+13;ti_BRS Vitória;BRS Vitória;2001;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2001;0
+16;ti_Coleções;Coleções;2001;0
+17;ti_Concord;Concord;2001;32948855
+18;ti_Concordclone30;Concord clone 30;2001;0
+19;ti_Couderc;Couderc;2001;17623308
+20;ti_Cynthiana(1);Cynthiana(1);2001;788473
+21;ti_Herbemont;Herbemont;2001;17762997
+22;ti_IAC138022;IAC 138022;2001;0
+23;ti_Isabel;Isabel;2001;188547951
+24;ti_IsabelPrecoce;Isabel Precoce;2001;0
+25;ti_Jacquez;Jacquez;2001;0
+26;ti_Kyoko;Kyoko;2001;0
+27;ti_Landot;Landot;2001;1585
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2001;0
+29;ti_Oberlin;Oberlin;2001;0
+30;ti_Othello;Othello;2001;155060
+31;ti_Paco;Paco;2001;0
+32;ti_Patricia;Patricia;2001;0
+33;ti_Seibel;Seibel;2001;20842760
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2001;2842841
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2001;862334
+36;ti_Vênus;Vênus;2001;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2001;61332258
+38;br_Baco;Baco;2001;0
+39;br_Bokay;Bokay;2001;0
+40;br_BRS Bibiana ;BRS Bibiana ;2001;0
+41;br_BRSClara;BRS Clara;2001;0
+42;br_BRSLorena;BRS Lorena;2001;0
+43;br_Couderc13;Couderc 13;2001;7809061
+44;br_Delaware;Delaware;2001;0
+45;br_DonaZillá;Dona Zillá;2001;251529
+46;br_DutChess;Dut Chess;2001;0
+47;br_Goethe;Goethe;2001;379003
+48;br_IAC;IAC;2001;0
+49;br_Juliana;Juliana;2001;0
+50;br_Martha;Martha;2001;16353
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2001;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2001;875554
+53;br_Niagara;Niagara;2001;0
+54;br_NiagaraBranca;Niagara Branca;2001;34145485
+55;br_NiagaraRosada;Niagara Rosada;2001;16150486
+56;br_Poloske;Poloske;2001;0
+57;br_Seleções;Seleções;2001;0
+58;br_SeyveVillard;Seyve Villard;2001;726630
+59;br_SeyveVillard5276;Seyve Villard 5276;2001;0
+60;br_SeyveVillard12375;Seyve Villard 12375;2001;936740
+61;br_TardiadeCaxias;Tardia de Caxias;2001;25735
+62;br_Outras;Outras(2);2001;15682
+1;TINTAS;TINTAS;2002;369274630
+2;ti_Bacarina;Bacarina;2002;18100
+3;ti_Bailey;Bailey;2002;12421
+4;ti_Bordo;Bordo;2002;54989827
+5;ti_Bourdin (S);Bourdin (S);2002;0
+6;ti_BRSCarmen;BRS Carmen;2002;0
+7;ti_BRSCora;BRS Cora;2002;0
+8;ti_BRS Magna;BRS Magna;2002;0
+9;ti_BRS Margot;BRS Margot;2002;0
+10;ti_BRSMorena;BRS Morena;2002;0
+29;ti_BRS Núbia ;BRS Núbia ;2002;0
+11;ti_BRS Rúbea;BRS Rúbea;2002;68948
+12;ti_BRSVioleta;BRS Violeta;2002;0
+13;ti_BRS Vitória;BRS Vitória;2002;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2002;5905
+16;ti_Coleções;Coleções;2002;490
+17;ti_Concord;Concord;2002;34686034
+18;ti_Concordclone30;Concord clone 30;2002;0
+19;ti_Couderc;Couderc;2002;20199921
+20;ti_Cynthiana(1);Cynthiana(1);2002;741160
+21;ti_Herbemont;Herbemont;2002;15343264
+22;ti_IAC138022;IAC 138022;2002;0
+23;ti_Isabel;Isabel;2002;211737269
+24;ti_IsabelPrecoce;Isabel Precoce;2002;0
+25;ti_Jacquez;Jacquez;2002;24008333
+26;ti_Kyoko;Kyoko;2002;0
+27;ti_Landot;Landot;2002;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2002;0
+29;ti_Oberlin;Oberlin;2002;2610
+30;ti_Othello;Othello;2002;0
+31;ti_Paco;Paco;2002;0
+32;ti_Patricia;Patricia;2002;0
+33;ti_Seibel;Seibel;2002;4101
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2002;6693445
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2002;762802
+36;ti_Vênus;Vênus;2002;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2002;57315866
+38;br_Baco;Baco;2002;155
+39;br_Bokay;Bokay;2002;0
+40;br_BRS Bibiana ;BRS Bibiana ;2002;0
+41;br_BRSClara;BRS Clara;2002;0
+42;br_BRSLorena;BRS Lorena;2002;0
+43;br_Couderc13;Couderc 13;2002;7605912
+44;br_Delaware;Delaware;2002;5360
+45;br_DonaZillá;Dona Zillá;2002;83222
+46;br_DutChess;Dut Chess;2002;0
+47;br_Goethe;Goethe;2002;463452
+48;br_IAC;IAC;2002;0
+49;br_Juliana;Juliana;2002;0
+50;br_Martha;Martha;2002;15890
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2002;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2002;1149812
+53;br_Niagara;Niagara;2002;0
+54;br_NiagaraBranca;Niagara Branca;2002;36195634
+55;br_NiagaraRosada;Niagara Rosada;2002;10417448
+56;br_Poloske;Poloske;2002;0
+57;br_Seleções;Seleções;2002;0
+58;br_SeyveVillard;Seyve Villard;2002;423282
+59;br_SeyveVillard5276;Seyve Villard 5276;2002;0
+60;br_SeyveVillard12375;Seyve Villard 12375;2002;867152
+61;br_TardiadeCaxias;Tardia de Caxias;2002;19580
+62;br_Outras;Outras(2);2002;68967
+1;TINTAS;TINTAS;2003;286752289
+2;ti_Bacarina;Bacarina;2003;15505
+3;ti_Bailey;Bailey;2003;7917
+4;ti_Bordo;Bordo;2003;39213494
+5;ti_Bourdin (S);Bourdin (S);2003;0
+6;ti_BRSCarmen;BRS Carmen;2003;0
+7;ti_BRSCora;BRS Cora;2003;0
+8;ti_BRS Magna;BRS Magna;2003;0
+9;ti_BRS Margot;BRS Margot;2003;0
+10;ti_BRSMorena;BRS Morena;2003;0
+29;ti_BRS Núbia ;BRS Núbia ;2003;0
+11;ti_BRS Rúbea;BRS Rúbea;2003;74254
+12;ti_BRSVioleta;BRS Violeta;2003;0
+13;ti_BRS Vitória;BRS Vitória;2003;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2003;26979
+16;ti_Coleções;Coleções;2003;0
+17;ti_Concord;Concord;2003;27455055
+18;ti_Concordclone30;Concord clone 30;2003;0
+19;ti_Couderc;Couderc;2003;22395538
+20;ti_Cynthiana(1);Cynthiana(1);2003;809515
+21;ti_Herbemont;Herbemont;2003;17060345
+22;ti_IAC138022;IAC 138022;2003;0
+23;ti_Isabel;Isabel;2003;151317201
+24;ti_IsabelPrecoce;Isabel Precoce;2003;0
+25;ti_Jacquez;Jacquez;2003;20945416
+26;ti_Kyoko;Kyoko;2003;0
+27;ti_Landot;Landot;2003;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2003;0
+29;ti_Oberlin;Oberlin;2003;2230
+30;ti_Othello;Othello;2003;0
+31;ti_Paco;Paco;2003;0
+32;ti_Patricia;Patricia;2003;0
+33;ti_Seibel;Seibel;2003;2550
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2003;6423177
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2003;1003113
+36;ti_Vênus;Vênus;2003;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2003;53156823
+38;br_Baco;Baco;2003;0
+39;br_Bokay;Bokay;2003;0
+40;br_BRS Bibiana ;BRS Bibiana ;2003;0
+41;br_BRSClara;BRS Clara;2003;0
+42;br_BRSLorena;BRS Lorena;2003;0
+43;br_Couderc13;Couderc 13;2003;8908218
+44;br_Delaware;Delaware;2003;0
+45;br_DonaZillá;Dona Zillá;2003;105665
+46;br_DutChess;Dut Chess;2003;0
+47;br_Goethe;Goethe;2003;246111
+48;br_IAC;IAC;2003;0
+49;br_Juliana;Juliana;2003;0
+50;br_Martha;Martha;2003;8845
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2003;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2003;1445602
+53;br_Niagara;Niagara;2003;0
+54;br_NiagaraBranca;Niagara Branca;2003;31185522
+55;br_NiagaraRosada;Niagara Rosada;2003;9527834
+56;br_Poloske;Poloske;2003;0
+57;br_Seleções;Seleções;2003;0
+58;br_SeyveVillard;Seyve Villard;2003;994378
+59;br_SeyveVillard5276;Seyve Villard 5276;2003;0
+60;br_SeyveVillard12375;Seyve Villard 12375;2003;0
+61;br_TardiadeCaxias;Tardia de Caxias;2003;23276
+62;br_Outras;Outras(2);2003;711372
+1;TINTAS;TINTAS;2004;447942704
+2;ti_Bacarina;Bacarina;2004;17570
+3;ti_Bailey;Bailey;2004;35614
+4;ti_Bordo;Bordo;2004;70888283
+5;ti_Bourdin (S);Bourdin (S);2004;0
+6;ti_BRSCarmen;BRS Carmen;2004;0
+7;ti_BRSCora;BRS Cora;2004;0
+8;ti_BRS Magna;BRS Magna;2004;0
+9;ti_BRS Margot;BRS Margot;2004;0
+10;ti_BRSMorena;BRS Morena;2004;0
+29;ti_BRS Núbia ;BRS Núbia ;2004;0
+11;ti_BRS Rúbea;BRS Rúbea;2004;230237
+12;ti_BRSVioleta;BRS Violeta;2004;0
+13;ti_BRS Vitória;BRS Vitória;2004;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2004;23144
+16;ti_Coleções;Coleções;2004;5386
+17;ti_Concord;Concord;2004;36107207
+18;ti_Concordclone30;Concord clone 30;2004;0
+19;ti_Couderc;Couderc;2004;30938797
+20;ti_Cynthiana(1);Cynthiana(1);2004;1093197
+21;ti_Herbemont;Herbemont;2004;18289740
+22;ti_IAC138022;IAC 138022;2004;0
+23;ti_Isabel;Isabel;2004;245112515
+24;ti_IsabelPrecoce;Isabel Precoce;2004;0
+25;ti_Jacquez;Jacquez;2004;31496317
+26;ti_Kyoko;Kyoko;2004;0
+27;ti_Landot;Landot;2004;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2004;0
+29;ti_Oberlin;Oberlin;2004;4470
+30;ti_Othello;Othello;2004;0
+31;ti_Paco;Paco;2004;0
+32;ti_Patricia;Patricia;2004;0
+33;ti_Seibel;Seibel;2004;6249764
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2004;6330118
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2004;1120345
+36;ti_Vênus;Vênus;2004;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2004;68479972
+38;br_Baco;Baco;2004;0
+39;br_Bokay;Bokay;2004;0
+40;br_BRS Bibiana ;BRS Bibiana ;2004;0
+41;br_BRSClara;BRS Clara;2004;0
+42;br_BRSLorena;BRS Lorena;2004;151131
+43;br_Couderc13;Couderc 13;2004;9332646
+44;br_Delaware;Delaware;2004;0
+45;br_DonaZillá;Dona Zillá;2004;51939
+46;br_DutChess;Dut Chess;2004;0
+47;br_Goethe;Goethe;2004;514160
+48;br_IAC;IAC;2004;0
+49;br_Juliana;Juliana;2004;0
+50;br_Martha;Martha;2004;17610
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2004;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2004;2328928
+53;br_Niagara;Niagara;2004;0
+54;br_NiagaraBranca;Niagara Branca;2004;41747941
+55;br_NiagaraRosada;Niagara Rosada;2004;12632861
+56;br_Poloske;Poloske;2004;0
+57;br_Seleções;Seleções;2004;0
+58;br_SeyveVillard;Seyve Villard;2004;1029919
+59;br_SeyveVillard5276;Seyve Villard 5276;2004;661492
+60;br_SeyveVillard12375;Seyve Villard 12375;2004;0
+61;br_TardiadeCaxias;Tardia de Caxias;2004;11345
+62;br_Outras;Outras(2);2004;0
+1;TINTAS;TINTAS;2005;359381282
+2;ti_Bacarina;Bacarina;2005;21520
+3;ti_Bailey;Bailey;2005;66503
+4;ti_Bordo;Bordo;2005;64174362
+5;ti_Bourdin (S);Bourdin (S);2005;0
+6;ti_BRSCarmen;BRS Carmen;2005;0
+7;ti_BRSCora;BRS Cora;2005;0
+8;ti_BRS Magna;BRS Magna;2005;0
+9;ti_BRS Margot;BRS Margot;2005;0
+10;ti_BRSMorena;BRS Morena;2005;0
+29;ti_BRS Núbia ;BRS Núbia ;2005;0
+11;ti_BRS Rúbea;BRS Rúbea;2005;308905
+12;ti_BRSVioleta;BRS Violeta;2005;0
+13;ti_BRS Vitória;BRS Vitória;2005;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2005;5643
+16;ti_Coleções;Coleções;2005;10905
+17;ti_Concord;Concord;2005;37460265
+18;ti_Concordclone30;Concord clone 30;2005;0
+19;ti_Couderc;Couderc;2005;25596933
+20;ti_Cynthiana(1);Cynthiana(1);2005;977034
+21;ti_Herbemont;Herbemont;2005;14772530
+22;ti_IAC138022;IAC 138022;2005;0
+23;ti_Isabel;Isabel;2005;185966788
+24;ti_IsabelPrecoce;Isabel Precoce;2005;0
+25;ti_Jacquez;Jacquez;2005;20571911
+26;ti_Kyoko;Kyoko;2005;0
+27;ti_Landot;Landot;2005;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2005;0
+29;ti_Oberlin;Oberlin;2005;2855
+30;ti_Othello;Othello;2005;0
+31;ti_Paco;Paco;2005;0
+32;ti_Patricia;Patricia;2005;14864
+33;ti_Seibel;Seibel;2005;5824509
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2005;2559450
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2005;1032585
+36;ti_Vênus;Vênus;2005;13720
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2005;63289135
+38;br_Baco;Baco;2005;0
+39;br_Bokay;Bokay;2005;0
+40;br_BRS Bibiana ;BRS Bibiana ;2005;0
+41;br_BRSClara;BRS Clara;2005;0
+42;br_BRSLorena;BRS Lorena;2005;565303
+43;br_Couderc13;Couderc 13;2005;7870793
+44;br_Delaware;Delaware;2005;0
+45;br_DonaZillá;Dona Zillá;2005;46844
+46;br_DutChess;Dut Chess;2005;0
+47;br_Goethe;Goethe;2005;522887
+48;br_IAC;IAC;2005;0
+49;br_Juliana;Juliana;2005;0
+50;br_Martha;Martha;2005;10060
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2005;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2005;2813056
+53;br_Niagara;Niagara;2005;0
+54;br_NiagaraBranca;Niagara Branca;2005;37394435
+55;br_NiagaraRosada;Niagara Rosada;2005;12605714
+56;br_Poloske;Poloske;2005;0
+57;br_Seleções;Seleções;2005;0
+58;br_SeyveVillard;Seyve Villard;2005;952715
+59;br_SeyveVillard5276;Seyve Villard 5276;2005;494908
+60;br_SeyveVillard12375;Seyve Villard 12375;2005;0
+61;br_TardiadeCaxias;Tardia de Caxias;2005;12420
+62;br_Outras;Outras(2);2005;0
+1;TINTAS;TINTAS;2006;310671646
+2;ti_Bacarina;Bacarina;2006;11545
+3;ti_Bailey;Bailey;2006;94805
+4;ti_Bordo;Bordo;2006;54568468
+5;ti_Bourdin (S);Bourdin (S);2006;0
+6;ti_BRSCarmen;BRS Carmen;2006;0
+7;ti_BRSCora;BRS Cora;2006;0
+8;ti_BRS Magna;BRS Magna;2006;0
+9;ti_BRS Margot;BRS Margot;2006;0
+10;ti_BRSMorena;BRS Morena;2006;0
+29;ti_BRS Núbia ;BRS Núbia ;2006;0
+11;ti_BRS Rúbea;BRS Rúbea;2006;366671
+12;ti_BRSVioleta;BRS Violeta;2006;0
+13;ti_BRS Vitória;BRS Vitória;2006;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2006;10848
+16;ti_Coleções;Coleções;2006;13311
+17;ti_Concord;Concord;2006;26526274
+18;ti_Concordclone30;Concord clone 30;2006;0
+19;ti_Couderc;Couderc;2006;23869435
+20;ti_Cynthiana(1);Cynthiana(1);2006;932587
+21;ti_Herbemont;Herbemont;2006;11490495
+22;ti_IAC138022;IAC 138022;2006;0
+23;ti_Isabel;Isabel;2006;163125701
+24;ti_IsabelPrecoce;Isabel Precoce;2006;8140
+25;ti_Jacquez;Jacquez;2006;21500205
+26;ti_Kyoko;Kyoko;2006;0
+27;ti_Landot;Landot;2006;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2006;0
+29;ti_Oberlin;Oberlin;2006;952
+30;ti_Othello;Othello;2006;0
+31;ti_Paco;Paco;2006;0
+32;ti_Patricia;Patricia;2006;20310
+33;ti_Seibel;Seibel;2006;4764595
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2006;2417681
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2006;949623
+36;ti_Vênus;Vênus;2006;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2006;56411010
+38;br_Baco;Baco;2006;28300
+39;br_Bokay;Bokay;2006;0
+40;br_BRS Bibiana ;BRS Bibiana ;2006;0
+41;br_BRSClara;BRS Clara;2006;0
+42;br_BRSLorena;BRS Lorena;2006;1366570
+43;br_Couderc13;Couderc 13;2006;7903159
+44;br_Delaware;Delaware;2006;0
+45;br_DonaZillá;Dona Zillá;2006;13660
+46;br_DutChess;Dut Chess;2006;0
+47;br_Goethe;Goethe;2006;491419
+48;br_IAC;IAC;2006;0
+49;br_Juliana;Juliana;2006;0
+50;br_Martha;Martha;2006;9302
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2006;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2006;4274628
+53;br_Niagara;Niagara;2006;0
+54;br_NiagaraBranca;Niagara Branca;2006;32398672
+55;br_NiagaraRosada;Niagara Rosada;2006;8736346
+56;br_Poloske;Poloske;2006;0
+57;br_Seleções;Seleções;2006;2360
+58;br_SeyveVillard;Seyve Villard;2006;915917
+59;br_SeyveVillard5276;Seyve Villard 5276;2006;260294
+60;br_SeyveVillard12375;Seyve Villard 12375;2006;0
+61;br_TardiadeCaxias;Tardia de Caxias;2006;10383
+62;br_Outras;Outras(2);2006;0
+1;TINTAS;TINTAS;2007;430628346
+2;ti_Bacarina;Bacarina;2007;12070
+3;ti_Bailey;Bailey;2007;236139
+4;ti_Bordo;Bordo;2007;76907674
+5;ti_Bourdin (S);Bourdin (S);2007;0
+6;ti_BRSCarmen;BRS Carmen;2007;0
+7;ti_BRSCora;BRS Cora;2007;4370
+8;ti_BRS Magna;BRS Magna;2007;0
+9;ti_BRS Margot;BRS Margot;2007;0
+10;ti_BRSMorena;BRS Morena;2007;0
+29;ti_BRS Núbia ;BRS Núbia ;2007;0
+11;ti_BRS Rúbea;BRS Rúbea;2007;605247
+12;ti_BRSVioleta;BRS Violeta;2007;0
+13;ti_BRS Vitória;BRS Vitória;2007;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2007;7130
+16;ti_Coleções;Coleções;2007;30942
+17;ti_Concord;Concord;2007;25732390
+18;ti_Concordclone30;Concord clone 30;2007;0
+19;ti_Couderc;Couderc;2007;32652378
+20;ti_Cynthiana(1);Cynthiana(1);2007;1705777
+21;ti_Herbemont;Herbemont;2007;18204806
+22;ti_IAC138022;IAC 138022;2007;0
+23;ti_Isabel;Isabel;2007;228558808
+24;ti_IsabelPrecoce;Isabel Precoce;2007;86037
+25;ti_Jacquez;Jacquez;2007;32478164
+26;ti_Kyoko;Kyoko;2007;0
+27;ti_Landot;Landot;2007;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2007;0
+29;ti_Oberlin;Oberlin;2007;3060
+30;ti_Othello;Othello;2007;0
+31;ti_Paco;Paco;2007;0
+32;ti_Patricia;Patricia;2007;38018
+33;ti_Seibel;Seibel;2007;8603117
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2007;3349837
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2007;1412382
+36;ti_Vênus;Vênus;2007;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2007;67888444
+38;br_Baco;Baco;2007;0
+39;br_Bokay;Bokay;2007;0
+40;br_BRS Bibiana ;BRS Bibiana ;2007;0
+41;br_BRSClara;BRS Clara;2007;0
+42;br_BRSLorena;BRS Lorena;2007;3312021
+43;br_Couderc13;Couderc 13;2007;11367849
+44;br_Delaware;Delaware;2007;0
+45;br_DonaZillá;Dona Zillá;2007;57310
+46;br_DutChess;Dut Chess;2007;0
+47;br_Goethe;Goethe;2007;791379
+48;br_IAC;IAC;2007;0
+49;br_Juliana;Juliana;2007;7000
+50;br_Martha;Martha;2007;6038
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2007;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2007;6621952
+53;br_Niagara;Niagara;2007;0
+54;br_NiagaraBranca;Niagara Branca;2007;33749294
+55;br_NiagaraRosada;Niagara Rosada;2007;10383783
+56;br_Poloske;Poloske;2007;0
+57;br_Seleções;Seleções;2007;5370
+58;br_SeyveVillard;Seyve Villard;2007;1139845
+59;br_SeyveVillard5276;Seyve Villard 5276;2007;406600
+60;br_SeyveVillard12375;Seyve Villard 12375;2007;0
+61;br_TardiadeCaxias;Tardia de Caxias;2007;40003
+62;br_Outras;Outras(2);2007;0
+1;TINTAS;TINTAS;2008;466504230
+2;ti_Bacarina;Bacarina;2008;16780
+3;ti_Bailey;Bailey;2008;235828
+4;ti_Bordo;Bordo;2008;97644667
+5;ti_Bourdin (S);Bourdin (S);2008;0
+6;ti_BRSCarmen;BRS Carmen;2008;0
+7;ti_BRSCora;BRS Cora;2008;59160
+8;ti_BRS Magna;BRS Magna;2008;0
+9;ti_BRS Margot;BRS Margot;2008;0
+10;ti_BRSMorena;BRS Morena;2008;0
+29;ti_BRS Núbia ;BRS Núbia ;2008;0
+11;ti_BRS Rúbea;BRS Rúbea;2008;785389
+12;ti_BRSVioleta;BRS Violeta;2008;4296
+13;ti_BRS Vitória;BRS Vitória;2008;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2008;0
+16;ti_Coleções;Coleções;2008;27400
+17;ti_Concord;Concord;2008;44291027
+18;ti_Concordclone30;Concord clone 30;2008;0
+19;ti_Couderc;Couderc;2008;33179502
+20;ti_Cynthiana(1);Cynthiana(1);2008;1220666
+21;ti_Herbemont;Herbemont;2008;11962083
+22;ti_IAC138022;IAC 138022;2008;0
+23;ti_Isabel;Isabel;2008;236664733
+24;ti_IsabelPrecoce;Isabel Precoce;2008;576083
+25;ti_Jacquez;Jacquez;2008;23447261
+26;ti_Kyoko;Kyoko;2008;0
+27;ti_Landot;Landot;2008;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2008;0
+29;ti_Oberlin;Oberlin;2008;0
+30;ti_Othello;Othello;2008;0
+31;ti_Paco;Paco;2008;0
+32;ti_Patricia;Patricia;2008;50848
+33;ti_Seibel;Seibel;2008;10059544
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2008;4276672
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2008;1963751
+36;ti_Vênus;Vênus;2008;38540
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2008;83917393
+38;br_Baco;Baco;2008;0
+39;br_Bokay;Bokay;2008;0
+40;br_BRS Bibiana ;BRS Bibiana ;2008;0
+41;br_BRSClara;BRS Clara;2008;0
+42;br_BRSLorena;BRS Lorena;2008;4861871
+43;br_Couderc13;Couderc 13;2008;10071015
+44;br_Delaware;Delaware;2008;0
+45;br_DonaZillá;Dona Zillá;2008;29246
+46;br_DutChess;Dut Chess;2008;0
+47;br_Goethe;Goethe;2008;324838
+48;br_IAC;IAC;2008;0
+49;br_Juliana;Juliana;2008;15380
+50;br_Martha;Martha;2008;6586
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2008;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2008;8598555
+53;br_Niagara;Niagara;2008;0
+54;br_NiagaraBranca;Niagara Branca;2008;43629972
+55;br_NiagaraRosada;Niagara Rosada;2008;14753481
+56;br_Poloske;Poloske;2008;0
+57;br_Seleções;Seleções;2008;4280
+58;br_SeyveVillard;Seyve Villard;2008;1156969
+59;br_SeyveVillard5276;Seyve Villard 5276;2008;449229
+60;br_SeyveVillard12375;Seyve Villard 12375;2008;0
+61;br_TardiadeCaxias;Tardia de Caxias;2008;15971
+62;br_Outras;Outras(2);2008;0
+1;TINTAS;TINTAS;2009;391196306
+2;ti_Bacarina;Bacarina;2009;10810
+3;ti_Bailey;Bailey;2009;559815
+4;ti_Bordo;Bordo;2009;69521354
+5;ti_Bourdin (S);Bourdin (S);2009;0
+6;ti_BRSCarmen;BRS Carmen;2009;0
+7;ti_BRSCora;BRS Cora;2009;335038
+8;ti_BRS Magna;BRS Magna;2009;0
+9;ti_BRS Margot;BRS Margot;2009;0
+10;ti_BRSMorena;BRS Morena;2009;0
+29;ti_BRS Núbia ;BRS Núbia ;2009;0
+11;ti_BRS Rúbea;BRS Rúbea;2009;718461
+12;ti_BRSVioleta;BRS Violeta;2009;132764
+13;ti_BRS Vitória;BRS Vitória;2009;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2009;17498
+16;ti_Coleções;Coleções;2009;27109
+17;ti_Concord;Concord;2009;39227727
+18;ti_Concordclone30;Concord clone 30;2009;0
+19;ti_Couderc;Couderc;2009;29388964
+20;ti_Cynthiana(1);Cynthiana(1);2009;1279382
+21;ti_Herbemont;Herbemont;2009;10968175
+22;ti_IAC138022;IAC 138022;2009;0
+23;ti_Isabel;Isabel;2009;199729598
+24;ti_IsabelPrecoce;Isabel Precoce;2009;1632808
+25;ti_Jacquez;Jacquez;2009;24273653
+26;ti_Kyoko;Kyoko;2009;5395
+27;ti_Landot;Landot;2009;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2009;0
+29;ti_Oberlin;Oberlin;2009;0
+30;ti_Othello;Othello;2009;0
+31;ti_Paco;Paco;2009;0
+32;ti_Patricia;Patricia;2009;20380
+33;ti_Seibel;Seibel;2009;7731667
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2009;3974185
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2009;1626063
+36;ti_Vênus;Vênus;2009;15460
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2009;71110317
+38;br_Baco;Baco;2009;0
+39;br_Bokay;Bokay;2009;0
+40;br_BRS Bibiana ;BRS Bibiana ;2009;0
+41;br_BRSClara;BRS Clara;2009;0
+42;br_BRSLorena;BRS Lorena;2009;6117429
+43;br_Couderc13;Couderc 13;2009;11021450
+44;br_Delaware;Delaware;2009;0
+45;br_DonaZillá;Dona Zillá;2009;44650
+46;br_DutChess;Dut Chess;2009;0
+47;br_Goethe;Goethe;2009;480376
+48;br_IAC;IAC;2009;0
+49;br_Juliana;Juliana;2009;4060
+50;br_Martha;Martha;2009;6433
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2009;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2009;11229449
+53;br_Niagara;Niagara;2009;0
+54;br_NiagaraBranca;Niagara Branca;2009;30822840
+55;br_NiagaraRosada;Niagara Rosada;2009;9975809
+56;br_Poloske;Poloske;2009;0
+57;br_Seleções;Seleções;2009;0
+58;br_SeyveVillard;Seyve Villard;2009;1094276
+59;br_SeyveVillard5276;Seyve Villard 5276;2009;305108
+60;br_SeyveVillard12375;Seyve Villard 12375;2009;0
+61;br_TardiadeCaxias;Tardia de Caxias;2009;8437
+62;br_Outras;Outras(2);2009;0
+1;TINTAS;TINTAS;2010;409514092
+2;ti_Bacarina;Bacarina;2010;7850
+3;ti_Bailey;Bailey;2010;604895
+4;ti_Bordo;Bordo;2010;89066377
+5;ti_Bourdin (S);Bourdin (S);2010;26990
+6;ti_BRSCarmen;BRS Carmen;2010;2296
+7;ti_BRSCora;BRS Cora;2010;1178530
+8;ti_BRS Magna;BRS Magna;2010;0
+9;ti_BRS Margot;BRS Margot;2010;0
+10;ti_BRSMorena;BRS Morena;2010;12114
+29;ti_BRS Núbia ;BRS Núbia ;2010;0
+11;ti_BRS Rúbea;BRS Rúbea;2010;876076
+12;ti_BRSVioleta;BRS Violeta;2010;979695
+13;ti_BRS Vitória;BRS Vitória;2010;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2010;6000
+16;ti_Coleções;Coleções;2010;11624
+17;ti_Concord;Concord;2010;41446763
+18;ti_Concordclone30;Concord clone 30;2010;942685
+19;ti_Couderc;Couderc;2010;24092319
+20;ti_Cynthiana(1);Cynthiana(1);2010;1151540
+21;ti_Herbemont;Herbemont;2010;7598565
+22;ti_IAC138022;IAC 138022;2010;0
+23;ti_Isabel;Isabel;2010;198927893
+24;ti_IsabelPrecoce;Isabel Precoce;2010;5427981
+25;ti_Jacquez;Jacquez;2010;26557467
+26;ti_Kyoko;Kyoko;2010;0
+27;ti_Landot;Landot;2010;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2010;0
+29;ti_Oberlin;Oberlin;2010;0
+30;ti_Othello;Othello;2010;0
+31;ti_Paco;Paco;2010;0
+32;ti_Patricia;Patricia;2010;7085
+33;ti_Seibel;Seibel;2010;6274394
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2010;3062997
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2010;1251956
+36;ti_Vênus;Vênus;2010;0
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2010;71589617
+38;br_Baco;Baco;2010;0
+39;br_Bokay;Bokay;2010;0
+40;br_BRS Bibiana ;BRS Bibiana ;2010;0
+41;br_BRSClara;BRS Clara;2010;3560
+42;br_BRSLorena;BRS Lorena;2010;4804262
+43;br_Couderc13;Couderc 13;2010;8001944
+44;br_Delaware;Delaware;2010;0
+45;br_DonaZillá;Dona Zillá;2010;35708
+46;br_DutChess;Dut Chess;2010;0
+47;br_Goethe;Goethe;2010;473521
+48;br_IAC;IAC;2010;650
+49;br_Juliana;Juliana;2010;1500
+50;br_Martha;Martha;2010;11329
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2010;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2010;8594684
+53;br_Niagara;Niagara;2010;0
+54;br_NiagaraBranca;Niagara Branca;2010;35971072
+55;br_NiagaraRosada;Niagara Rosada;2010;12553768
+56;br_Poloske;Poloske;2010;0
+57;br_Seleções;Seleções;2010;0
+58;br_SeyveVillard;Seyve Villard;2010;873170
+59;br_SeyveVillard5276;Seyve Villard 5276;2010;242528
+60;br_SeyveVillard12375;Seyve Villard 12375;2010;0
+61;br_TardiadeCaxias;Tardia de Caxias;2010;21921
+62;br_Outras;Outras(2);2010;0
+1;TINTAS;TINTAS;2011;532937101
+2;ti_Bacarina;Bacarina;2011;12930
+3;ti_Bailey;Bailey;2011;769140
+4;ti_Bordo;Bordo;2011;139754250
+5;ti_Bourdin (S);Bourdin (S);2011;0
+6;ti_BRSCarmen;BRS Carmen;2011;48450
+7;ti_BRSCora;BRS Cora;2011;2844280
+8;ti_BRS Magna;BRS Magna;2011;0
+9;ti_BRS Margot;BRS Margot;2011;0
+10;ti_BRSMorena;BRS Morena;2011;0
+29;ti_BRS Núbia ;BRS Núbia ;2011;0
+11;ti_BRS Rúbea;BRS Rúbea;2011;1333903
+12;ti_BRSVioleta;BRS Violeta;2011;2404076
+13;ti_BRS Vitória;BRS Vitória;2011;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2011;4351
+16;ti_Coleções;Coleções;2011;33408
+17;ti_Concord;Concord;2011;44201322
+18;ti_Concordclone30;Concord clone 30;2011;1720732
+19;ti_Couderc;Couderc;2011;35686727
+20;ti_Cynthiana(1);Cynthiana(1);2011;1249033
+21;ti_Herbemont;Herbemont;2011;8954135
+22;ti_IAC138022;IAC 138022;2011;0
+23;ti_Isabel;Isabel;2011;244626313
+24;ti_IsabelPrecoce;Isabel Precoce;2011;7687712
+25;ti_Jacquez;Jacquez;2011;30223434
+26;ti_Kyoko;Kyoko;2011;0
+27;ti_Landot;Landot;2011;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2011;0
+29;ti_Oberlin;Oberlin;2011;0
+30;ti_Othello;Othello;2011;0
+31;ti_Paco;Paco;2011;0
+32;ti_Patricia;Patricia;2011;5885
+33;ti_Seibel;Seibel;2011;6922384
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2011;2839703
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2011;1602693
+36;ti_Vênus;Vênus;2011;12240
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2011;94137074
+38;br_Baco;Baco;2011;0
+39;br_Bokay;Bokay;2011;32810
+40;br_BRS Bibiana ;BRS Bibiana ;2011;0
+41;br_BRSClara;BRS Clara;2011;4820
+42;br_BRSLorena;BRS Lorena;2011;7776413
+43;br_Couderc13;Couderc 13;2011;10982813
+44;br_Delaware;Delaware;2011;0
+45;br_DonaZillá;Dona Zillá;2011;29190
+46;br_DutChess;Dut Chess;2011;0
+47;br_Goethe;Goethe;2011;414977
+48;br_IAC;IAC;2011;0
+49;br_Juliana;Juliana;2011;0
+50;br_Martha;Martha;2011;3060
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2011;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2011;11200409
+53;br_Niagara;Niagara;2011;0
+54;br_NiagaraBranca;Niagara Branca;2011;47581756
+55;br_NiagaraRosada;Niagara Rosada;2011;14831369
+56;br_Poloske;Poloske;2011;0
+57;br_Seleções;Seleções;2011;2022
+58;br_SeyveVillard;Seyve Villard;2011;1007735
+59;br_SeyveVillard5276;Seyve Villard 5276;2011;242415
+60;br_SeyveVillard12375;Seyve Villard 12375;2011;0
+61;br_TardiadeCaxias;Tardia de Caxias;2011;27285
+62;br_Outras;Outras(2);2011;0
+1;TINTAS;TINTAS;2012;527332818
+2;ti_Bacarina;Bacarina;2012;3820
+3;ti_Bailey;Bailey;2012;912286
+4;ti_Bordo;Bordo;2012;127378006
+5;ti_Bourdin (S);Bourdin (S);2012;0
+6;ti_BRSCarmen;BRS Carmen;2012;278602
+7;ti_BRSCora;BRS Cora;2012;3098082
+8;ti_BRS Magna;BRS Magna;2012;0
+9;ti_BRS Margot;BRS Margot;2012;0
+10;ti_BRSMorena;BRS Morena;2012;0
+29;ti_BRS Núbia ;BRS Núbia ;2012;0
+11;ti_BRS Rúbea;BRS Rúbea;2012;1332139
+12;ti_BRSVioleta;BRS Violeta;2012;4009589
+13;ti_BRS Vitória;BRS Vitória;2012;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2012;3138
+16;ti_Coleções;Coleções;2012;39806
+17;ti_Concord;Concord;2012;44395218
+18;ti_Concordclone30;Concord clone 30;2012;2745160
+19;ti_Couderc;Couderc;2012;27237702
+20;ti_Cynthiana(1);Cynthiana(1);2012;1492979
+21;ti_Herbemont;Herbemont;2012;7246411
+22;ti_IAC138022;IAC 138022;2012;0
+23;ti_Isabel;Isabel;2012;262942020
+24;ti_IsabelPrecoce;Isabel Precoce;2012;11743388
+25;ti_Jacquez;Jacquez;2012;24572149
+26;ti_Kyoko;Kyoko;2012;0
+27;ti_Landot;Landot;2012;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2012;0
+29;ti_Oberlin;Oberlin;2012;0
+30;ti_Othello;Othello;2012;0
+31;ti_Paco;Paco;2012;0
+32;ti_Patricia;Patricia;2012;3015
+33;ti_Seibel;Seibel;2012;4056234
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2012;2491824
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2012;1330096
+36;ti_Vênus;Vênus;2012;21154
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2012;93549583
+38;br_Baco;Baco;2012;0
+39;br_Bokay;Bokay;2012;56250
+40;br_BRS Bibiana ;BRS Bibiana ;2012;0
+41;br_BRSClara;BRS Clara;2012;4120
+42;br_BRSLorena;BRS Lorena;2012;8792381
+43;br_Couderc13;Couderc 13;2012;10185486
+44;br_Delaware;Delaware;2012;0
+45;br_DonaZillá;Dona Zillá;2012;23770
+46;br_DutChess;Dut Chess;2012;0
+47;br_Goethe;Goethe;2012;776322
+48;br_IAC;IAC;2012;0
+49;br_Juliana;Juliana;2012;0
+50;br_Martha;Martha;2012;22321
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2012;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2012;11303572
+53;br_Niagara;Niagara;2012;0
+54;br_NiagaraBranca;Niagara Branca;2012;47325170
+55;br_NiagaraRosada;Niagara Rosada;2012;14040879
+56;br_Poloske;Poloske;2012;0
+57;br_Seleções;Seleções;2012;0
+58;br_SeyveVillard;Seyve Villard;2012;839003
+59;br_SeyveVillard5276;Seyve Villard 5276;2012;151456
+60;br_SeyveVillard12375;Seyve Villard 12375;2012;0
+61;br_TardiadeCaxias;Tardia de Caxias;2012;28853
+62;br_Outras;Outras(2);2012;0
+1;TINTAS;TINTAS;2013;460738996
+2;ti_Bacarina;Bacarina;2013;2990
+3;ti_Bailey;Bailey;2013;756000
+4;ti_Bordo;Bordo;2013;102788361
+5;ti_Bourdin (S);Bourdin (S);2013;0
+6;ti_BRSCarmen;BRS Carmen;2013;605728
+7;ti_BRSCora;BRS Cora;2013;3697942
+8;ti_BRS Magna;BRS Magna;2013;0
+9;ti_BRS Margot;BRS Margot;2013;0
+10;ti_BRSMorena;BRS Morena;2013;2600
+29;ti_BRS Núbia ;BRS Núbia ;2013;0
+11;ti_BRS Rúbea;BRS Rúbea;2013;1478269
+12;ti_BRSVioleta;BRS Violeta;2013;3561414
+13;ti_BRS Vitória;BRS Vitória;2013;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2013;106
+16;ti_Coleções;Coleções;2013;34072
+17;ti_Concord;Concord;2013;34237661
+18;ti_Concordclone30;Concord clone 30;2013;2326774
+19;ti_Couderc;Couderc;2013;26722044
+20;ti_Cynthiana(1);Cynthiana(1);2013;1290743
+21;ti_Herbemont;Herbemont;2013;6142005
+22;ti_IAC138022;IAC 138022;2013;0
+23;ti_Isabel;Isabel;2013;232518530
+24;ti_IsabelPrecoce;Isabel Precoce;2013;11467561
+25;ti_Jacquez;Jacquez;2013;24997428
+26;ti_Kyoko;Kyoko;2013;0
+27;ti_Landot;Landot;2013;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2013;0
+29;ti_Oberlin;Oberlin;2013;0
+30;ti_Othello;Othello;2013;0
+31;ti_Paco;Paco;2013;0
+32;ti_Patricia;Patricia;2013;3575
+33;ti_Seibel;Seibel;2013;6727381
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2013;275998
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2013;1087889
+36;ti_Vênus;Vênus;2013;13925
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2013;77174438
+38;br_Baco;Baco;2013;0
+39;br_Bokay;Bokay;2013;57680
+40;br_BRS Bibiana ;BRS Bibiana ;2013;0
+41;br_BRSClara;BRS Clara;2013;81130
+42;br_BRSLorena;BRS Lorena;2013;7354725
+43;br_Couderc13;Couderc 13;2013;8564745
+44;br_Delaware;Delaware;2013;0
+45;br_DonaZillá;Dona Zillá;2013;15330
+46;br_DutChess;Dut Chess;2013;0
+47;br_Goethe;Goethe;2013;469138
+48;br_IAC;IAC;2013;0
+49;br_Juliana;Juliana;2013;0
+50;br_Martha;Martha;2013;5642
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2013;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2013;11763335
+53;br_Niagara;Niagara;2013;0
+54;br_NiagaraBranca;Niagara Branca;2013;37574776
+55;br_NiagaraRosada;Niagara Rosada;2013;10312310
+56;br_Poloske;Poloske;2013;0
+57;br_Seleções;Seleções;2013;0
+58;br_SeyveVillard;Seyve Villard;2013;781787
+59;br_SeyveVillard5276;Seyve Villard 5276;2013;180410
+60;br_SeyveVillard12375;Seyve Villard 12375;2013;0
+61;br_TardiadeCaxias;Tardia de Caxias;2013;13430
+62;br_Outras;Outras(2);2013;0
+1;TINTAS;TINTAS;2014;471555903
+2;ti_Bacarina;Bacarina;2014;3900
+3;ti_Bailey;Bailey;2014;991449
+4;ti_Bordo;Bordo;2014;113008320
+5;ti_Bourdin (S);Bourdin (S);2014;0
+6;ti_BRSCarmen;BRS Carmen;2014;1553111
+7;ti_BRSCora;BRS Cora;2014;4721454
+8;ti_BRS Magna;BRS Magna;2014;600
+9;ti_BRS Margot;BRS Margot;2014;3679
+10;ti_BRSMorena;BRS Morena;2014;6500
+29;ti_BRS Núbia ;BRS Núbia ;2014;0
+11;ti_BRS Rúbea;BRS Rúbea;2014;1731895
+12;ti_BRSVioleta;BRS Violeta;2014;6489062
+13;ti_BRS Vitória;BRS Vitória;2014;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2014;980
+16;ti_Coleções;Coleções;2014;47882
+17;ti_Concord;Concord;2014;30755828
+18;ti_Concordclone30;Concord clone 30;2014;2923699
+19;ti_Couderc;Couderc;2014;30181906
+20;ti_Cynthiana(1);Cynthiana(1);2014;1490695
+21;ti_Herbemont;Herbemont;2014;4045612
+22;ti_IAC138022;IAC 138022;2014;0
+23;ti_Isabel;Isabel;2014;228517859
+24;ti_IsabelPrecoce;Isabel Precoce;2014;12806674
+25;ti_Jacquez;Jacquez;2014;24345429
+26;ti_Kyoko;Kyoko;2014;0
+27;ti_Landot;Landot;2014;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2014;0
+29;ti_Oberlin;Oberlin;2014;0
+30;ti_Othello;Othello;2014;0
+31;ti_Paco;Paco;2014;0
+32;ti_Patricia;Patricia;2014;930
+33;ti_Seibel;Seibel;2014;6367679
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2014;201931
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2014;1344919
+36;ti_Vênus;Vênus;2014;13910
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2014;68847961
+38;br_Baco;Baco;2014;0
+39;br_Bokay;Bokay;2014;79390
+40;br_BRS Bibiana ;BRS Bibiana ;2014;0
+41;br_BRSClara;BRS Clara;2014;0
+42;br_BRSLorena;BRS Lorena;2014;9165164
+43;br_Couderc13;Couderc 13;2014;8990377
+44;br_Delaware;Delaware;2014;0
+45;br_DonaZillá;Dona Zillá;2014;12325
+46;br_DutChess;Dut Chess;2014;0
+47;br_Goethe;Goethe;2014;346269
+48;br_IAC;IAC;2014;0
+49;br_Juliana;Juliana;2014;0
+50;br_Martha;Martha;2014;3050
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2014;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2014;11902554
+53;br_Niagara;Niagara;2014;0
+54;br_NiagaraBranca;Niagara Branca;2014;27973518
+55;br_NiagaraRosada;Niagara Rosada;2014;9552430
+56;br_Poloske;Poloske;2014;0
+57;br_Seleções;Seleções;2014;0
+58;br_SeyveVillard;Seyve Villard;2014;700473
+59;br_SeyveVillard5276;Seyve Villard 5276;2014;107521
+60;br_SeyveVillard12375;Seyve Villard 12375;2014;0
+61;br_TardiadeCaxias;Tardia de Caxias;2014;14890
+62;br_Outras;Outras(2);2014;0
+1;TINTAS;TINTAS;2015;537592720
+2;ti_Bacarina;Bacarina;2015;0
+3;ti_Bailey;Bailey;2015;963159
+4;ti_Bordo;Bordo;2015;137467196
+5;ti_Bourdin (S);Bourdin (S);2015;0
+6;ti_BRSCarmen;BRS Carmen;2015;2891792
+7;ti_BRSCora;BRS Cora;2015;5733518
+8;ti_BRS Magna;BRS Magna;2015;28560
+9;ti_BRS Margot;BRS Margot;2015;15052
+10;ti_BRSMorena;BRS Morena;2015;0
+29;ti_BRS Núbia ;BRS Núbia ;2015;0
+11;ti_BRS Rúbea;BRS Rúbea;2015;2034788
+12;ti_BRSVioleta;BRS Violeta;2015;8295873
+13;ti_BRS Vitória;BRS Vitória;2015;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2015;0
+16;ti_Coleções;Coleções;2015;44847
+17;ti_Concord;Concord;2015;39180980
+18;ti_Concordclone30;Concord clone 30;2015;4293636
+19;ti_Couderc;Couderc;2015;27693447
+20;ti_Cynthiana(1);Cynthiana(1);2015;1596711
+21;ti_Herbemont;Herbemont;2015;3282683
+22;ti_IAC138022;IAC 138022;2015;0
+23;ti_Isabel;Isabel;2015;256440505
+24;ti_IsabelPrecoce;Isabel Precoce;2015;15254220
+25;ti_Jacquez;Jacquez;2015;24330422
+26;ti_Kyoko;Kyoko;2015;0
+27;ti_Landot;Landot;2015;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2015;0
+29;ti_Oberlin;Oberlin;2015;0
+30;ti_Othello;Othello;2015;0
+31;ti_Paco;Paco;2015;0
+32;ti_Patricia;Patricia;2015;2890
+33;ti_Seibel;Seibel;2015;6075113
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2015;732685
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2015;1166954
+36;ti_Vênus;Vênus;2015;67689
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2015;95439129
+38;br_Baco;Baco;2015;0
+39;br_Bokay;Bokay;2015;84430
+40;br_BRS Bibiana ;BRS Bibiana ;2015;0
+41;br_BRSClara;BRS Clara;2015;0
+42;br_BRSLorena;BRS Lorena;2015;9168814
+43;br_Couderc13;Couderc 13;2015;7605648
+44;br_Delaware;Delaware;2015;0
+45;br_DonaZillá;Dona Zillá;2015;34170
+46;br_DutChess;Dut Chess;2015;0
+47;br_Goethe;Goethe;2015;481443
+48;br_IAC;IAC;2015;0
+49;br_Juliana;Juliana;2015;0
+50;br_Martha;Martha;2015;12334
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2015;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2015;11248259
+53;br_Niagara;Niagara;2015;0
+54;br_NiagaraBranca;Niagara Branca;2015;50329681
+55;br_NiagaraRosada;Niagara Rosada;2015;15706093
+56;br_Poloske;Poloske;2015;0
+57;br_Seleções;Seleções;2015;1500
+58;br_SeyveVillard;Seyve Villard;2015;657086
+59;br_SeyveVillard5276;Seyve Villard 5276;2015;91960
+60;br_SeyveVillard12375;Seyve Villard 12375;2015;0
+61;br_TardiadeCaxias;Tardia de Caxias;2015;17711
+62;br_Outras;Outras(2);2015;0
+1;TINTAS;TINTAS;2016;235356261
+2;ti_Bacarina;Bacarina;2016;0
+3;ti_Bailey;Bailey;2016;442784
+4;ti_Bordo;Bordo;2016;60976531
+5;ti_Bourdin (S);Bourdin (S);2016;0
+6;ti_BRSCarmen;BRS Carmen;2016;2964574
+7;ti_BRSCora;BRS Cora;2016;5155752
+8;ti_BRS Magna;BRS Magna;2016;275616
+9;ti_BRS Margot;BRS Margot;2016;14835
+10;ti_BRSMorena;BRS Morena;2016;0
+29;ti_BRS Núbia ;BRS Núbia ;2016;0
+11;ti_BRS Rúbea;BRS Rúbea;2016;1637818
+12;ti_BRSVioleta;BRS Violeta;2016;5749538
+13;ti_BRS Vitória;BRS Vitória;2016;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2016;0
+16;ti_Coleções;Coleções;2016;0
+17;ti_Concord;Concord;2016;15254862
+18;ti_Concordclone30;Concord clone 30;2016;1770853
+19;ti_Couderc;Couderc;2016;17522126
+20;ti_Cynthiana(1);Cynthiana(1);2016;694778
+21;ti_Herbemont;Herbemont;2016;1013198
+22;ti_IAC138022;IAC 138022;2016;0
+23;ti_Isabel;Isabel;2016;98302381
+24;ti_IsabelPrecoce;Isabel Precoce;2016;7167904
+25;ti_Jacquez;Jacquez;2016;11518368
+26;ti_Kyoko;Kyoko;2016;0
+27;ti_Landot;Landot;2016;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2016;0
+29;ti_Oberlin;Oberlin;2016;0
+30;ti_Othello;Othello;2016;0
+31;ti_Paco;Paco;2016;0
+32;ti_Patricia;Patricia;2016;0
+33;ti_Seibel;Seibel;2016;2933430
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2016;1387425
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2016;571180
+36;ti_Vênus;Vênus;2016;2308
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2016;32747787
+38;br_Baco;Baco;2016;0
+39;br_Bokay;Bokay;2016;37890
+40;br_BRS Bibiana ;BRS Bibiana ;2016;0
+41;br_BRSClara;BRS Clara;2016;390
+42;br_BRSLorena;BRS Lorena;2016;4520872
+43;br_Couderc13;Couderc 13;2016;4286807
+44;br_Delaware;Delaware;2016;0
+45;br_DonaZillá;Dona Zillá;2016;7890
+46;br_DutChess;Dut Chess;2016;0
+47;br_Goethe;Goethe;2016;179216
+48;br_IAC;IAC;2016;0
+49;br_Juliana;Juliana;2016;0
+50;br_Martha;Martha;2016;0
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2016;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2016;6173966
+53;br_Niagara;Niagara;2016;0
+54;br_NiagaraBranca;Niagara Branca;2016;12925747
+55;br_NiagaraRosada;Niagara Rosada;2016;4236495
+56;br_Poloske;Poloske;2016;2250
+57;br_Seleções;Seleções;2016;0
+58;br_SeyveVillard;Seyve Villard;2016;312824
+59;br_SeyveVillard5276;Seyve Villard 5276;2016;60000
+60;br_SeyveVillard12375;Seyve Villard 12375;2016;0
+61;br_TardiadeCaxias;Tardia de Caxias;2016;3440
+62;br_Outras;Outras(2);2016;0
+1;TINTAS;TINTAS;2017;600605876
+2;ti_Bacarina;Bacarina;2017;0
+3;ti_Bailey;Bailey;2017;1370092
+4;ti_Bordo;Bordo;2017;160146475
+5;ti_Bourdin (S);Bourdin (S);2017;0
+6;ti_BRSCarmen;BRS Carmen;2017;6771269
+7;ti_BRSCora;BRS Cora;2017;10085982
+8;ti_BRS Magna;BRS Magna;2017;1605458
+9;ti_BRS Margot;BRS Margot;2017;42600
+10;ti_BRSMorena;BRS Morena;2017;0
+29;ti_BRS Núbia ;BRS Núbia ;2017;0
+11;ti_BRS Rúbea;BRS Rúbea;2017;2529215
+12;ti_BRSVioleta;BRS Violeta;2017;14432937
+13;ti_BRS Vitória;BRS Vitória;2017;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2017;4640
+16;ti_Coleções;Coleções;2017;4324
+17;ti_Concord;Concord;2017;36172976
+18;ti_Concordclone30;Concord clone 30;2017;4676208
+19;ti_Couderc;Couderc;2017;31791586
+20;ti_Cynthiana(1);Cynthiana(1);2017;2083008
+21;ti_Herbemont;Herbemont;2017;3642399
+22;ti_IAC138022;IAC 138022;2017;0
+23;ti_Isabel;Isabel;2017;262423174
+24;ti_IsabelPrecoce;Isabel Precoce;2017;20028520
+25;ti_Jacquez;Jacquez;2017;31404577
+26;ti_Kyoko;Kyoko;2017;0
+27;ti_Landot;Landot;2017;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2017;0
+29;ti_Oberlin;Oberlin;2017;0
+30;ti_Othello;Othello;2017;0
+31;ti_Paco;Paco;2017;0
+32;ti_Patricia;Patricia;2017;1300
+33;ti_Seibel;Seibel;2017;7812493
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2017;2476079
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2017;1098564
+36;ti_Vênus;Vênus;2017;2000
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2017;74888637
+38;br_Baco;Baco;2017;0
+39;br_Bokay;Bokay;2017;105130
+40;br_BRS Bibiana ;BRS Bibiana ;2017;0
+41;br_BRSClara;BRS Clara;2017;0
+42;br_BRSLorena;BRS Lorena;2017;11704478
+43;br_Couderc13;Couderc 13;2017;7955879
+44;br_Delaware;Delaware;2017;0
+45;br_DonaZillá;Dona Zillá;2017;19110
+46;br_DutChess;Dut Chess;2017;0
+47;br_Goethe;Goethe;2017;248470
+48;br_IAC;IAC;2017;0
+49;br_Juliana;Juliana;2017;0
+50;br_Martha;Martha;2017;6150
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2017;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2017;11771138
+53;br_Niagara;Niagara;2017;0
+54;br_NiagaraBranca;Niagara Branca;2017;30802497
+55;br_NiagaraRosada;Niagara Rosada;2017;11464265
+56;br_Poloske;Poloske;2017;12100
+57;br_Seleções;Seleções;2017;0
+58;br_SeyveVillard;Seyve Villard;2017;586955
+59;br_SeyveVillard5276;Seyve Villard 5276;2017;206295
+60;br_SeyveVillard12375;Seyve Villard 12375;2017;0
+61;br_TardiadeCaxias;Tardia de Caxias;2017;6170
+62;br_Outras;Outras(2);2017;0
+1;TINTAS;TINTAS;2018;519506589
+2;ti_Bacarina;Bacarina;2018;0
+3;ti_Bailey;Bailey;2018;539742
+4;ti_Bordo;Bordo;2018;158405972
+5;ti_Bourdin (S);Bourdin (S);2018;0
+6;ti_BRSCarmen;BRS Carmen;2018;7472984
+7;ti_BRSCora;BRS Cora;2018;8691122
+8;ti_BRS Magna;BRS Magna;2018;2292084
+9;ti_BRS Margot;BRS Margot;2018;44328
+10;ti_BRSMorena;BRS Morena;2018;0
+29;ti_BRS Núbia ;BRS Núbia ;2018;0
+11;ti_BRS Rúbea;BRS Rúbea;2018;2658828
+12;ti_BRSVioleta;BRS Violeta;2018;13645751
+13;ti_BRS Vitória;BRS Vitória;2018;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2018;0
+16;ti_Coleções;Coleções;2018;1140
+17;ti_Concord;Concord;2018;31971535
+18;ti_Concordclone30;Concord clone 30;2018;4809154
+19;ti_Couderc;Couderc;2018;25797806
+20;ti_Cynthiana(1);Cynthiana(1);2018;1200824
+21;ti_Herbemont;Herbemont;2018;1325593
+22;ti_IAC138022;IAC 138022;2018;0
+23;ti_Isabel;Isabel;2018;216921065
+24;ti_IsabelPrecoce;Isabel Precoce;2018;17435326
+25;ti_Jacquez;Jacquez;2018;18221292
+26;ti_Kyoko;Kyoko;2018;0
+27;ti_Landot;Landot;2018;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2018;0
+29;ti_Oberlin;Oberlin;2018;0
+30;ti_Othello;Othello;2018;0
+31;ti_Paco;Paco;2018;0
+32;ti_Patricia;Patricia;2018;1401
+33;ti_Seibel;Seibel;2018;5293981
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2018;1967808
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2018;802673
+36;ti_Vênus;Vênus;2018;6180
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2018;79044471
+38;br_Baco;Baco;2018;0
+39;br_Bokay;Bokay;2018;80470
+40;br_BRS Bibiana ;BRS Bibiana ;2018;0
+41;br_BRSClara;BRS Clara;2018;0
+42;br_BRSLorena;BRS Lorena;2018;7529654
+43;br_Couderc13;Couderc 13;2018;5524997
+44;br_Delaware;Delaware;2018;0
+45;br_DonaZillá;Dona Zillá;2018;15370
+46;br_DutChess;Dut Chess;2018;0
+47;br_Goethe;Goethe;2018;475568
+48;br_IAC;IAC;2018;0
+49;br_Juliana;Juliana;2018;0
+50;br_Martha;Martha;2018;7040
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2018;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2018;9535525
+53;br_Niagara;Niagara;2018;0
+54;br_NiagaraBranca;Niagara Branca;2018;42948315
+55;br_NiagaraRosada;Niagara Rosada;2018;12308714
+56;br_Poloske;Poloske;2018;11180
+57;br_Seleções;Seleções;2018;0
+58;br_SeyveVillard;Seyve Villard;2018;462683
+59;br_SeyveVillard5276;Seyve Villard 5276;2018;139575
+60;br_SeyveVillard12375;Seyve Villard 12375;2018;0
+61;br_TardiadeCaxias;Tardia de Caxias;2018;5380
+62;br_Outras;Outras(2);2018;0
+1;TINTAS;TINTAS;2019;nd
+2;ti_Bacarina;Bacarina;2019;nd
+3;ti_Bailey;Bailey;2019;nd
+4;ti_Bordo;Bordo;2019;nd
+5;ti_Bourdin (S);Bourdin (S);2019;nd
+6;ti_BRSCarmen;BRS Carmen;2019;nd
+7;ti_BRSCora;BRS Cora;2019;nd
+8;ti_BRS Magna;BRS Magna;2019;nd
+9;ti_BRS Margot;BRS Margot;2019;nd
+10;ti_BRSMorena;BRS Morena;2019;nd
+29;ti_BRS Núbia ;BRS Núbia ;2019;nd
+11;ti_BRS Rúbea;BRS Rúbea;2019;nd
+12;ti_BRSVioleta;BRS Violeta;2019;nd
+13;ti_BRS Vitória;BRS Vitória;2019;nd
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2019;nd
+16;ti_Coleções;Coleções;2019;nd
+17;ti_Concord;Concord;2019;nd
+18;ti_Concordclone30;Concord clone 30;2019;nd
+19;ti_Couderc;Couderc;2019;nd
+20;ti_Cynthiana(1);Cynthiana(1);2019;nd
+21;ti_Herbemont;Herbemont;2019;nd
+22;ti_IAC138022;IAC 138022;2019;nd
+23;ti_Isabel;Isabel;2019;nd
+24;ti_IsabelPrecoce;Isabel Precoce;2019;nd
+25;ti_Jacquez;Jacquez;2019;nd
+26;ti_Kyoko;Kyoko;2019;nd
+27;ti_Landot;Landot;2019;nd
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2019;nd
+29;ti_Oberlin;Oberlin;2019;nd
+30;ti_Othello;Othello;2019;nd
+31;ti_Paco;Paco;2019;nd
+32;ti_Patricia;Patricia;2019;nd
+33;ti_Seibel;Seibel;2019;nd
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2019;nd
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2019;nd
+36;ti_Vênus;Vênus;2019;nd
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2019;nd
+38;br_Baco;Baco;2019;nd
+39;br_Bokay;Bokay;2019;nd
+40;br_BRS Bibiana ;BRS Bibiana ;2019;nd
+41;br_BRSClara;BRS Clara;2019;nd
+42;br_BRSLorena;BRS Lorena;2019;nd
+43;br_Couderc13;Couderc 13;2019;nd
+44;br_Delaware;Delaware;2019;nd
+45;br_DonaZillá;Dona Zillá;2019;nd
+46;br_DutChess;Dut Chess;2019;nd
+47;br_Goethe;Goethe;2019;nd
+48;br_IAC;IAC;2019;nd
+49;br_Juliana;Juliana;2019;nd
+50;br_Martha;Martha;2019;nd
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2019;nd
+52;br_MoscatoEmbrapa;Moscato Embrapa;2019;nd
+53;br_Niagara;Niagara;2019;nd
+54;br_NiagaraBranca;Niagara Branca;2019;nd
+55;br_NiagaraRosada;Niagara Rosada;2019;nd
+56;br_Poloske;Poloske;2019;nd
+57;br_Seleções;Seleções;2019;nd
+58;br_SeyveVillard;Seyve Villard;2019;nd
+59;br_SeyveVillard5276;Seyve Villard 5276;2019;nd
+60;br_SeyveVillard12375;Seyve Villard 12375;2019;nd
+61;br_TardiadeCaxias;Tardia de Caxias;2019;nd
+62;br_Outras;Outras(2);2019;nd
+1;TINTAS;TINTAS;2020;376136313
+2;ti_Bacarina;Bacarina;2020;0
+3;ti_Bailey;Bailey;2020;534981
+4;ti_Bordo;Bordo;2020;129978861
+5;ti_Bourdin (S);Bourdin (S);2020;0
+6;ti_BRSCarmen;BRS Carmen;2020;11540681
+7;ti_BRSCora;BRS Cora;2020;7326286
+8;ti_BRS Magna;BRS Magna;2020;3989275
+9;ti_BRS Margot;BRS Margot;2020;20771
+10;ti_BRSMorena;BRS Morena;2020;0
+29;ti_BRS Núbia ;BRS Núbia ;2020;0
+11;ti_BRS Rúbea;BRS Rúbea;2020;1476672
+12;ti_BRSVioleta;BRS Violeta;2020;8318514
+13;ti_BRS Vitória;BRS Vitória;2020;0
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2020;0
+16;ti_Coleções;Coleções;2020;0
+17;ti_Concord;Concord;2020;9984266
+18;ti_Concordclone30;Concord clone 30;2020;1406305
+19;ti_Couderc;Couderc;2020;16974342
+20;ti_Cynthiana(1);Cynthiana(1);2020;1084022
+21;ti_Herbemont;Herbemont;2020;1131251
+22;ti_IAC138022;IAC 138022;2020;0
+23;ti_Isabel;Isabel;2020;152414695
+24;ti_IsabelPrecoce;Isabel Precoce;2020;12098037
+25;ti_Jacquez;Jacquez;2020;8913460
+26;ti_Kyoko;Kyoko;2020;0
+27;ti_Landot;Landot;2020;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2020;0
+29;ti_Oberlin;Oberlin;2020;0
+30;ti_Othello;Othello;2020;0
+31;ti_Paco;Paco;2020;7380
+32;ti_Patricia;Patricia;2020;0
+33;ti_Seibel;Seibel;2020;3660374
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2020;4538123
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2020;735427
+36;ti_Vênus;Vênus;2020;2590
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2020;56980104
+38;br_Baco;Baco;2020;0
+39;br_Bokay;Bokay;2020;91980
+40;br_BRS Bibiana ;BRS Bibiana ;2020;0
+41;br_BRSClara;BRS Clara;2020;0
+42;br_BRSLorena;BRS Lorena;2020;7165025
+43;br_Couderc13;Couderc 13;2020;3794245
+44;br_Delaware;Delaware;2020;0
+45;br_DonaZillá;Dona Zillá;2020;12610
+46;br_DutChess;Dut Chess;2020;0
+47;br_Goethe;Goethe;2020;358137
+48;br_IAC;IAC;2020;0
+49;br_Juliana;Juliana;2020;0
+50;br_Martha;Martha;2020;6130
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2020;0
+52;br_MoscatoEmbrapa;Moscato Embrapa;2020;7836758
+53;br_Niagara;Niagara;2020;0
+54;br_NiagaraBranca;Niagara Branca;2020;28672956
+55;br_NiagaraRosada;Niagara Rosada;2020;8740991
+56;br_Poloske;Poloske;2020;14191
+57;br_Seleções;Seleções;2020;0
+58;br_SeyveVillard;Seyve Villard;2020;313488
+59;br_SeyveVillard5276;Seyve Villard 5276;2020;57423
+60;br_SeyveVillard12375;Seyve Villard 12375;2020;0
+61;br_TardiadeCaxias;Tardia de Caxias;2020;8150
+62;br_Outras;Outras(2);2020;0
+1;TINTAS;TINTAS;2021;394224543
+2;ti_Bacarina;Bacarina;2021;0
+3;ti_Bailey;Bailey;2021;4092669
+4;ti_Bordo;Bordo;2021;117655879
+5;ti_Bourdin (S);Bourdin (S);2021;0
+6;ti_BRSCarmen;BRS Carmen;2021;13771662
+7;ti_BRSCora;BRS Cora;2021;6442555
+8;ti_BRS Magna;BRS Magna;2021;2094359
+9;ti_BRS Margot;BRS Margot;2021;86932
+10;ti_BRSMorena;BRS Morena;2021;0
+29;ti_BRS Núbia ;BRS Núbia ;2021;0
+11;ti_BRS Rúbea;BRS Rúbea;2021;191970
+12;ti_BRSVioleta;BRS Violeta;2021;15601302
+13;ti_BRS Vitória;BRS Vitória;2021;125731
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2021;0
+16;ti_Coleções;Coleções;2021;0
+17;ti_Concord;Concord;2021;367793
+18;ti_Concordclone30;Concord clone 30;2021;621693
+19;ti_Couderc;Couderc;2021;54081578
+20;ti_Cynthiana(1);Cynthiana(1);2021;7346675
+21;ti_Herbemont;Herbemont;2021;14846723
+22;ti_IAC138022;IAC 138022;2021;0
+23;ti_Isabel;Isabel;2021;125664882
+24;ti_IsabelPrecoce;Isabel Precoce;2021;12814595
+25;ti_Jacquez;Jacquez;2021;17862770
+26;ti_Kyoko;Kyoko;2021;0
+27;ti_Landot;Landot;2021;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2021;8617
+29;ti_Oberlin;Oberlin;2021;0
+30;ti_Othello;Othello;2021;0
+31;ti_Paco;Paco;2021;0
+32;ti_Patricia;Patricia;2021;0
+33;ti_Seibel;Seibel;2021;351956
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2021;26032
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2021;67600
+36;ti_Vênus;Vênus;2021;100570
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2021;175576873
+38;br_Baco;Baco;2021;0
+39;br_Bokay;Bokay;2021;12830
+40;br_BRS Bibiana ;BRS Bibiana ;2021;0
+41;br_BRSClara;BRS Clara;2021;0
+42;br_BRSLorena;BRS Lorena;2021;23133629
+43;br_Couderc13;Couderc 13;2021;33620117
+44;br_Delaware;Delaware;2021;0
+45;br_DonaZillá;Dona Zillá;2021;10610
+46;br_DutChess;Dut Chess;2021;0
+47;br_Goethe;Goethe;2021;104596918
+48;br_IAC;IAC;2021;0
+49;br_Juliana;Juliana;2021;0
+50;br_Martha;Martha;2021;113040
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2021;1856
+52;br_MoscatoEmbrapa;Moscato Embrapa;2021;5747131
+53;br_Niagara;Niagara;2021;0
+54;br_NiagaraBranca;Niagara Branca;2021;5574368
+55;br_NiagaraRosada;Niagara Rosada;2021;2170241
+56;br_Poloske;Poloske;2021;402953
+57;br_Seleções;Seleções;2021;0
+58;br_SeyveVillard;Seyve Villard;2021;0
+59;br_SeyveVillard5276;Seyve Villard 5276;2021;97368
+60;br_SeyveVillard12375;Seyve Villard 12375;2021;61942
+61;br_TardiadeCaxias;Tardia de Caxias;2021;33870
+62;br_Outras;Outras(2);2021;0
+1;TINTAS;TINTAS;2022;*
+2;ti_Bacarina;Bacarina;2022;*
+3;ti_Bailey;Bailey;2022;*
+4;ti_Bordo;Bordo;2022;*
+5;ti_Bourdin (S);Bourdin (S);2022;*
+6;ti_BRSCarmen;BRS Carmen;2022;*
+7;ti_BRSCora;BRS Cora;2022;*
+8;ti_BRS Magna;BRS Magna;2022;*
+9;ti_BRS Margot;BRS Margot;2022;*
+10;ti_BRSMorena;BRS Morena;2022;*
+29;ti_BRS Núbia ;BRS Núbia ;2022;+
+11;ti_BRS Rúbea;BRS Rúbea;2022;*
+12;ti_BRSVioleta;BRS Violeta;2022;*
+13;ti_BRS Vitória;BRS Vitória;2022;*
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2022;*
+16;ti_Coleções;Coleções;2022;*
+17;ti_Concord;Concord;2022;*
+18;ti_Concordclone30;Concord clone 30;2022;*
+19;ti_Couderc;Couderc;2022;*
+20;ti_Cynthiana(1);Cynthiana(1);2022;*
+21;ti_Herbemont;Herbemont;2022;*
+22;ti_IAC138022;IAC 138022;2022;*
+23;ti_Isabel;Isabel;2022;*
+24;ti_IsabelPrecoce;Isabel Precoce;2022;*
+25;ti_Jacquez;Jacquez;2022;*
+26;ti_Kyoko;Kyoko;2022;*
+27;ti_Landot;Landot;2022;*
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2022;*
+29;ti_Oberlin;Oberlin;2022;*
+30;ti_Othello;Othello;2022;*
+31;ti_Paco;Paco;2022;*
+32;ti_Patricia;Patricia;2022;*
+33;ti_Seibel;Seibel;2022;*
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2022;*
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2022;*
+36;ti_Vênus;Vênus;2022;*
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2022;*
+38;br_Baco;Baco;2022;*
+39;br_Bokay;Bokay;2022;*
+40;br_BRS Bibiana ;BRS Bibiana ;2022;+
+41;br_BRSClara;BRS Clara;2022;*
+42;br_BRSLorena;BRS Lorena;2022;*
+43;br_Couderc13;Couderc 13;2022;*
+44;br_Delaware;Delaware;2022;*
+45;br_DonaZillá;Dona Zillá;2022;*
+46;br_DutChess;Dut Chess;2022;*
+47;br_Goethe;Goethe;2022;*
+48;br_IAC;IAC;2022;*
+49;br_Juliana;Juliana;2022;*
+50;br_Martha;Martha;2022;*
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2022;*
+52;br_MoscatoEmbrapa;Moscato Embrapa;2022;*
+53;br_Niagara;Niagara;2022;*
+54;br_NiagaraBranca;Niagara Branca;2022;*
+55;br_NiagaraRosada;Niagara Rosada;2022;*
+56;br_Poloske;Poloske;2022;*
+57;br_Seleções;Seleções;2022;*
+58;br_SeyveVillard;Seyve Villard;2022;*
+59;br_SeyveVillard5276;Seyve Villard 5276;2022;*
+60;br_SeyveVillard12375;Seyve Villard 12375;2022;*
+61;br_TardiadeCaxias;Tardia de Caxias;2022;*
+62;br_Outras;Outras(2);2022;*
+1;TINTAS;TINTAS;2023;502666358
+2;ti_Bacarina;Bacarina;2023;0
+3;ti_Bailey;Bailey;2023;587066
+4;ti_Bordo;Bordo;2023;154310837
+5;ti_Bourdin (S);Bourdin (S);2023;0
+6;ti_BRSCarmen;BRS Carmen;2023;22242535
+7;ti_BRSCora;BRS Cora;2023;19508450
+8;ti_BRS Magna;BRS Magna;2023;13919693
+9;ti_BRS Margot;BRS Margot;2023;36842
+10;ti_BRSMorena;BRS Morena;2023;0
+29;ti_BRS Núbia ;BRS Núbia ;2023;57060
+11;ti_BRS Rúbea;BRS Rúbea;2023;3311843
+12;ti_BRSVioleta;BRS Violeta;2023;15657282
+13;ti_BRS Vitória;BRS Vitória;2023;8820
+15;ti_Champagnon(Champanheta);Champagnon (Champanheta);2023;0
+16;ti_Coleções;Coleções;2023;0
+17;ti_Concord;Concord;2023;25091503
+18;ti_Concordclone30;Concord clone 30;2023;5491777
+19;ti_Couderc;Couderc;2023;23121275
+20;ti_Cynthiana(1);Cynthiana(1);2023;1186253
+21;ti_Herbemont;Herbemont;2023;1417502
+22;ti_IAC138022;IAC 138022;2023;0
+23;ti_Isabel;Isabel;2023;176590596
+24;ti_IsabelPrecoce;Isabel Precoce;2023;17956434
+25;ti_Jacquez;Jacquez;2023;12749029
+26;ti_Kyoko;Kyoko;2023;0
+27;ti_Landot;Landot;2023;0
+28;ti_Mistura de uvas americanas tinto;Mistura de uvas americanas tinto;2023;346747
+29;ti_Oberlin;Oberlin;2023;0
+30;ti_Othello;Othello;2023;0
+31;ti_Paco;Paco;2023;15300
+32;ti_Patricia;Patricia;2023;0
+33;ti_Seibel;Seibel;2023;2600315
+34;ti_Seibel2(seibeleto);Seibel 2 (seibeleto);2023;5387790
+35;ti_SeyveWillard(Tinta);Seyve Willard (Tinta);2023;1002782
+36;ti_Vênus;Vênus;2023;68626
+37;BRANCASEROSADAS;BRANCAS E ROSADAS;2023;62577564
+38;br_Baco;Baco;2023;0
+39;br_Bokay;Bokay;2023;84670
+40;br_BRS Bibiana ;BRS Bibiana ;2023;25491
+41;br_BRSClara;BRS Clara;2023;0
+42;br_BRSLorena;BRS Lorena;2023;10186931
+43;br_Couderc13;Couderc 13;2023;4524468
+44;br_Delaware;Delaware;2023;0
+45;br_DonaZillá;Dona Zillá;2023;24890
+46;br_DutChess;Dut Chess;2023;0
+47;br_Goethe;Goethe;2023;269143
+48;br_IAC;IAC;2023;0
+49;br_Juliana;Juliana;2023;0
+50;br_Martha;Martha;2023;1380
+51;br_Mistura de uvas americanas;Mistura de uvas americanas;2023;42550
+52;br_MoscatoEmbrapa;Moscato Embrapa;2023;8790794
+53;br_Niagara;Niagara;2023;0
+54;br_NiagaraBranca;Niagara Branca;2023;23148433
+55;br_NiagaraRosada;Niagara Rosada;2023;14987968
+56;br_Poloske;Poloske;2023;55493
+57;br_Seleções;Seleções;2023;0
+58;br_SeyveVillard;Seyve Villard;2023;0
+59;br_SeyveVillard5276;Seyve Villard 5276;2023;105771
+60;br_SeyveVillard12375;Seyve Villard 12375;2023;329582
+61;br_TardiadeCaxias;Tardia de Caxias;2023;0
+62;br_Outras;Outras(2);2023;0
