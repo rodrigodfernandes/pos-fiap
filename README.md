@@ -92,7 +92,7 @@ embrapa-api/
 
 ### Desenho de Infraestrutura
 
-![Infraestrutura](docs/imagens/infra.png)
+![Infraestrutura](docs/images/infra.png)
 
 **Containers do Projeto:**
 
@@ -140,7 +140,7 @@ embrapa-api/
 
 ### Desenho de Solução
 
-![Infraestrutura](docs/imagens/jornada.png)
+![Infraestrutura](docs/images/jornada.png)
 
 **Jornada do Desenho:**
 1. **Autenticação**
