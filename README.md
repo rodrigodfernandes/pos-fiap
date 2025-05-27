@@ -216,6 +216,12 @@ Quando implementados, os endpoints específicos da aplicação estarão disponí
 
 * **Análises**: /api/analysis/\* \- Endpoints para análises específicas
 
+### **Endpoints Externos**
+
+- **Swagger (Documentação):** [http://45.184.70.12:8000/docs](http://45.184.70.12:8000/docs)
+- **API (Raiz):** [http://45.184.70.12:8000/](http://45.184.70.12:8000/)
+- **Grafana:** [http://45.184.70.12:3000/](http://45.184.70.12:3000/)
+
 ## **💻 Desenvolvimento**
 
 ### **Autenticação**
