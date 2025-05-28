@@ -27,22 +27,22 @@ session.headers.update({'User-Agent': 'Mozilla/5.0'})
 suboption_labels = {
     "opt_03": {
         "subopt_01": "Viníferas",
-        "subopt_02": "Americanas_e_Híbridas",
-        "subopt_03": "Uvas_de_Mesa",
-        "subopt_04": "Sem Classificação"
+        "subopt_02": "Americanas e híbridas",
+        "subopt_03": "Uvas de mesa",
+        "subopt_04": "Sem classificação"
     },
     "opt_05": {
-        "subopt_01": "Vinhos_de_Mesa",
+        "subopt_01": "Vinhos de mesa",
         "subopt_02": "Espumantes",
-        "subopt_03": "Uvas_Frescas",
-        "subopt_04": "Uvas_Passas",
-        "subopt_05": "Suco_de_Uva"
+        "subopt_03": "Uvas frescas",
+        "subopt_04": "Uvas passas",
+        "subopt_05": "Suco de uva"
     },
     "opt_06": {
-        "subopt_01": "Vinhos_de_Mesa",
+        "subopt_01": "Vinhos de mesa",
         "subopt_02": "Espumantes",
-        "subopt_03": "Uvas_Frescas",
-        "subopt_04": "Suco_de_Uva"
+        "subopt_03": "Uvas frescas",
+        "subopt_04": "Suco de uva"
     }
 }
 

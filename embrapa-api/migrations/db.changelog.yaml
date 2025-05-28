@@ -104,3 +104,9 @@ databaseChangeLog:
       rollback:
         path: sql/0010-drop-table-user.sql
         relativeToChangelogFile: true
+  - changeSet:
+      id: 11
+      author: rick.ricarte
+      sqlFile:
+        path: sql/0011-add-year-column.sql
+        relativeToChangelogFile: true

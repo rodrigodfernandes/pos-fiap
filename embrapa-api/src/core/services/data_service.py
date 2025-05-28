@@ -20,11 +20,11 @@ from src.db.repositories.data_repository import (
 DATA_PATH = "data/vitibrasil"
 
 MODULE_FILES = {
-    "product": "opt_02_completo",
-    "process": "opt_03_completo",
-    "sales": "opt_04_completo",
-    "import": "opt_05_completo",
-    "export": "opt_06_completo",
+    "product": "opt_02",
+    "process": "opt_03",
+    "sales": "opt_04",
+    "import": "opt_05",
+    "export": "opt_06",
 }
 
 def load_data(module: str):
@@ -43,28 +43,34 @@ def insert_product_data(conn: Connection):
     insertions = []
 
     for entry in data:
-        produto = entry.get("Produto", "").strip()
-        quantidade_raw = entry.get("Quantidade (L.)", "0").replace(".", "").replace("-", "0")
-
-        if produto == "Total":
-            continue
-
         try:
-            quantidade = int(float(quantidade_raw))
-        except ValueError:
-            quantidade = 0
+            produto = entry.get("produto", "").strip()
+            # quantidade_raw = entry.get("valor", "0").replace(".", "").replace("-", "0")
+            quantidade_raw = entry.get("valor", 0)
+            ano_raw = entry.get("ano", 0)
 
-        if produto.isupper():
-            current_wine_derivative = produto
+            if produto == "Total":
+                continue
 
-        if current_wine_derivative is None:
-            continue # ignorar registros antes do primeiro UPPERCASE
+            try:
+                quantidade = int(float(quantidade_raw))
+            except ValueError:
+                quantidade = 0
 
-        insertions.append({
-            "name": produto,
-            "wine_derivative_name": current_wine_derivative,
-            "quantity": quantidade
-        })
+            if produto.isupper():
+                current_wine_derivative = produto
+
+            if current_wine_derivative is None:
+                continue # ignorar registros antes do primeiro UPPERCASE
+
+            insertions.append({
+                "name": produto,
+                "wine_derivative_name": current_wine_derivative,
+                "quantity": quantidade,
+                "year_no": ano_raw if ano_raw else None
+            })
+        except Exception as e:
+            raise ValueError(f"Erro ao processar produto '{entry}': {e}")
 
     for record in insertions:
         try:
@@ -84,33 +90,38 @@ def insert_process_data(conn: Connection):
     valid_colors = [e.value for e in ColorEnum]
 
     for entry in data:
-        cultivar = entry.get("Cultivar", "").strip()
-        quantidade_raw = entry.get("Quantidade (Kg)", "0").replace(".", "").replace(",", ".").replace("-", "0")
-        kind_raw = entry.get("type", "").strip()
-
-        if cultivar == "Total":
-            continue
-
         try:
-            quantidade = int(float(quantidade_raw))
-        except ValueError:
-            quantidade = 0
+            cultivar = entry.get("cultivar", "").strip()
+            quantidade_raw = str(entry.get("Quantidade (Kg") or "0").replace(".", "").replace(",", ".").replace("-", "0")
+            kind_raw = entry.get("type", "").strip()
+            ano_raw = entry.get("ano", 0)
 
-        if cultivar.isupper() and cultivar in valid_colors:
-            current_color_name = cultivar
+            if cultivar == "Total":
+                continue
 
-        if current_color_name is None or not kind_raw:
-            continue
+            try:
+                quantidade = int(float(quantidade_raw))
+            except ValueError:
+                quantidade = 0
 
-        if kind_raw not in valid_kinds:
-            raise ValueError(f"Tipo inválido encontrado: '{kind_raw}'")
+            if cultivar.isupper() and cultivar in valid_colors:
+                current_color_name = cultivar
 
-        insertions.append({
-            "color_name": current_color_name,
-            "kind_name": kind_raw,
-            "cultivar": cultivar,
-            "quantity_kg": quantidade
-        })
+            if current_color_name is None or not kind_raw:
+                continue
+
+            if kind_raw not in valid_kinds:
+                raise ValueError(f"Tipo inválido encontrado: '{kind_raw}'")
+
+            insertions.append({
+                "color_name": current_color_name,
+                "kind_name": kind_raw,
+                "cultivar": cultivar,
+                "quantity_kg": quantidade,
+                "year_no": ano_raw if ano_raw else None
+            })
+        except Exception as e:
+            raise ValueError(f"Erro ao processar processo '{entry}': {e}")
 
     for record in insertions:
         try:
@@ -129,28 +140,34 @@ def insert_sales_data(conn: Connection):
     valid_wine_derivatives = [e.value for e in WineDerivativeEnum]
 
     for entry in data:
-        produto = entry.get("Produto", "").strip()
-        quantidade_raw = entry.get("Quantidade (L.)", "0").replace(".", "").replace("-", "0")
-
-        if produto == "Total":
-            continue
-
         try:
-            quantidade = int(float(quantidade_raw))
-        except ValueError:
-            quantidade = 0
+            produto = entry.get("Produto", "").strip()
+            # quantidade_raw = entry.get("valor", "0").replace(".", "").replace("-", "0")
+            quantidade_raw = entry.get("valor", 0)
+            ano_raw = entry.get("ano", 0)
 
-        if produto.isupper() and produto in valid_wine_derivatives:
-            current_wine_derivative = produto
+            if produto == "Total":
+                continue
 
-        if current_wine_derivative is None:
-            continue
+            try:
+                quantidade = int(float(quantidade_raw))
+            except ValueError:
+                quantidade = 0
 
-        insertions.append({
-            "name": produto,
-            "wine_derivative_name": current_wine_derivative,
-            "quantity_liters": quantidade
-        })
+            if produto.isupper() and produto in valid_wine_derivatives:
+                current_wine_derivative = produto
+
+            if current_wine_derivative is None:
+                continue
+
+            insertions.append({
+                "name": produto,
+                "wine_derivative_name": current_wine_derivative,
+                "quantity_liters": quantidade,
+                "year_no": ano_raw if ano_raw else None
+            })
+        except Exception as e:
+            raise ValueError(f"Erro ao processar comercialização '{entry}': {e}")
 
     for record in insertions:
         try:
@@ -168,33 +185,40 @@ def insert_import_data(conn: Connection):
     valid_grape_types = [e.value for e in GrapeTypeEnum]
 
     for entry in data:
-        country = entry.get("Países", "").strip()
-        quantidade_raw = entry.get("Quantidade (Kg)", "0").replace(".", "").replace("-", "0")
-        valor_raw = entry.get("Valor (US$)", "0").replace(".", "").replace("-", "0").replace(",", ".")
-        grape_type = entry.get("type", "").strip()
-
-        if country == "Total":
-            continue
-
         try:
-            quantidade = int(float(quantidade_raw))
-        except ValueError:
-            quantidade = 0
+            country = entry.get("País", "").strip()
+            # quantidade_raw = entry.get("Quantidade (Kg)", "0").replace(".", "").replace("-", "0")
+            quantidade_raw = entry.get("Quantidade (Kg)", 0)
+            # valor_raw = entry.get("Valor (US$)", "0").replace(".", "").replace("-", "0").replace(",", ".")
+            valor_raw = 0 # Valor não está presente no JSON de importação
+            grape_type = entry.get("type", "").strip()
+            ano_raw = entry.get("ano", 0)
 
-        try:
-            valor = float(valor_raw)
-        except ValueError:
-            valor = 0.0
+            if country == "Total":
+                continue
 
-        if not grape_type or grape_type not in valid_grape_types:
-            continue
+            try:
+                quantidade = int(float(quantidade_raw))
+            except ValueError:
+                quantidade = 0
 
-        insertions.append({
-            "grape_type_name": grape_type,
-            "country": country,
-            "quantity_kg": quantidade,
-            "value_usd": valor
-        })
+            try:
+                valor = float(valor_raw)
+            except ValueError:
+                valor = 0.0
+
+            if not grape_type or grape_type not in valid_grape_types:
+                continue
+
+            insertions.append({
+                "grape_type_name": grape_type,
+                "country": country,
+                "quantity_kg": quantidade,
+                "value_usd": valor,
+                "year_no": ano_raw if ano_raw else None
+            })
+        except Exception as e:
+            raise ValueError(f"Erro ao processar importação '{entry}': {e}")
 
     for record in insertions:
         try:
@@ -212,33 +236,40 @@ def insert_export_data(conn: Connection):
     valid_grape_types = [e.value for e in GrapeTypeEnum]
 
     for entry in data:
-        country = entry.get("Países", "").strip()
-        quantidade_raw = entry.get("Quantidade (Kg)", "0").replace(".", "").replace("-", "0")
-        valor_raw = entry.get("Valor (US$)", "0").replace(".", "").replace("-", "0").replace(",", ".")
-        grape_type = entry.get("type", "").strip()
-
-        if country == "Total":
-            continue
-
         try:
-            quantidade = int(float(quantidade_raw))
-        except ValueError:
-            quantidade = 0
+            country = entry.get("País", "").strip()
+            # quantidade_raw = entry.get("Quantidade (Kg)", "0").replace(".", "").replace("-", "0")
+            quantidade_raw = entry.get("Quantidade (Kg)", 0)
+            # valor_raw = entry.get("Valor (US$)", "0").replace(".", "").replace("-", "0").replace(",", ".")
+            valor_raw = 0 # Valor não está presente no JSON de importação
+            grape_type = entry.get("type", "").strip()
+            ano_raw = entry.get("ano", 0)
 
-        try:
-            valor = float(valor_raw)
-        except ValueError:
-            valor = 0.0
+            if country == "Total":
+                continue
 
-        if not grape_type or grape_type not in valid_grape_types:
-            continue
+            try:
+                quantidade = int(float(quantidade_raw))
+            except ValueError:
+                quantidade = 0
 
-        insertions.append({
-            "grape_type_name": grape_type,
-            "country": country,
-            "quantity_kg": quantidade,
-            "value_usd": valor
-        })
+            try:
+                valor = float(valor_raw)
+            except ValueError:
+                valor = 0.0
+
+            if not grape_type or grape_type not in valid_grape_types:
+                continue
+
+            insertions.append({
+                "grape_type_name": grape_type,
+                "country": country,
+                "quantity_kg": quantidade,
+                "value_usd": valor,
+                "year_no": ano_raw if ano_raw else None
+            })
+        except Exception as e:
+            raise ValueError(f"Erro ao processar exportação '{entry}': {e}")
 
     for record in insertions:
         try:
@@ -255,9 +286,9 @@ def insert_all_data(conn: Connection):
     insert_import_data(conn)
     insert_export_data(conn)
 
-def get_data_by_module(module: str, conn: Connection):
+def get_data_by_module(module: str, conn: Connection, year_no: int = None):
     if module not in MODULE_FILES:
         raise ValueError(f"Invalid module '{module}'. Valid modules are: {', '.join(MODULE_FILES.keys())}.")
 
-    result = get_all_from_table(module, conn)
+    result = get_all_from_table(module, conn, year_no=year_no)
     return result

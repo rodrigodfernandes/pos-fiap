@@ -16,6 +16,7 @@ class KindEnum(enum.Enum):
     AMERICANAS_E_HIBRIDAS = 'Americanas e híbridas'
     UVAS_DE_MESA = 'Uvas de mesa'
     SEM_CLASSIFICACAO = 'Sem classificação'
+    PRINCIPAL = 'principal'
 
 class WineDerivativeEnum(enum.Enum):
     VINHO_DE_MESA = 'VINHO DE MESA'
@@ -44,6 +45,7 @@ class Product(Base):
     name = Column(String(255), nullable=False)
     wine_derivative_name = Column(String(50), nullable=False)
     quantity = Column(Integer, nullable=False)
+    year = Column(Integer, nullable=False)
 
 class Process(Base):
     __tablename__ = "process"
@@ -52,6 +54,7 @@ class Process(Base):
     kind_name = Column(Enum(KindEnum), nullable=False)      # por enquanto apenas tipo Vinifera
     cultivar = Column(String(100), nullable=False)
     quantity_kg = Column(Integer, nullable=False)
+    year = Column(Integer, nullable=False)
 
 class Sales(Base):
     __tablename__ = "sales"
@@ -59,6 +62,7 @@ class Sales(Base):
     name = Column(String(255), nullable=False)
     wine_derivative_name = Column(Enum(WineDerivativeEnum), nullable=False)
     quantity_liters = Column(Numeric(15, 2), nullable=False)
+    year = Column(Integer, nullable=False)
 
 class Import(Base):
     __tablename__ = "import"
@@ -67,6 +71,7 @@ class Import(Base):
     country = Column(String(100), nullable=False)
     quantity_kg = Column(Numeric(15, 2))
     value_usd = Column(Numeric(15, 2))
+    year = Column(Integer, nullable=False)
 
 class Export(Base):
     __tablename__ = "export"
@@ -75,3 +80,4 @@ class Export(Base):
     country = Column(String(100), nullable=False)
     quantity_kg = Column(Numeric(15, 2))
     value_usd = Column(Numeric(15, 2))
+    year = Column(Integer, nullable=False)
