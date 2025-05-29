@@ -140,7 +140,7 @@ embrapa-api/
 
 ### Desenho de Solução
 
-![Infraestrutura](docs/images/jornada_v1.png)
+![Infraestrutura](docs/images/jornada_v2.png)
 
 **Jornada do Desenho:**
 1. **Autenticação**
