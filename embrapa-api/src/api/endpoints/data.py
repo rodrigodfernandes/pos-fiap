@@ -8,6 +8,9 @@ router = APIRouter()
 
 @router.post("/import-all")
 def import_all_data(db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
+    """
+    Realiza a importação dos dados presentes nos arquivos (após scrapping) para o banco de dados.
+    """
     try:
         insert_all_data(db)
         return {"message": "All data imported successfully."}
@@ -34,6 +37,9 @@ def get_product_data(
     db: Connection = Depends(get_db),
     _: str = Depends(get_current_user)
 ):
+    """
+    Obtém os dados do módulo de Produção com paginação e filtragem por ano.
+    """
     try:
         skip = (pagina - 1) * qtd_por_pagina
         data = get_data_by_module("product", db, year_no=ano, skip=skip, limit=qtd_por_pagina)
@@ -64,6 +70,9 @@ def get_process_data(
     db: Connection = Depends(get_db),
     _: str = Depends(get_current_user)
 ):
+    """
+    Obtém os dados do módulo de Processamento com paginação e filtragem por ano.
+    """
     try:
         skip = (pagina - 1) * qtd_por_pagina
         data = get_data_by_module("process", db, year_no=ano, skip=skip, limit=qtd_por_pagina)
@@ -94,6 +103,9 @@ def get_sales_data(
     db: Connection = Depends(get_db),
     _: str = Depends(get_current_user)
 ):
+    """
+    Obtém os dados do módulo de Comercialização com paginação e filtragem por ano.
+    """
     try:
         skip = (pagina - 1) * qtd_por_pagina
         data = get_data_by_module("sales", db, year_no=ano, skip=skip, limit=qtd_por_pagina)
@@ -124,6 +136,9 @@ def get_import_data(
     db: Connection = Depends(get_db),
     _: str = Depends(get_current_user)
 ):
+    """
+    Obtém os dados do módulo de Importação com paginação e filtragem por ano.
+    """
     try:
         skip = (pagina - 1) * qtd_por_pagina
         data = get_data_by_module("import", db, year_no=ano, skip=skip, limit=qtd_por_pagina)
@@ -154,6 +169,9 @@ def get_export_data(
     db: Connection = Depends(get_db),
     _: str = Depends(get_current_user)
 ):
+    """
+    Obtém os dados do módulo de Exportação com paginação e filtragem por ano.
+    """
     try:
         skip = (pagina - 1) * qtd_por_pagina
         data = get_data_by_module("export", db, year_no=ano, skip=skip, limit=qtd_por_pagina)
