@@ -92,7 +92,7 @@ def insert_process_data(conn: Connection):
     for entry in data:
         try:
             cultivar = entry.get("cultivar", "").strip()
-            quantidade_raw = str(entry.get("Quantidade (Kg") or "0").replace(".", "").replace(",", ".").replace("-", "0")
+            quantidade_raw = str(entry.get("Quantidade (Kg)") or "0").replace(".", "").replace(",", ".").replace("-", "0")
             kind_raw = entry.get("type", "").strip()
             ano_raw = entry.get("ano", 0)
 
