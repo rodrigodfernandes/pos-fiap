@@ -40,13 +40,19 @@ def delete_all_from_table(table: str, conn: Connection):
     conn.execute(text(f"DELETE FROM {table};"))
     conn.commit()
 
-def get_all_from_table(table: str, conn: Connection, year_no: int = None):
+def get_all_from_table(table: str, conn: Connection, year_no: int = None, skip: int = 0, limit: int = 100):
+    base_query = f"SELECT * FROM {table}"
+    params = {}
+
     if year_no is not None:
-        query = text(f"SELECT * FROM {table} WHERE year_no = :year_no;")
-        result = conn.execute(query, {"year_no": year_no})
-    else:
-        query = text(f"SELECT * FROM {table};")
-        result = conn.execute(query)
+        base_query += " WHERE year_no = :year_no"
+        params["year_no"] = year_no
+
+    base_query += " ORDER BY id OFFSET :skip LIMIT :limit"
+    params.update({"skip": skip, "limit": limit})
+
+    query = text(base_query)
+    result = conn.execute(query, params)
     return [dict(row._mapping) for row in result]
 
 def delete_product_data(conn: Connection):
@@ -63,18 +69,3 @@ def delete_import_data(conn: Connection):
 
 def delete_export_data(conn: Connection):
     delete_all_from_table("export", conn)
-
-def get_product_data(conn: Connection):
-    return get_all_from_table("product", conn)
-
-def get_process_data(conn: Connection):
-    return get_all_from_table("process", conn)
-
-def get_sales_data(conn: Connection):
-    return get_all_from_table("sales", conn)
-
-def get_import_data(conn: Connection):
-    return get_all_from_table("import", conn)
-
-def get_export_data(conn: Connection):
-    return get_all_from_table("export", conn)

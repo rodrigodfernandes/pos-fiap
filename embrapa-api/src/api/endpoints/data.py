@@ -17,41 +17,151 @@ def import_all_data(db: Connection = Depends(get_db), _: str = Depends(get_curre
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 @router.get("/product")
-def get_product_data(ano: int = Query(None), db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
+def get_product_data(
+    ano: int = Query(None, description="Filtrar os dados pelo ano de referência"),
+    pagina: int = Query(
+        default=1,
+        ge=1,
+        title="Página",
+        description="Número da página (começando em 1)"
+    ),
+    qtd_por_pagina: int = Query(
+        default=100,
+        ge=1,
+        title="Quantidade por página",
+        description="Número de itens por página"
+    ),
+    db: Connection = Depends(get_db),
+    _: str = Depends(get_current_user)
+):
     try:
-        data = get_data_by_module("product", db, ano)
-        return {"module": "product", "data": data}
+        skip = (pagina - 1) * qtd_por_pagina
+        data = get_data_by_module("product", db, year_no=ano, skip=skip, limit=qtd_por_pagina)
+        return {
+            "modulo": "product",
+            "pagina": pagina,
+            "quantidade_por_pagina": qtd_por_pagina,
+            "dados": data
+        }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 @router.get("/process")
-def get_process_data(ano: int = Query(None), db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
+def get_process_data(
+    ano: int = Query(None, description="Filtrar os dados pelo ano de referência"),
+    pagina: int = Query(
+        default=1,
+        ge=1,
+        title="Página",
+        description="Número da página (começando em 1)"
+    ),
+    qtd_por_pagina: int = Query(
+        default=100,
+        ge=1,
+        title="Quantidade por página",
+        description="Número de itens por página"
+    ),
+    db: Connection = Depends(get_db),
+    _: str = Depends(get_current_user)
+):
     try:
-        data = get_data_by_module("process", db, ano)
-        return {"module": "process", "data": data}
+        skip = (pagina - 1) * qtd_por_pagina
+        data = get_data_by_module("process", db, year_no=ano, skip=skip, limit=qtd_por_pagina)
+        return {
+            "modulo": "process",
+            "pagina": pagina,
+            "quantidade_por_pagina": qtd_por_pagina,
+            "dados": data
+        }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 @router.get("/sales")
-def get_sales_data(ano: int = Query(None), db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
+def get_sales_data(
+    ano: int = Query(None, description="Filtrar os dados pelo ano de referência"),
+    pagina: int = Query(
+        default=1,
+        ge=1,
+        title="Página",
+        description="Número da página (começando em 1)"
+    ),
+    qtd_por_pagina: int = Query(
+        default=100,
+        ge=1,
+        title="Quantidade por página",
+        description="Número de itens por página"
+    ),
+    db: Connection = Depends(get_db),
+    _: str = Depends(get_current_user)
+):
     try:
-        data = get_data_by_module("sales", db, ano)
-        return {"module": "sales", "data": data}
+        skip = (pagina - 1) * qtd_por_pagina
+        data = get_data_by_module("sales", db, year_no=ano, skip=skip, limit=qtd_por_pagina)
+        return {
+            "modulo": "sales",
+            "pagina": pagina,
+            "quantidade_por_pagina": qtd_por_pagina,
+            "dados": data
+        }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 @router.get("/import")
-def get_import_data(ano: int = Query(None), db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
+def get_import_data(
+    ano: int = Query(None, description="Filtrar os dados pelo ano de referência"),
+    pagina: int = Query(
+        default=1,
+        ge=1,
+        title="Página",
+        description="Número da página (começando em 1)"
+    ),
+    qtd_por_pagina: int = Query(
+        default=100,
+        ge=1,
+        title="Quantidade por página",
+        description="Número de itens por página"
+    ),
+    db: Connection = Depends(get_db),
+    _: str = Depends(get_current_user)
+):
     try:
-        data = get_data_by_module("import", db, ano)
-        return {"module": "import", "data": data}
+        skip = (pagina - 1) * qtd_por_pagina
+        data = get_data_by_module("import", db, year_no=ano, skip=skip, limit=qtd_por_pagina)
+        return {
+            "modulo": "import",
+            "pagina": pagina,
+            "quantidade_por_pagina": qtd_por_pagina,
+            "dados": data
+        }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 @router.get("/export")
-def get_export_data(ano: int = Query(None), db: Connection = Depends(get_db), _: str = Depends(get_current_user)):
+def get_export_data(
+    ano: int = Query(None, description="Filtrar os dados pelo ano de referência"),
+    pagina: int = Query(
+        default=1,
+        ge=1,
+        title="Página",
+        description="Número da página (começando em 1)"
+    ),
+    qtd_por_pagina: int = Query(
+        default=100,
+        ge=1,
+        title="Quantidade por página",
+        description="Número de itens por página"
+    ),
+    db: Connection = Depends(get_db),
+    _: str = Depends(get_current_user)
+):
     try:
-        data = get_data_by_module("export", db, ano)
-        return {"module": "export", "data": data}
+        skip = (pagina - 1) * qtd_por_pagina
+        data = get_data_by_module("export", db, year_no=ano, skip=skip, limit=qtd_por_pagina)
+        return {
+            "modulo": "export",
+            "pagina": pagina,
+            "quantidade_por_pagina": qtd_por_pagina,
+            "dados": data
+        }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
