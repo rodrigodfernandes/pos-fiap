@@ -92,7 +92,7 @@ def insert_process_data(conn: Connection):
     for entry in data:
         try:
             cultivar = entry.get("cultivar", "").strip()
-            quantidade_raw = str(entry.get("Quantidade (Kg") or "0").replace(".", "").replace(",", ".").replace("-", "0")
+            quantidade_raw = str(entry.get("Quantidade (Kg)") or "0").replace(".", "").replace(",", ".").replace("-", "0")
             kind_raw = entry.get("type", "").strip()
             ano_raw = entry.get("ano", 0)
 
@@ -286,9 +286,7 @@ def insert_all_data(conn: Connection):
     insert_import_data(conn)
     insert_export_data(conn)
 
-def get_data_by_module(module: str, conn: Connection, year_no: int = None):
+def get_data_by_module(module: str, conn: Connection, year_no: int = None, skip: int = 0, limit: int = 100):
     if module not in MODULE_FILES:
         raise ValueError(f"Invalid module '{module}'. Valid modules are: {', '.join(MODULE_FILES.keys())}.")
-
-    result = get_all_from_table(module, conn, year_no=year_no)
-    return result
+    return get_all_from_table(module, conn, year_no=year_no, skip=skip, limit=limit)
