@@ -39,3 +39,5 @@ pandas==2.2.3
 lxml==5.4.0
 prometheus_fastapi_instrumentator==7.1.0
 prometheus_client==0.21.1
+chardet>=5.0.0
+python-multipart==0.0.6
