@@ -110,3 +110,93 @@ databaseChangeLog:
       sqlFile:
         path: sql/0011-add-year-column.sql
         relativeToChangelogFile: true
+  - changeSet:
+      id: 11
+      author: rick.ricarte
+      sqlFile:
+        path: sql/0011-add-year-column-product.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0012-drop-year-column-product.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 12
+      author: rick.ricarte
+      sqlFile:
+        path: sql/0013-add-year-column-process.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0014-drop-year-column-process.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 13
+      author: rick.ricarte
+      sqlFile:
+        path: sql/0015-add-year-column-sales.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0016-drop-year-column-sales.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 14
+      author: rick.ricarte
+      sqlFile:
+        path: sql/0017-add-year-column-import.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0018-drop-year-column-import.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 15
+      author: rick.ricarte
+      sqlFile:
+        path: sql/0019-add-year-column-export.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0020-drop-year-column-export.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 16
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0021-create-index-product.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0022-drop-index-product.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 17
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0023-create-index-process.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0024-drop-index-process.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 18
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0025-create-index-sales.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0026-drop-index-sales.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 19
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0027-create-index-import.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0028-drop-index-import.sql
+        relativeToChangelogFile: true
+  - changeSet:
+      id: 20
+      author: rodrigo.fernandes
+      sqlFile:
+        path: sql/0029-create-index-export.sql
+        relativeToChangelogFile: true
+      rollback:
+        path: sql/0030-drop-index-export.sql
+        relativeToChangelogFile: true
