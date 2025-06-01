@@ -97,25 +97,38 @@ async def process_scraper_async(
     sleep_time: float = 5.0
 ):
     """
-    Processa o scraper de forma assíncrona com paralelismo e sleep
+    Processa o scraper de forma assíncrona garantindo sleep entre cada parte processada.
+    
+    Args:
+        task_id (str): Identificador único da tarefa
+        output_dir (str): Diretório onde os dados serão salvos
+        workers (int): Número de workers/partes a serem processadas
+        sleep_time (float): Tempo de espera em segundos entre o processamento de cada parte
+    
+    Returns:
+        dict: Resultado consolidado da operação ou None se ocorrer erro
     """
     try:
         # Atualiza status para "em andamento"
+        task_status[task_id] = task_status.get(task_id, {})
         task_status[task_id]["status"] = "em_andamento"
         task_status[task_id]["progress"] = 0
+        task_status[task_id]["start_time"] = datetime.now()
         
-        # Simulando divisão do trabalho em partes (para demonstrar paralelismo)
-        # Na implementação real, você pode dividir por categorias, regiões, etc.
+        # Simulando divisão do trabalho em partes
         parts = [f"parte_{i}" for i in range(workers)]
         total_parts = len(parts)
         results = []
         
+        # Cria diretórios específicos para cada parte
+        part_output_dirs = {part: os.path.join(output_dir, part) for part in parts}
+        for part, part_dir in part_output_dirs.items():
+            os.makedirs(part_dir, exist_ok=True)
+        
+        # Função para processar uma parte específica
         def process_part(part, part_output_dir):
-            """Processa uma parte do trabalho com sleep para não sobrecarregar"""
+            """Processa uma parte do trabalho"""
             logger.info(f"Processando {part}...")
-            # Adiciona pausa para não sobrecarregar
-            time.sleep(sleep_time)
-            
             part_result = run_scraper_task_bg(output_dir=part_output_dir)
             
             return {
@@ -123,40 +136,32 @@ async def process_scraper_async(
                 "result": part_result
             }
         
-        # Usando ThreadPoolExecutor para paralelismo
-        with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
-            # Cria diretórios específicos para cada parte, desta forma evita lock nos arquivos
-            # e permite que cada thread escreva em seu próprio diretório
-            part_output_dirs = {part: os.path.join(output_dir, part) for part in parts}
-            for part, part_dir in part_output_dirs.items():
-                os.makedirs(part_dir, exist_ok=True)
-            
-            # Submete as tarefas para execução paralela
-            futures = {
-                executor.submit(process_part, part, part_dir): part 
-                for part, part_dir in part_output_dirs.items()
-            }
-            
-            # Processa os resultados à medida que são completados
-            completed = 0
-            for future in concurrent.futures.as_completed(futures):
-                part = futures[future]
-                try:
-                    result = future.result()
-                    results.append(result)
-                    logger.info(f"Parte {part} concluída com sucesso")
-                except Exception as e:
-                    logger.error(f"Erro ao processar parte {part}: {str(e)}")
-                    results.append({"part": part, "error": str(e)})
-                
-                # Atualiza o progresso
-                completed += 1
-                progress = (completed / total_parts) * 100
-                task_status[task_id]["progress"] = progress
-                logger.info(f"Progresso: {progress:.1f}%")
+        # Processa cada parte de forma sequencial, com sleep entre elas
+        completed = 0
         
-        # Após o processamento em paralelo, pode ser necessário combinar os resultados
-        # Por exemplo, unir arquivos, consolidar dados, etc.
+        for part in parts:
+            # Aplica sleep entre partes (exceto antes da primeira)
+            if completed > 0:
+                logger.info(f"Aguardando {sleep_time} segundos antes de processar a próxima parte...")
+                time.sleep(sleep_time)
+            
+            # Processa a parte atual
+            part_dir = part_output_dirs[part]
+            try:
+                result = process_part(part, part_dir)
+                results.append(result)
+                logger.info(f"Parte {part} concluída com sucesso")
+            except Exception as e:
+                logger.error(f"Erro ao processar parte {part}: {str(e)}")
+                results.append({"part": part, "error": str(e)})
+            
+            # Atualiza o progresso
+            completed += 1
+            progress = (completed / total_parts) * 100
+            task_status[task_id]["progress"] = progress
+            logger.info(f"Progresso: {progress:.1f}%")
+        
+        # Após o processamento em sequência, combina os resultados
         logger.info("Combinando resultados de todas as partes...")
         
         # Isso pode ser útil para consolidar os resultados parciais
